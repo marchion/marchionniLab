@@ -3,7 +3,19 @@
 
 # marchion's Website
 
-An engaging 1-3 sentence description of your lab.
+I am an Associate Professor of Pathology and Laboratory Medicine at Weill Cornell Medicine, New York, NY, USA.
+
+I am doctor and a computational biologist, and I specifically work on cancer. I apply quantitative approaches 
+to interpret high-dimensional genomic data, understand cancer cell biology, and develop useful clinical tools 
+to improve cancer patients' outcomes.
+
+I am also co-Director of the Center for Computational Genomics at Johns Hopkins, a multi-disciplinary initiative 
+that has been awarded competitive funding from the University leadership to support research and education 
+in the field of Computational Genomics.
+
+**Considerate la vostra semenza: fatti non foste a viver come bruti ma per seguir virtute e canoscenza. **
+
+Ulisse (Divina Commedia, Canto XXVI, Dante Alighieri)
 
 {% include section.html %}
 
