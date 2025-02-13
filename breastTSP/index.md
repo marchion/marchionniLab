@@ -1,7 +1,7 @@
 ---
 title: Breast Cancer
 nav:
-  order: 2
+  order: 4
   tooltip: Cancer transcriptomics, Breast Cancer, Machine learning
 ---
 
