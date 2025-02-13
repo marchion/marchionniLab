@@ -1,7 +1,8 @@
 - title: PPCG
   subtitle: Pan Prostate Cancer Genome
   group: featured
-  image: images/ppcg.png
+  image: images/FANTOM3.jpg
+  image: images/ppcg.jpg
   link: https://panprostate.org/
   description: We aspire to set up a “PAN PROSTATE CANCER GROUP” to harmonise and interrogate Whole Genome DNA Sequence data generated around the world from over 2000 men with prostate cancer, with associated transcriptome and methylome data to include men from different clinical categories, and ethnicities. This project is about providing breakthrough advances through analysis of a very large series of Whole Genome DNA data from prostate cancer contributed by many of the leading scientists and clinicians working in prostate cancer genomics.
   repo: panprostate/panprostate_workflows

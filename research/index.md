@@ -4,7 +4,6 @@ nav:
   order: 1
   tooltip: Published works
 ---
-
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
 There is an abundance of publicly available data about various biological systems, but it can be difficult to draw insight from individual datasets. 
@@ -19,7 +18,6 @@ The citations on this page were generated automatically from just identifiers us
 
 ## Highlighted
 
-{% include citation.html lookup="3911131" style="rich" %}
 {% include citation.html lookup="The cytokine Meteorin-like inhibits anti-tumor CD8." style="rich" %}
 {% include citation.html lookup="Distinct mesenchymal cell states mediate prostate cancer progression." style="rich" %}
 
