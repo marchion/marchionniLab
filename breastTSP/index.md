@@ -5,7 +5,7 @@ nav:
   tooltip: Cancer transcriptomics, Breast Cancer, Machine learning
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Breast Cancer Classification
+# {% include icon.html icon="fa-solid fa-wrench" %} Breast Cancer Classification
 
 Supplementary data for:
 
@@ -20,17 +20,20 @@ Supplementary data for:
 
 {% include section.html %}
 
+
 ## Featured
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="card" data="breasTSP" filter="group == 'featured'" %}
 
 {% include section.html %}
+
 
 ## More
 
 {% include list.html component="card" data="breasTSP" filter="!group" style="small" %}
 
 {% include section.html %}
+
 
 ## Even More
 
