@@ -3,12 +3,12 @@
   tags:
     - cancer
     - immunity
-    - tumor microenvironment
+    - "tumor microenvironment"
 - id: "pubmed:38191471"
   image: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-023-44210-1/MediaObjects/41467_2023_44210_Fig1_HTML.png"
   tags:
     - prostate cancer
-    - tumor microenvironment
+    - "tumor microenvironment"
     - single cell
     - spatial transcriptomics
 - id: "pubmed:36525970"
@@ -36,17 +36,32 @@
 - id: "pubmed:36543879"
 - id: "pubmed:33396819"
 - id: "pubmed:36852282"
+  image: "https://ars.els-cdn.com/content/image/1-s2.0-S2589004223001852-fx1.jpg"
+  tags:
+    - cancer
+    - "tumor heterogeneity"
+    - "statistical method"
 - id: "pubmed:38946967"
 - id: "pubmed:18252678"
 - id: "pubmed:25575134"
 - id: "pubmed:38157646"
 - id: "pubmed:37812042"
 - id: "pubmed:34115745"
+  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1b82/8221796/8fb0565b0a4d/pcbi.1008944.g001.jpg"
+  tags:
+    - cancer
+    - "tumor heterogeneity"
+    - "statistical method"
 - id: "pubmed:18457476"
 - id: "pubmed:33991092"
 - id: "pubmed:34297428"
 - id: "pubmed:26862087"
 - id: "pubmed:29666255"
+  image: "https://www.pnas.org/cms/10.1073/pnas.1721628115/asset/1429c0a2-879a-4178-8867-dcb9cd7f7dd8/assets/graphic/pnas.1721628115fig01.jpeg"
+  tags:
+    - cancer
+    - "tumor heterogeneity"
+    - "statistical method"
 - id: "pubmed:34311724"
 - id: "pubmed:39510141"
 - id: "pubmed:28411178"
