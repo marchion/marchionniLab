@@ -19,8 +19,9 @@ The citations on this page were generated automatically from just identifiers us
 ## Highlighted
 
 {% include citation.html lookup="The cytokine Meteorin-like inhibits anti-tumor CD8" style="rich" %}
-{% include citation.html lookup="Distinct mesenchymal cell states mediate prostate cancer progression." style="rich" %}
-{% include citation.html lookup="32079618" style="rich" %}
+{% include citation.html lookup="Digitizing omics profiles by divergence from a baseline." style="rich" %}
+{% include citation.html lookup="Efficient representations of tumor diversity with paired DNA-RNA aberrations." style="rich" %}
+{% include citation.html lookup="Using biological constraints to improve prediction in precision oncology" style="rich" %}
 
 {% include section.html %}
 
