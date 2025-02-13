@@ -5,6 +5,6 @@
 
   # marchion's Website
 
-  Visit **[marchion.github.io/marchionniLab](https://marchion.github.io/marchionniLab)** 🚀
+  Visit **[marchionnilab.org](http://marchionnilab.org)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
