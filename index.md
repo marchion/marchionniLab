@@ -34,7 +34,7 @@ Millions of cells are dividing every minute in our human body. Normally, this pr
 
 {%
   include feature.html
-  image="images/tumEvol.jpg"
+  image="images/dna.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -58,7 +58,7 @@ Technological advances over the past decades have enabled the development of too
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/digitalPath.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -84,7 +84,7 @@ Medicine is transitioning from treating the “average patient” to seeking to 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/precisionMed.jpg"
   link="team"
   title="Lab members"
   text=text
