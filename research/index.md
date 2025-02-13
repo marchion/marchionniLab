@@ -13,10 +13,14 @@ Doing this allows us to investigate many different biological conditions, includ
 We recognize that our lab won’t have all the answers, or even all of the questions, so we aim to develop tools and processes that any biologist can reuse. 
 Our approach to research prioritizes transparency, rigor, and reproducibility.
 
+The citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) developed by the [Greene Lab](https://greenelab.com/)!
+
 {% include section.html %}
 
 ## Highlighted
 
+{% include citation.html lookup="3911131" style="rich" %}
+{% include citation.html lookup="The cytokine Meteorin-like inhibits anti-tumor CD8." style="rich" %}
 {% include citation.html lookup="Distinct mesenchymal cell states mediate prostate cancer progression." style="rich" %}
 
 {% include section.html %}
@@ -26,8 +30,6 @@ Our approach to research prioritizes transparency, rigor, and reproducibility.
 
 
 ## All
-
-The citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) developed by the [Greene Lab](https://greenelab.com/)!
 
 {% include search-box.html %}
 
