@@ -1,14 +1,18 @@
 ---
-title: Projects
+title: Breast Cancer Classification via k-TSPs
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Cancer transcriptomics, Machine learning
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Breast Cancer Classification
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Supplementary data for:
+
+**"A SIMPLE AND REPRODUCIBLE BREAST CANCER PROGNOSTIC TEST"**
+
+*Luigi Marchionni, Bahman Afsari, Donald Geman, and Jeffrey T. Leek*
+
 
 {% include tags.html tags="publication, resource, website" %}
 
@@ -24,4 +28,4 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## More
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="breasTSP" filter="!group" style="small" %}
