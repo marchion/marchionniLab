@@ -1,8 +1,6 @@
 ---
 title: Breast Cancer
-nav:
-  order: 4
-  tooltip: Cancer transcriptomics, Breast Cancer, Machine learning
+
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %} Breast Cancer Classification
@@ -24,8 +22,9 @@ nav:
 
 {% include section.html %}
 
-Supplementary Material associated with the manuscript;
-"http://astor.som.jhmi.edu/%7Emarchion/breastTSP/Supplement.pdf"
+Supplementary Material associated with the manuscript: 
+
+- [Download the suplement here](http://marchioninilab.org/breastTSP/Supplement.pdf)
 
 
 ## R-Bioconductor packages
@@ -48,6 +47,6 @@ All experimental and software R-Bioconductor packages can be downloaded here
 
 ExpressionSet instances for normalized and summarized gene expression data can be downloaded here:
 
-Download Glas cohort data: "http://astor.som.jhmi.edu/%7Emarchion/breastTSP/glasEset.rda"
+- Download data for the [Glas cohort](https://marchionnilab.org/breastTSP/glasEset.rda)
 
-Download Buyse cohort data: http://astor.som.jhmi.edu/%7Emarchion/breastTSP/buyseEset.rda"
+- Download data for the [Buyse cohort](https://marchionnilab.org/breastTSP/buyseEset.rda)

@@ -3,15 +3,15 @@
 
 <!--- This is the content of the main page of the site --->
 
-# marchion's Website
+# Marchionni Lab Website
 
 I am an Associate Professor of Pathology and Precision Medicine at the Weill Cornell Medical College in New York, USA. I am a doctor and a computational biologist working on cancer. I apply quantitative approaches to interpret high-dimensional genomic data, understand cancer cell biology, and develop useful clinical tools to improve cancer patients' outcomes. 
 My lab aims to improve human health, disease outcomes, and treatments through the development and application of innovative methods to analyze molecular and imaging data.
 I am also the Vice-Chair for Computational and System Pathology.
 Follow my lab on Twitter 
 
-*Considerate la vostra semenza: fatti non foste a viver come bruti ma per seguir virtute e canoscenza.*
 
+**Considerate la vostra semenza: fatti non foste a viver come bruti ma per seguir virtute e canoscenza.**
 *Ulisse (Divina Commedia, Canto XXVI, Dante Alighieri)*
 
 {% include section.html %}
