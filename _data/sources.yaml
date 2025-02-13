@@ -1,23 +1,100 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: pmed: 39111315
+- id: pmed: 38191471
+- id: pmed: 38987117
+- id: pmed: 36525970
+- id: pmed: 38831751
+- id: pmed: 36717286
+- id: pmed: 39294134
+- id: pmed: 38253539
+- id: pmed: 36204675
+- id: pmed: 36282572
+- id: pmed: 38706981
+- id: pmed: 39630608
+- id: pmed: 34618807
+- id: pmed: 32079618
+- id: pmed: 31804462
+- id: pmed: 39272208
+- id: pmed: 39094629
+- id: pmed: 32718982
+- id: pmed: 38862340
+- id: pmed: 36759904
+- id: pmed: 37034687
+- id: pmed: 38284821
+- id: pmed: 35979657
+- id: pmed: 32718981
+- id: pmed: 36852282
+- id: pmed: 38946967
+- id: pmed: 36543879
+- id: pmed: 25575134
+- id: pmed: 33396819
+- id: pmed: 37812042
+- id: pmed: 38157646
+- id: pmed: 18252678
+- id: pmed: 34311724
+- id: pmed: 33991092
+- id: pmed: 34115745
+- id: pmed: 34746025
+- id: pmed: 36752203
+- id: pmed: 36038558
+- id: pmed: 18457476
+- id: pmed: 34297428
+- id: pmed: 26862087
+- id: pmed: 29666255
+- id: pmed: 39510141
+- id: pmed: 28411178
+- id: pmed: 29180467
+- id: pmed: 32607525
+- id: pmed: 37409050
+- id: pmed: 38016949
+- id: pmed: 37964363
+- id: pmed: 33923159
+- id: pmed: 32817372
+- id: pmed: 36122486
+- id: pmed: 34880124
+- id: pmed: 24086345
+- id: pmed: 33819273
+- id: pmed: 37419704
+- id: pmed: 31360735
+- id: pmed: 28038920
+- id: pmed: 30181298
+- id: pmed: 29684357
+- id: pmed: 30655325
+- id: pmed: 28561063
+- id: pmed: 33568675
+- id: pmed: 26062848
+- id: pmed: 37216914
+- id: pmed: 22018358
+- id: pmed: 25354783
+- id: pmed: 26109417
+- id: pmed: 25864518
+- id: pmed: 26542228
+- id: pmed: 24403532
+- id: pmed: 29739972
+- id: pmed: 35634961
+- id: pmed: 34569064
+- id: pmed: 26422827
+- id: pmed: 30339629
+- id: pmed: 22960283
+- id: pmed: 20664052
+- id: pmed: 32366326
+- id: pmed: 37693379
+- id: pmed: 28174896
+- id: pmed: 22585994
+- id: pmed: 21512138
+- id: pmed: 27799525
+- id: pmed: 24486590
+- id: pmed: 21421236
+- id: pmed: 24086249
+- id: pmed: 21703415
+- id: pmed: 22761195
+- id: pmed: 29467463
+- id: pmed: 14707141
+- id: pmed: 32410671
+- id: pmed: 33408119
+- id: pmed: 22527098
+- id: pmed: 23452820
+- id: pmed: 23880963
+- id: pmed: 26374070
+- id: pmed: 29396848
+- id: pmed: 30518628
+- id: pmed: 23161775
