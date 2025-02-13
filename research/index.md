@@ -20,6 +20,7 @@ The citations on this page were generated automatically from just identifiers us
 
 {% include citation.html lookup="The cytokine Meteorin-like inhibits anti-tumor CD8" style="rich" %}
 {% include citation.html lookup="Distinct mesenchymal cell states mediate prostate cancer progression." style="rich" %}
+{% include citation.html lookup="32079618" style="rich" %}
 
 {% include section.html %}
 
