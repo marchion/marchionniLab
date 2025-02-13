@@ -3507,6 +3507,11 @@
   publisher: iScience
   date: '2023-02-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36852282
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2589004223001852-fx1.jpg
+  tags:
+  - cancer
+  - tumor heterogeneity
+  - statistical method
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:38946967
@@ -3640,6 +3645,11 @@
   publisher: PLoS computational biology
   date: '2021-06-11'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34115745
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1b82/8221796/8fb0565b0a4d/pcbi.1008944.g001.jpg
+  tags:
+  - cancer
+  - tumor heterogeneity
+  - statistical method
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:18457476
@@ -3738,6 +3748,11 @@
     of America
   date: '2018-04-16'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29666255
+  image: https://www.pnas.org/cms/10.1073/pnas.1721628115/asset/1429c0a2-879a-4178-8867-dcb9cd7f7dd8/assets/graphic/pnas.1721628115fig01.jpeg
+  tags:
+  - cancer
+  - tumor heterogeneity
+  - statistical method
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:34311724
