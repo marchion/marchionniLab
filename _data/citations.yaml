@@ -2696,9 +2696,9 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/38191471
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-023-44210-1/MediaObjects/41467_2023_44210_Fig1_HTML.png
   tags:
-  - cancer
+  - prostate cancer
   - tumor microenvironment
-  - scRNAseq
+  - single cell
   - spatial transcriptomics
   plugin: sources.py
   file: sources.yaml
