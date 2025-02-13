@@ -1,9 +1,16 @@
 - id: "pubmed:39111315"
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1074761324003522-fx1.jpg
   tags:
-    - Cancer
-    - Immunity
+    - cancer
+    - immunity
+    - tumor microenvironment
 - id: "pubmed:38191471"
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-023-44210-1/MediaObjects/41467_2023_44210_Fig1_HTML.png
+  tags:
+    - cancer
+    - tumor microenvironment
+    - scRNAseq
+    - spatial transcriptomics
 - id: "pubmed:36525970"
 - id: "pubmed:38987117"
 - id: "pubmed:38831751"

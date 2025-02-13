@@ -1,11 +1,11 @@
 - title: PPCG
   subtitle: Pan Prostate Cancer Genome
   group: featured
-  image: images/digitalPath.png
+  image: images/ppcg.png
   link: https://panprostate.org/
   description: We aspire to set up a “PAN PROSTATE CANCER GROUP” to harmonise and interrogate Whole Genome DNA Sequence data generated around the world from over 2000 men with prostate cancer, with associated transcriptome and methylome data to include men from different clinical categories, and ethnicities. This project is about providing breakthrough advances through analysis of a very large series of Whole Genome DNA data from prostate cancer contributed by many of the leading scientists and clinicians working in prostate cancer genomics.
   repo: panprostate/panprostate_workflows
-  tags:
+  tags: cancer genomics
     - resource
 
 - title: FANTOM6
@@ -15,5 +15,15 @@
   link: https://fantom.gsc.riken.jp/6/
   description: FANTOM (Functional ANnoTation Of the Mammalian genome) is a worldwide collaborative project aiming at identifying all functional elements in mammalian genomes. The goal of the sixth edition of the FANTOM project (FANTOM6) is to systematically elucidate the function of long non-coding RNAs (lncRNAs) in the human genome.
   repo: 
-  tags:
+  tags: transcriptomics
+    - resource
+
+- title: PathML
+  subtitle: Suite for digital pathology analysis
+  group: featured
+  image: images/pathML.png
+  link: https://pathml.readthedocs.io/
+  description: PathML is a toolbox to facilitate machine learning workflows for high-resolution whole-slide pathology images. This includes modular pipelines for preprocessing, PyTorch DataLoaders for training and benchmarking machine learning model performance on standardized datasets, support for sharing preprocessing pipelines, pretrained models, and more.
+  repo: Dana-Farber-AIOS/pathml
+  tags: digital pathology
     - resource
