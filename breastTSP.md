@@ -25,7 +25,7 @@ title: Breast Cancer
 Original manuscript: 
 
 - Find the original [manuscript here](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-336)
-- Download the manuscript's [Supplementary Material](http://marchioninilab.org/breastTSP/Supplement.pdf)
+- Download the manuscript's [Supplementary Material](http://marchionnilab.org/breastTSP/Supplement.pdf)
 
 
 ## R-Bioconductor packages
