@@ -2652,6 +2652,10 @@
   publisher: Immunity
   date: '2024-08-06'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39111315
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1074761324003522-fx1.jpg
+  tags:
+  - Cancer
+  - Immunity
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:38191471
