@@ -1,0 +1,15 @@
+- id: arxiv:1806.05726
+  type: paper
+  description: Lorem ipsum _dolor sit amet_.
+  image: https://publisher.com/striking-image-for-your-paper.jpg
+  buttons:
+    - type: source
+      link: https://github.com/your-lab/some-repo
+    - type: website
+      text: My Personal Website
+      link: http://some-website.com/
+  tags:
+    - biology
+    - big data
+    - medicine
+  repo: your-lab/some-repo
