@@ -90,27 +90,3 @@ Medicine is transitioning from treating the “average patient” to seeking to 
   text=text
 %}
 
-{% capture text %}
-
-Other Resources
-
-Here are some more useful resources.
-
-{%
-  include button.html
-  link="resources"
-  text="See our other resources"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/dna.png"
-  link="software"
-  title="Other Resource
-  text=text
-%}
