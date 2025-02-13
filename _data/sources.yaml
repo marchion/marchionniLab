@@ -3,14 +3,14 @@
   tags:
     - cancer
     - immunity
-    - "tumor microenvironment"
+    - TME
 - id: "pubmed:38191471"
   image: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-023-44210-1/MediaObjects/41467_2023_44210_Fig1_HTML.png"
   tags:
     - prostate cancer
-    - "tumor microenvironment"
-    - single cell
-    - spatial transcriptomics
+    - TME
+    - "single cell"
+    - "spatial transcriptomics"
 - id: "pubmed:36525970"
 - id: "pubmed:38987117"
 - id: "pubmed:38831751"
