@@ -1,7 +1,7 @@
 ---
 ---
 
-<--- This is the content of the main page of the site --->
+<!--- This is the content of the main page of the site --->
 
 # marchion's Website
 

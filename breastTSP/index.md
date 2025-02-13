@@ -23,18 +23,18 @@ Supplementary data for:
 
 ## Featured
 
-{% include list.html component="card" data="breasTSP" filter="group == 'featured'" %}
+{% include list.html component="card" data="research" filter="group == 'featured'" %}
 
 {% include section.html %}
 
 
 ## More
 
-{% include list.html component="card" data="breasTSP" filter="!group" style="small" %}
+{% include list.html component="card" data="research" filter="!group" style="small" %}
 
 {% include section.html %}
 
 
 ## Even More
 
-{% include list.html component="card" data="breasTSP" filter="!group" style="small" %}
+{% include list.html component="card" data="research" filter="!group" style="small" %}
