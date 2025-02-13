@@ -1,8 +1,8 @@
 ---
-title: Breast Cancer Classification via k-TSPs
+title: Breast Cancer
 nav:
   order: 2
-  tooltip: Cancer transcriptomics, Machine learning
+  tooltip: Cancer transcriptomics, Breast Cancer, Machine learning
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Breast Cancer Classification
@@ -14,7 +14,7 @@ Supplementary data for:
 *Luigi Marchionni, Bahman Afsari, Donald Geman, and Jeffrey T. Leek*
 
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="publication, resource, machine learning" %}
 
 {% include search-info.html %}
 
@@ -27,5 +27,11 @@ Supplementary data for:
 {% include section.html %}
 
 ## More
+
+{% include list.html component="card" data="breasTSP" filter="!group" style="small" %}
+
+{% include section.html %}
+
+## Even More
 
 {% include list.html component="card" data="breasTSP" filter="!group" style="small" %}
