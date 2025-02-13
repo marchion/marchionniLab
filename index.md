@@ -34,7 +34,7 @@ Millions of cells are dividing every minute in our human body. Normally, this pr
 
 {%
   include feature.html
-  image="images/dna.png"
+  image="images/FANTOM3.jpg"
   link="research"
   title="Our Research"
   text=text
