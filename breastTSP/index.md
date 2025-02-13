@@ -7,7 +7,7 @@ title: Breast Cancer
 
 **Supplementary data for: "A SIMPLE AND REPRODUCIBLE BREAST CANCER PROGNOSTIC TEST"**
 
-*Luigi Marchionni, Bahman Afsari, Donald Geman, and Jeffrey T. Leek*
+**Luigi Marchionni, Bahman Afsari, Donald Geman, and Jeffrey T. Leek**
 
 
 {% include tags.html tags="publication, resource, machine learning" %}
@@ -22,9 +22,10 @@ title: Breast Cancer
 
 {% include section.html %}
 
-Supplementary Material associated with the manuscript: 
+Original manuscript: 
 
-- [Download the suplement here](http://marchioninilab.org/breastTSP/Supplement.pdf)
+- Find the original [manuscript here](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-336)
+- Download the manuscript's [Supplementary Material](http://marchioninilab.org/breastTSP/Supplement.pdf)
 
 
 ## R-Bioconductor packages
@@ -33,7 +34,7 @@ Supplementary Material associated with the manuscript:
 
 {% include section.html %}
 
-All experimental and software R-Bioconductor packages can be downloaded here
+All experimental and software R-Bioconductor packages can be downloaded here:
 
 1. [seventyGeneData](https://bioconductor.org/packages/release/data/experiment/html/seventyGeneData.html)
 2. [mammaPrintData](https://bioconductor.org/packages/release/data/experiment/html/mammaPrintData.html)
@@ -48,5 +49,4 @@ All experimental and software R-Bioconductor packages can be downloaded here
 ExpressionSet instances for normalized and summarized gene expression data can be downloaded here:
 
 - Download data for the [Glas cohort](https://marchionnilab.org/breastTSP/glasEset.rda)
-
 - Download data for the [Buyse cohort](https://marchionnilab.org/breastTSP/buyseEset.rda)
