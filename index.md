@@ -1,6 +1,8 @@
 ---
 ---
 
+<--- This is the content of the main page of the site --->
+
 # marchion's Website
 
 I am an Associate Professor of Pathology and Precision Medicine at the Weill Cornell Medical College in New York, USA. I am a doctor and a computational biologist working on cancer. I apply quantitative approaches to interpret high-dimensional genomic data, understand cancer cell biology, and develop useful clinical tools to improve cancer patients' outcomes. 
@@ -18,6 +20,7 @@ Follow my lab on Twitter
 
 {% capture text %}
 
+### Cancer Genomics
 **Cancer Genomics and Computation Biology.**
 Millions of cells are dividing every minute in our human body. Normally, this process is well coordinated and cell divisions are followed by ordered patterning and cell specialization, allowing the maintenance of tissues and organs internal equilibrium (homeostasis). Cancer can be regarded as a deviation from this balanced behavior: a single cell, that has undergone mutations in its DNA, instead of maturing and dying normally reproduces without restraint. This is usually accomplished by incessant rather than faster dividing and it gives rise to a progeny that usually fails to mature. In this perspective it is clear that cancer is a very complex disease, involving not only cancerous cells, but also surrounding and distant normal cells, which engage an infinite number of complex interactions. Thus the effort of unraveling such a complexity by using genomic approaches is the focus of my laboratory. 
 
