@@ -9,7 +9,8 @@ I am also the Vice-Chair for Computational and System Pathology.
 Follow my lab on Twitter 
 
 *Considerate la vostra semenza: fatti non foste a viver come bruti ma per seguir virtute e canoscenza.*
-Ulisse (Divina Commedia, Canto XXVI, Dante Alighieri)
+
+*Ulisse (Divina Commedia, Canto XXVI, Dante Alighieri)*
 
 {% include section.html %}
 
@@ -73,7 +74,7 @@ Medicine is transitioning from treating the “average patient” to seeking to 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet the team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -85,6 +86,6 @@ Medicine is transitioning from treating the “average patient” to seeking to 
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Lab members"
   text=text
 %}
