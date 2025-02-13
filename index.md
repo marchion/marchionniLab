@@ -8,8 +8,7 @@ My lab aims to improve human health, disease outcomes, and treatments through th
 I am also the Vice-Chair for Computational and System Pathology.
 Follow my lab on Twitter 
 
-**Considerate la vostra semenza: fatti non foste a viver come bruti ma per seguir virtute e canoscenza. **
-
+*Considerate la vostra semenza: fatti non foste a viver come bruti ma per seguir virtute e canoscenza.*
 Ulisse (Divina Commedia, Canto XXVI, Dante Alighieri)
 
 {% include section.html %}
