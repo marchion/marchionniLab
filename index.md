@@ -42,7 +42,7 @@ but also surrounding and distant normal cells, which engage in a network of comp
 
 {%
   include feature.html
-  image="images/cancer.jpg"
+  image="images/cancerCells.jpg"
   link="research"
   title="Our publications"
   text=text
