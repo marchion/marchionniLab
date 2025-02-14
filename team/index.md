@@ -13,7 +13,7 @@ Please meet our team of exceptional scientists
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 {% include list.html data="members" component="portrait" filter="group == 'alum'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
@@ -26,7 +26,7 @@ Former lab members
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
+{% include list.html data="members" component="portrait" filter="group == 'former'" %}
 {% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
