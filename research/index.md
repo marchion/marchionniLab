@@ -25,7 +25,8 @@ The citations on this page were generated automatically from just identifiers us
 
 {% include section.html %}
 
-{% include button.html icon="fa-solid fa-book-open" text="More on PubMed" link="https://pubmed.ncbi.nlm.nih.gov/?term=luigi%20s%20marchionni" %}
+{% include button.html icon="fa-solid fa-book-open" text="More on PubMed" link="https://pubmed.ncbi.nlm.nih.gov/?term=luigi%20marchionni" %}
+
 {% include button.html icon="fa-brands fa-google" text="More on Google Scholar" link="http://scholar.google.com/citations?hl=en&user=kGqPMb0AAAAJ" %}
 
 
