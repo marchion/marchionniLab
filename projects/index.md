@@ -13,14 +13,14 @@ Ed ecco i progetti a cui stiamo lavorando
 
 {% include search-info.html %}
 
-{% include section.html background="images/researchDNA.jpg" dark=true %}
+{% include section.html background="images/researchDNA.jpg" dark=false %}
 
 ## Collaborative projects focusing on cancer biology
 
 {% include list.html component="card" data="projects" filter="group == 'biology'" %}
 
 
-{% include section.html background="images/researchDNA.jpg" dark=true %}
+{% include section.html background="images/researchDNA.jpg" dark=false %}
 
 ## Collaborative projects focusing on computational tools
 

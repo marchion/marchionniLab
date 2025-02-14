@@ -14,7 +14,7 @@ of robust quantitative tools to analyze the molecula and cellular interaction dr
 
 ***Ulisse (Divina Commedia, Canto XXVI, Dante Alighieri)***
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/background.jpg" dark=false %}
 
 ## Our research interests
 

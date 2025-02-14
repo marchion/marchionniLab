@@ -28,7 +28,7 @@ Here is how you get in contact with us:
   link="https://maps.app.goo.gl/V4UXJtpFx6Sh6n8Q6"
 %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/researchDNA.jpg" dark=true %}
 
 
 {% capture col1 %}
