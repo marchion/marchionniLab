@@ -16,7 +16,7 @@ Please meet our current team members.
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role != 'collabotor'" %}
 
 
 {% include section.html background="images/background.jpg" dark=true %}
