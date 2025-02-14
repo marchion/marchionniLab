@@ -90,7 +90,7 @@ Medicine is transitioning from treating the “average patient” to seeking to 
   include button.html
   link="team"
   text="Meet the team"
-edits  icon="fa-solid fa-arrow-right"
+  icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
