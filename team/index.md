@@ -7,23 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-{% include section.html background="images/background.jpg" dark=true %}
-
 ## Current team members 
 
 Please meet our current team members.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and group != 'alum'" %}
-
-<!--- 
-{% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and group != 'alum'" %}
---->
-<!---
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and group == 'alum'" %} 
---->
-
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -50,5 +40,3 @@ Meet Dr. Claudio Zanettini
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
-
-
