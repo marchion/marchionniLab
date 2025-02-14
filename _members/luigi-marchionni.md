@@ -1,8 +1,9 @@
 ---
 name: Luigi Marchionni
 image: images/Luigi.png
-description: Lead Scientist
 role: principal-investigator
+group: pi
+description: Lead Scientist
 affiliation: Weill Cornell Medicine
 aliases:
   - Luigi Marchionni

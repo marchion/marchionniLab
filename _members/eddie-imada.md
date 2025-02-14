@@ -1,8 +1,9 @@
 ---
 name: Eddie Luidy Imda
 image: images/Eddie.jpg
+role: collaborator
+group: alumn
 description: Lead programmer and RNA expert
-role: alumn
 affiliation: Weill Cornell Medicine
 aliases:
   - E. Imada

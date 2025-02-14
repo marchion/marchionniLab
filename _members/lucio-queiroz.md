@@ -1,8 +1,9 @@
 ---
-name: Lúcio Rezende Queiroz
+name: Lucio Rezende Queiroz
 image: images/Lucio.jpg
-description: Lead programmer and RNA expert
 role: phd
+group: alum
+description: Lead programmer and RNA expert
 affiliation: Weill Cornell Medicine
 aliases:
   - Lucio Rezende Queiroz
