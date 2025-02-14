@@ -17,6 +17,10 @@ Please meet our current team members.
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and group != 'alum'" %}
 
+<!--- 
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and group != 'alum'" %}
+--->
+
 <!---
 {% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and group == 'alum'" %} 
 --->
