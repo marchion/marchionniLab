@@ -2,7 +2,7 @@
 name: Mohamed Omar
 image: images/Omar.png
 description: Digital pathology expert
-role: principal-investigator
+role: programmer
 affiliation: Cedar Sinai
 aliases:
   - M. Omar

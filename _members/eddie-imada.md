@@ -2,7 +2,7 @@
 name: Eddie Luidy Imda
 image: images/Eddie.jpg
 description: Lead programmer and RNA expert
-role: principal-investigator
+role: programmer
 affiliation: Weill Cornell Medicine
 aliases:
   - E. Imada

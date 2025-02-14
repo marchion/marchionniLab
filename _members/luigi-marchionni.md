@@ -4,7 +4,6 @@ image: images/Luigi.png
 description: Lead Scientist
 role: principal-investigator
 affiliation: Weill Cornell Medicine
-
 aliases:
   - Luigi Marchionni
   - L. Marchionni
