@@ -14,7 +14,7 @@ links:
   orcid: 0000-0002-3035-4403
   email: lrq4001@med.cornell.edu
   google-scholar: zS8cuNUAAAAJ
-  twitter: @luciorqueiroz
+  twitter: luciorqueiroz
   github: luciorq
 ---
 

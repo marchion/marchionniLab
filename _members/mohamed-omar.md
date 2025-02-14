@@ -11,7 +11,7 @@ affiliation: Cedar Sinai
 links:
   home-page: https://researchers.cedars-sinai.edu/Mohamed.Omar
   orcid: 00000000-0002-8068-1920
-  twitter: @MohamedOmarMD
+  twitter: MohamedOmarMD
   google-scholar: iHJ6TzcAAAAJ
   github: MohamedOmar2020
 ---
