@@ -1,18 +1,17 @@
 ---
 ---
 
+# Marchionni Lab
+
 <!--- This is the content of the main page of the site --->
-
-# Marchionni Lab Website
-
-I am an Associate Professor of Pathology and Precision Medicine at the Weill Cornell Medical College in New York, USA. I am a doctor and a computational biologist working on cancer. I apply quantitative approaches to interpret high-dimensional genomic data, understand cancer cell biology, and develop useful clinical tools to improve cancer patients' outcomes. 
-My lab aims to improve human health, disease outcomes, and treatments through the development and application of innovative methods to analyze molecular and imaging data.
-I am also the Vice-Chair for Computational and System Pathology.
-Follow my lab on Twitter 
-
+The Marchionni Lab uses quantitative methods to anlyze and interpret high-dimensional data,
+understand cancer cell biology, and develop useful clinical tools to improve cancer patients' outcomes.
+My lab aims to improve human health, disease outcomes, and treatments through the development and 
 
 ***Considerate la vostra semenza: fatti non foste a viver come bruti ma per seguir virtute e canoscenza***
 ***Ulisse (Divina Commedia, Canto XXVI, Dante Alighieri)***
+
+***Add picture here***
 
 {% include section.html %}
 
@@ -22,7 +21,13 @@ Follow my lab on Twitter
 
 ### Cancer Genomics
 **Cancer Genomics and Computation Biology.**
-Millions of cells are dividing every minute in our human body. Normally, this process is well coordinated and cell divisions are followed by ordered patterning and cell specialization, allowing the maintenance of tissues and organs internal equilibrium (homeostasis). Cancer can be regarded as a deviation from this balanced behavior: a single cell, that has undergone mutations in its DNA, instead of maturing and dying normally reproduces without restraint. This is usually accomplished by incessant rather than faster dividing and it gives rise to a progeny that usually fails to mature. In this perspective it is clear that cancer is a very complex disease, involving not only cancerous cells, but also surrounding and distant normal cells, which engage an infinite number of complex interactions. Thus the effort of unraveling such a complexity by using genomic approaches is the focus of my laboratory. 
+Millions of cells are dividing every day in our human body. 
+This process is well coordinated and cell divisions are followed by cell specialization,
+allowing the internal maintenance of tissues and organs (homeostasis). 
+Cancer is a deviation from such state of balance: a cell that has undergone mutations in its DNA, 
+instead of maturing and dying normally, reproduces without restraint, giving rise to a progeny that also fails to mature. 
+As a result, cancer is a very complex disease, that involves not only cancerous cells, 
+but also surrounding and distant normal cells, which engage in a network of complex interactions. 
 
 {%
   include button.html
@@ -39,14 +44,21 @@ Millions of cells are dividing every minute in our human body. Normally, this pr
   include feature.html
   image="images/FANTOM3.jpg"
   link="research"
-  title="Our Research"
+  title="Our publications"
   text=text
 %}
 
 {% capture text %}
 
 **Digital Pathology.**
-Technological advances over the past decades have enabled the development of tools, systems, and infrastructure for the massive and parallel digitization of pathology slides with the associated meta‐data, their storage, review, and analysis. At the same time, advances in algorithmics, statistics, mathematics, and computer science have provided the tools for the extraction and analysis of quantifiable information from these images. This has created unprecedented opportunities for the systematic and quantitative analysis of images routinely generated in pathology departments around the world. The adoption of Artificial Intelligence (AI), Machine Learning (ML) – including more data and computation intensive approaches like Deep Learning (DL) – holds the promise to project pathology in the next millennium.
+It is now possible to digitize and store large archives of histopaholoy slides.
+At the same time, thanks to advances in algorithmics, statistics, mathematics, and computer science 
+it is also possible to extract and analyze quantifiable information from such images. 
+We, like others, are trying to exploit this unprecedented opportunity for 
+the the systematic and quantitative analysis of images routinely generated in pathology departments around the world. 
+The adoption of Artificial Intelligence (AI), Machine Learning (ML) 
+– including more data and computation intensive approaches like Deep Learning (DL) – 
+holds the promise to project pathology in the next millennium.
 
 {%
   include button.html
