@@ -17,13 +17,13 @@ Ed ecco i progetti a cui stiamo lavorando
 
 ## Collaborative projects focusing on cancer biology
 
-{% include list.html component="card" data="projects" filter="group == 'collaborative' and tags == 'biology'" %}
+{% include list.html component="card" data="projects" filter="group == 'biology'" %}
 
 
 {% include section.html background="images/background.jpg" dark=true %}
 
 ## Collaborative projects focusing on computational tools
 
-{% include list.html component="card" data="projects" filter="group == 'collaborative' and tags == 'bioinformatics'" %}
+{% include list.html component="card" data="projects" filter="group == 'bioinformatics'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
