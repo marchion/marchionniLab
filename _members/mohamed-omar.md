@@ -2,7 +2,7 @@
 name: Mohamed Omar
 image: images/Omar.png
 description: Digital pathology expert
-role: collaborator
+role: alumn
 affiliation: Cedar Sinai
 aliases:
   - M. Omar
