@@ -9,24 +9,24 @@ nav:
 
 Ed ecco i progetti a cui stiamo lavorando
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="biology, bioinformatics, cancer" %}
 
 {% include search-info.html %}
 
-{% include section.html %}
+{% include section.html background="images/background.jpg" dark=true %}
 
-## Collaborative projects
+## Collaborative projects focusing on cancer biology
 
-{% include list.html component="card" data="projects" filter="group == 'biology'" %}
+{% include list.html component="card" data="projects" filter="group == 'collaborative' and tags=='biology'" %}
 
-{% include section.html %}
+{% include section.html background="images/background.jpg" dark=true %}
 
-## Other  projects
+## Collaborative projects focusing on computational tools
 
-{% include list.html component="card" data="projects" filter="group == 'bioinf'" %}
+{% include list.html component="card" data="projects" filter="group == 'collaborative' and tags=='bioinformatics'" %}
 
-{% include section.html %}
+{% include section.html background="images/background.jpg" dark=true %}
 
 ## More
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" filter="group" style="small" %}

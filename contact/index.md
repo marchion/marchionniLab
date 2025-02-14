@@ -28,14 +28,15 @@ Here is how you get in contact with us:
   link="https://maps.app.goo.gl/V4UXJtpFx6Sh6n8Q6"
 %}
 
-{% include section.html %}
+{% include section.html background="images/background.jpg" dark=true %}
+
 
 {% capture col1 %}
 
 {%
   include figure.html
   image="images/RNA.jpg"
-  caption="Lorem ipsum"
+  caption="RNA world"
 %}
 
 {% endcapture %}
@@ -45,7 +46,7 @@ Here is how you get in contact with us:
 {%
   include figure.html
   image="images/DNA.jpg"
-  caption="Lorem ipsum"
+  caption="DNA and cells"
 %}
 
 {% endcapture %}
@@ -55,15 +56,12 @@ Here is how you get in contact with us:
 {% include section.html dark=true %}
 
 {% capture col1 %}
-https://www.ncbi.nlm.nih.gov
 {% endcapture %}
 
 {% capture col2 %}
-https://genome.ucsc.edu/index.html
 {% endcapture %}
 
 {% capture col3 %}
-https://www.cbioportal.org
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
