@@ -1,6 +1,6 @@
 - title: PPCG
   subtitle: Pan Prostate Cancer Genome
-  group: featured
+  group: biology
   image: images/FANTOM3.jpg
   image: images/projects/ppcg.jpg
   link: https://panprostate.org/
@@ -12,8 +12,8 @@
 
 - title: FANTOM6
   subtitle: Mammalian genomes
-  group: featured
-  image: images/projects/FANTOM.jpg
+  group: biology
+  image: images/projects/FANTOM.png
   link: https://fantom.gsc.riken.jp/6/
   description: FANTOM (Functional ANnoTation Of the Mammalian genome) is a worldwide collaborative project aiming at identifying all functional elements in mammalian genomes. The goal of the sixth edition of the FANTOM project (FANTOM6) is to systematically elucidate the function of long non-coding RNAs (lncRNAs) in the human genome.
   repo: 
@@ -23,7 +23,7 @@
 
 - title: PathML
   subtitle: Suite for digital pathology analysis
-  group: featured
+  group: bioinf
   image: images/projects/pathML.png
   link: https://pathml.readthedocs.io/
   description: PathML is a toolbox to facilitate machine learning workflows for high-resolution whole-slide pathology images. This includes modular pipelines for preprocessing, PyTorch DataLoaders for training and benchmarking machine learning model performance on standardized datasets, support for sharing preprocessing pipelines, pretrained models, and more.
@@ -36,7 +36,7 @@
 
 - title: MechPred
   subtitle: Developing mechanistic classifiers
-  group: featured
+  group: biology
   image: images/projects/mechPred.jpg
   description: We are working to develop algorithm that capture some biology underlying cancer development and progression. 
   tags:

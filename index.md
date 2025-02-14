@@ -7,9 +7,11 @@ title: Surfing our genomes
 <!--- This is the content of the main page of the site --->
 The Marchionni Lab uses quantitative methods to anlyze and interpret high-dimensional data,
 understand cancer cell biology, and develop useful clinical tools to improve cancer patients' outcomes.
-My lab aims to improve human health, disease outcomes, and treatments through the development and 
+Our final goal is to improve human health, disease outcomes, and treatments through the development
+of robust quantitative tools to analyze the molecula and cellular interaction driving cancer.
 
 ***Considerate la vostra semenza: fatti non foste a viver come bruti ma per seguir virtute e canoscenza***
+
 ***Ulisse (Divina Commedia, Canto XXVI, Dante Alighieri)***
 
 ***Add picture here***

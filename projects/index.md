@@ -15,9 +15,15 @@ Ed ecco i progetti a cui stiamo lavorando
 
 {% include section.html %}
 
-## Featured
+## Collaborative projects
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="card" data="projects" filter="group == 'biology'" %}
+
+{% include section.html %}
+
+## Other  projects
+
+{% include list.html component="card" data="projects" filter="group == 'bioinf'" %}
 
 {% include section.html %}
 
