@@ -2,7 +2,7 @@
   subtitle: Pan Prostate Cancer Genome
   group: featured
   image: images/FANTOM3.jpg
-  image: images/ppcg.jpg
+  image: images/projects/ppcg.jpg
   link: https://panprostate.org/
   description: We aspire to set up a “PAN PROSTATE CANCER GROUP” to harmonise and interrogate Whole Genome DNA Sequence data generated around the world from over 2000 men with prostate cancer, with associated transcriptome and methylome data to include men from different clinical categories, and ethnicities. This project is about providing breakthrough advances through analysis of a very large series of Whole Genome DNA data from prostate cancer contributed by many of the leading scientists and clinicians working in prostate cancer genomics.
   repo: panprostate/panprostate_workflows
@@ -13,7 +13,7 @@
 - title: FANTOM6
   subtitle: Mammalian genomes
   group: featured
-  image: images/FANTOM3.jpg
+  image: images/projects/FANTOM.jpg
   link: https://fantom.gsc.riken.jp/6/
   description: FANTOM (Functional ANnoTation Of the Mammalian genome) is a worldwide collaborative project aiming at identifying all functional elements in mammalian genomes. The goal of the sixth edition of the FANTOM project (FANTOM6) is to systematically elucidate the function of long non-coding RNAs (lncRNAs) in the human genome.
   repo: 
@@ -24,7 +24,7 @@
 - title: PathML
   subtitle: Suite for digital pathology analysis
   group: featured
-  image: images/pathML.png
+  image: images/projects/pathML.png
   link: https://pathml.readthedocs.io/
   description: PathML is a toolbox to facilitate machine learning workflows for high-resolution whole-slide pathology images. This includes modular pipelines for preprocessing, PyTorch DataLoaders for training and benchmarking machine learning model performance on standardized datasets, support for sharing preprocessing pipelines, pretrained models, and more.
   repo: Dana-Farber-AIOS/pathml
@@ -33,3 +33,14 @@
     - resource
     - collaboration
     - dfci
+
+- title: MechPred
+  subtitle: Developing mechanistic classifiers
+  group: featured
+  image: images/projects/mechPred.jpg
+  description: We are working to develop algorithm that capture some biology underlying cancer development and progression. 
+  tags:
+    - "machine learning"
+    - algorithm
+    - collaboration
+    - jhu
