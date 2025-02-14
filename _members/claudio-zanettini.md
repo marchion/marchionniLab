@@ -4,7 +4,7 @@ aliases:
   - C Zanettini
   - C. Zanettini
   - Claudio Zanettini
-image: images/team/Claudio.png
+image: images/team/Claudio2.png
 role: collaborator
 group: former
 description: Staff Scientist
