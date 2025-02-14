@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
+{% include section.html background="images/background.jpg" dark=true %}
+
 ## Current team members 
 
 Please meet our team of exceptional scientists

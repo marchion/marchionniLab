@@ -1,11 +1,12 @@
 ---
 name: Claudio Zanettini
 aliases:
-  - Claudio Zanettini
   - C Zanettini
   - C. Zanettini
+  - Claudio Zanettini
 image: images/team/Claudio.png
-role: former
+role: collaborator
+group: former
 description: Staff Scientist
 affiliation: FDA
 links:
