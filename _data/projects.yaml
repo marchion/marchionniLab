@@ -1,6 +1,6 @@
 - title: PPCG
   subtitle: Pan Prostate Cancer Genome
-  group: collaborative
+  group: collab
   image: images/projects/ppcg.jpg
   link: https://panprostate.org/
   description: We aspire to set up a “PAN PROSTATE CANCER GROUP” to harmonise and interrogate Whole Genome DNA Sequence data generated around the world from over 2000 men with prostate cancer, with associated transcriptome and methylome data to include men from different clinical categories, and ethnicities. This project is about providing breakthrough advances through analysis of a very large series of Whole Genome DNA data from prostate cancer contributed by many of the leading scientists and clinicians working in prostate cancer genomics.
@@ -14,7 +14,7 @@
 
 - title: FANTOM6
   subtitle: Mammalian genomes
-  group: collaborative
+  group: collab
   image: images/projects/FANTOM.png
   link: https://fantom.gsc.riken.jp/6/
   description: FANTOM (Functional ANnoTation Of the Mammalian genome) is a worldwide collaborative project aiming at identifying all functional elements in mammalian genomes. The goal of the sixth edition of the FANTOM project (FANTOM6) is to systematically elucidate the function of long non-coding RNAs (lncRNAs) in the human genome.
@@ -26,7 +26,7 @@
 
 - title: PathML
   subtitle: Suite for digital pathology analysis
-  group: collaborative
+  group: collab
   image: images/projects/pathML.png
   link: https://pathml.readthedocs.io/
   description: PathML is a toolbox to facilitate machine learning workflows for high-resolution whole-slide pathology images. This includes modular pipelines for preprocessing, PyTorch DataLoaders for training and benchmarking machine learning model performance on standardized datasets, support for sharing preprocessing pipelines, pretrained models, and more.
@@ -35,17 +35,15 @@
     - "digital pathology"
     - resource
     - method
-    - collaboration
     
 - title: MechPred
   subtitle: Developing mechanistic classifiers
-  group: collaborative
+  group: collab
   image: images/projects/mechPred.jpg
   description: We are working to develop algorithm that capture some biology underlying cancer development and progression. 
   tags:
     - "machine learning"
     - algorithm
-    - collaboration
     - genomics
     - transcriptomics
     - biostatistics
