@@ -21,7 +21,6 @@
   date: '2025-01-16'
   link: https://doi.org/g84z9v
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2024.08.30.24312735
@@ -41,7 +40,6 @@
   date: '2024-08-31'
   link: https://doi.org/g84z9w
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s44287-023-00012-7
@@ -58,7 +56,6 @@
   date: '2024-02-09'
   link: https://doi.org/g84z9x
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.c.6983057
@@ -81,7 +78,6 @@
   date: '2023-12-15'
   link: https://doi.org/g84z9z
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.c.6983057.v1
@@ -104,7 +100,6 @@
   date: '2023-12-15'
   link: https://doi.org/g84z92
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.24833362.v1
@@ -127,7 +122,6 @@
   date: '2023-12-15'
   link: https://doi.org/g84z93
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.24833362
@@ -150,7 +144,6 @@
   date: '2023-12-15'
   link: https://doi.org/g84z94
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.24833359.v1
@@ -173,7 +166,6 @@
   date: '2023-12-15'
   link: https://doi.org/g84z95
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.24833359
@@ -196,7 +188,6 @@
   date: '2023-12-15'
   link: https://doi.org/g84z96
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.24833356.v1
@@ -219,7 +210,6 @@
   date: '2023-12-15'
   link: https://doi.org/g84z97
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.24833356
@@ -242,7 +232,6 @@
   date: '2023-12-15'
   link: https://doi.org/g84z98
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.24833353.v1
@@ -265,7 +254,6 @@
   date: '2023-12-15'
   link: https://doi.org/g84z99
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.24833353
@@ -288,7 +276,6 @@
   date: '2023-12-15'
   link: https://doi.org/g842bb
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.24833350
@@ -311,7 +298,6 @@
   date: '2023-12-15'
   link: https://doi.org/g842bc
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.24833350.v1
@@ -334,7 +320,6 @@
   date: '2023-12-15'
   link: https://doi.org/g842bd
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.08.28.555119
@@ -353,7 +338,6 @@
   date: '2023-08-29'
   link: https://doi.org/g842bf
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.c.6540496.v1
@@ -377,7 +361,6 @@
   date: '2023-04-03'
   link: https://doi.org/g842bg
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.c.6540496
@@ -401,7 +384,6 @@
   date: '2023-04-03'
   link: https://doi.org/g842bh
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.c.6540367.v1
@@ -422,7 +404,6 @@
   date: '2023-04-03'
   link: https://doi.org/g842bj
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.c.6540367
@@ -443,7 +424,6 @@
   date: '2023-04-03'
   link: https://doi.org/g842bk
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.22513348.v1
@@ -468,7 +448,6 @@
   date: '2023-04-03'
   link: https://doi.org/g842bm
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.22513348
@@ -493,7 +472,6 @@
   date: '2023-04-03'
   link: https://doi.org/g842bn
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.22512904
@@ -515,7 +493,6 @@
   date: '2023-04-03'
   link: https://doi.org/g842bp
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.22512904.v1
@@ -537,7 +514,6 @@
   date: '2023-04-03'
   link: https://doi.org/g842bq
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.c.6512485.v1
@@ -560,7 +536,6 @@
   date: '2023-03-31'
   link: https://doi.org/g842br
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.c.6512485
@@ -583,7 +558,6 @@
   date: '2023-03-31'
   link: https://doi.org/g842bs
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.22426882
@@ -606,7 +580,6 @@
   date: '2023-03-31'
   link: https://doi.org/g842bt
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.22426882.v1
@@ -629,7 +602,6 @@
   date: '2023-03-31'
   link: https://doi.org/g842bv
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.isci.2023.106108
@@ -648,7 +620,6 @@
   date: '2023-03-01'
   link: https://doi.org/g842bx
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/ajt.17174
@@ -673,7 +644,6 @@
   date: '2022-12-01'
   link: https://doi.org/g842bz
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2022.11.18.517111
@@ -694,7 +664,6 @@
   date: '2022-11-20'
   link: https://doi.org/g842b2
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2022.09.20.508244
@@ -714,7 +683,6 @@
   date: '2022-09-22'
   link: https://doi.org/gszj9w
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41523-022-00474-2
@@ -730,7 +698,6 @@
   date: '2022-08-29'
   link: https://doi.org/g842b3
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2022.03.14.484280
@@ -744,7 +711,6 @@
   date: '2022-03-16'
   link: https://doi.org/g842b4
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.MCR-21-0665
@@ -767,7 +733,6 @@
   date: '2021-12-08'
   link: https://doi.org/gq5bc7
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2021.10.21.465212
@@ -790,7 +755,6 @@
   date: '2021-10-24'
   link: https://doi.org/g842b5
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2021.09.12.459931
@@ -807,7 +771,6 @@
   date: '2021-09-15'
   link: https://doi.org/g842b6
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2021.08.25.457574
@@ -830,7 +793,6 @@
   date: '2021-08-27'
   link: https://doi.org/g842b7
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1008944
@@ -845,7 +807,6 @@
   date: '2021-06-11'
   link: https://doi.org/gkkgtj
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2021.05.25.445604
@@ -864,7 +825,6 @@
   date: '2021-05-27'
   link: https://doi.org/gkcc43
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0249002
@@ -878,7 +838,6 @@
   date: '2021-04-05'
   link: https://doi.org/grmp4r
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/vaccines9050427
@@ -895,7 +854,6 @@
   date: '2021-04-24'
   link: https://doi.org/gmxbqc
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-20-1780
@@ -918,7 +876,6 @@
   date: '2021-02-15'
   link: https://doi.org/gpcjkm
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.06.24.20129817
@@ -935,7 +892,6 @@
   date: '2020-06-26'
   link: https://doi.org/gg8ms2
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.04.24.060129
@@ -950,7 +906,6 @@
   date: '2020-04-25'
   link: https://doi.org/g842b8
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/720391
@@ -964,7 +919,6 @@
   date: '2019-08-13'
   link: https://doi.org/gf6j89
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.MCR-18-0367
@@ -988,7 +942,6 @@
   date: '2019-04-01'
   link: https://doi.org/gjr547
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1541-7786.MCR-18-0837
@@ -1009,7 +962,6 @@
   date: '2019-02-01'
   link: https://doi.org/gp6z68
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/ijc.31290
@@ -1027,7 +979,6 @@
   date: '2018-02-14'
   link: https://doi.org/gdjfxg
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41467-017-02696-6
@@ -1054,7 +1005,6 @@
   date: '2018-02-21'
   link: https://doi.org/gks6z3
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-17-0836
@@ -1076,7 +1026,6 @@
   date: '2018-01-01'
   link: https://doi.org/gcs3tp
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.schres.2016.12.017
@@ -1099,7 +1048,6 @@
   date: '2017-07-01'
   link: https://doi.org/gbkg46
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1078-0432.CCR-16-0709
@@ -1122,7 +1070,6 @@
   date: '2017-01-01'
   link: https://doi.org/gq74wf
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.18632/oncotarget.20677
@@ -1156,7 +1103,6 @@
   date: '2017-09-07'
   link: https://doi.org/gmkgw5
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.humpath.2017.03.011
@@ -1177,7 +1123,6 @@
   date: '2017-09-01'
   link: https://doi.org/g5xrfz
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.humpath.2017.06.021
@@ -1192,7 +1137,6 @@
   date: '2017-10-01'
   link: https://doi.org/g842b9
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/bioinformatics/btx058
@@ -1219,7 +1163,6 @@
   date: '2017-02-08'
   link: https://doi.org/f97jx5
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.18632/oncotarget.22115
@@ -1250,7 +1193,6 @@
   date: '2017-10-26'
   link: https://doi.org/gcrb54
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/ncomms15107
@@ -1277,7 +1219,6 @@
   date: '2017-05-31'
   link: https://doi.org/ggsm3w
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0175860
@@ -1298,7 +1239,6 @@
   date: '2017-04-24'
   link: https://doi.org/f94sxz
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0180181
@@ -1330,7 +1270,6 @@
   date: '2017-07-10'
   link: https://doi.org/gbmpvz
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/ijc.29873
@@ -1350,7 +1289,6 @@
   date: '2015-10-13'
   link: https://doi.org/ghjwt6
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1073/pnas.1615258113
@@ -1367,7 +1305,6 @@
   date: '2016-10-31'
   link: https://doi.org/f9dvxf
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1078-0432.CCR-15-0256
@@ -1405,7 +1342,6 @@
   date: '2016-01-14'
   link: https://doi.org/g842cb
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/JVI.02869-15
@@ -1422,7 +1358,6 @@
   date: '2016-09-01'
   link: https://doi.org/g842cc
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.18632/oncotarget.12241
@@ -1446,7 +1381,6 @@
   date: '2016-09-24'
   link: https://doi.org/f9kxcd
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.eururo.2015.05.042
@@ -1476,7 +1410,6 @@
   date: '2016-01-01'
   link: https://doi.org/g842cf
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1940-6207.CAPR-15-0316
@@ -1506,7 +1439,6 @@
   date: '2016-03-31'
   link: https://doi.org/g842cg
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s12918-015-0225-4
@@ -1551,7 +1483,6 @@
   date: '2015-11-06'
   link: https://doi.org/f794qb
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1126/scitranslmed.aac9303
@@ -1565,7 +1496,6 @@
   date: '2015-07-08'
   link: https://doi.org/g842ch
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0143990
@@ -1588,7 +1518,6 @@
   date: '2015-11-24'
   link: https://doi.org/g842cj
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/jcmm.12537
@@ -1605,7 +1534,6 @@
   date: '2015-04-12'
   link: https://doi.org/f7hjth
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0131245
@@ -1628,7 +1556,6 @@
   date: '2015-07-31'
   link: https://doi.org/g842ck
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1039/c4mb00585f
@@ -1650,7 +1577,6 @@
   date: '2015-01-01'
   link: https://doi.org/g842cm
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1126/scitranslmed.aaa5731
@@ -1677,7 +1603,6 @@
   date: '2015-06-10'
   link: https://doi.org/f7q24x
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s00277-015-2462-4
@@ -1699,7 +1624,6 @@
   date: '2015-07-31'
   link: https://doi.org/grj6sv
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1097/NEN.0000000000000155
@@ -1717,7 +1641,6 @@
   date: '2015-02-01'
   link: https://doi.org/ghjwwk
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1073/pnas.1421839112
@@ -1733,7 +1656,6 @@
   date: '2014-12-22'
   link: https://doi.org/f6vmgv
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2337/db14-1107
@@ -1760,7 +1682,6 @@
   date: '2015-06-24'
   link: https://doi.org/f7tjx3
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/bioinformatics/btu622
@@ -1774,7 +1695,6 @@
   date: '2014-09-26'
   link: https://doi.org/f6v65n
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/ncomms9258
@@ -1798,7 +1718,6 @@
   date: '2015-09-16'
   link: https://doi.org/f7wb39
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.humpath.2014.01.013
@@ -1820,7 +1739,6 @@
   date: '2014-06-01'
   link: https://doi.org/gk575b
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.4049/jimmunol.1490009
@@ -1839,7 +1757,6 @@
   date: '2014-04-15'
   link: https://doi.org/g842cn
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.4049/jimmunol.1300835
@@ -1857,7 +1774,6 @@
   date: '2014-02-15'
   link: https://doi.org/f5spx2
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1078-0432.CCR-13-0759
@@ -1896,7 +1812,6 @@
   date: '2014-03-31'
   link: https://doi.org/f5w6h5
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.4161/epi.29025
@@ -1924,7 +1839,6 @@
   date: '2014-05-01'
   link: https://doi.org/g842cp
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/1471-2164-14-336
@@ -1938,7 +1852,6 @@
   date: '2013-05-17'
   link: https://doi.org/gb3f9p
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.4161/epi.25574
@@ -1962,7 +1875,6 @@
   date: '2013-09-01'
   link: https://doi.org/g7vjsx
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0070878
@@ -1989,7 +1901,6 @@
   date: '2013-09-27'
   link: https://doi.org/g842cq
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/1476-4598-12-16
@@ -2007,7 +1918,6 @@
   date: '2013-03-02'
   link: https://doi.org/f44m6x
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1535-7163.MCT-12-0618
@@ -2025,7 +1935,6 @@
   date: '2013-06-01'
   link: https://doi.org/f42k6w
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/JVI.01297-13
@@ -2041,7 +1950,6 @@
   date: '2013-08-15'
   link: https://doi.org/f45w5m
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jim.2013.02.003
@@ -2055,7 +1963,6 @@
   date: '2013-05-01'
   link: https://doi.org/f4sm2h
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/neuonc/nos269
@@ -2075,7 +1982,6 @@
   date: '2012-11-15'
   link: https://doi.org/f4mk6m
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0074432
@@ -2100,7 +2006,6 @@
   date: '2013-09-26'
   link: https://doi.org/f5m58j
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/2159-8290.CD-11-0219
@@ -2121,7 +2026,6 @@
   date: '2012-03-01'
   link: https://doi.org/fxjt8r
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s10549-012-2051-3
@@ -2140,7 +2044,6 @@
   date: '2012-04-13'
   link: https://doi.org/f35kb3
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/pr2009884
@@ -2162,7 +2065,6 @@
   date: '2012-02-28'
   link: https://doi.org/f3ws43
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1073/pnas.1203525109
@@ -2190,7 +2092,6 @@
   date: '2012-08-27'
   link: https://doi.org/f4bxjd
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.18632/oncotarget.531
@@ -2207,7 +2108,6 @@
   date: '2012-06-30'
   link: https://doi.org/f34knz
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.ydbio.2012.08.016
@@ -2225,7 +2125,6 @@
   date: '2012-11-01'
   link: https://doi.org/f4chrp
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-10-3072
@@ -2245,7 +2144,6 @@
   date: '2011-05-31'
   link: https://doi.org/d8dz28
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/j.1464-410X.2010.09907.x
@@ -2263,7 +2161,6 @@
   date: '2010-12-22'
   link: https://doi.org/d8f3qr
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.ajpath.2011.03.036
@@ -2295,7 +2192,6 @@
   date: '2011-07-01'
   link: https://doi.org/cdzkd9
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/pros.21373
@@ -2312,7 +2208,6 @@
   date: '2011-02-25'
   link: https://doi.org/fn7vzj
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1126/scitranslmed.3002376
@@ -2328,7 +2223,6 @@
   date: '2011-05-11'
   link: https://doi.org/dh3j8t
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/gb-2011-12-10-r105
@@ -2342,7 +2236,6 @@
   date: '2011-10-21'
   link: https://doi.org/c9mszj
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.juro.2010.12.095
@@ -2362,7 +2255,6 @@
   date: '2011-05-01'
   link: https://doi.org/dk4h67
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1182/blood-2010-05-283895
@@ -2379,7 +2271,6 @@
   date: '2010-11-04'
   link: https://doi.org/dmddhm
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0011208
@@ -2406,7 +2297,6 @@
   date: '2010-06-18'
   link: https://doi.org/fqk76z
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1677/ERC-10-0014
@@ -2424,7 +2314,6 @@
   date: '2010-09-01'
   link: https://doi.org/bwxn54
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1078-0432.CCR-10-1624
@@ -2442,7 +2331,6 @@
   date: '2010-12-15'
   link: https://doi.org/dhnd28
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-08-4210
@@ -2464,7 +2352,6 @@
   date: '2009-04-15'
   link: https://doi.org/d7kn7r
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/stem.92
@@ -2484,7 +2371,6 @@
   date: '2009-04-09'
   link: https://doi.org/dmpbzt
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/1471-2105-10-256
@@ -2502,7 +2388,6 @@
   date: '2009-08-20'
   link: https://doi.org/bk9ftj
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/onc.2008.327
@@ -2521,7 +2406,6 @@
   date: '2008-09-15'
   link: https://doi.org/b4f5gt
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.ygeno.2005.02.009
@@ -2547,7 +2431,6 @@
   date: '2005-06-01'
   link: https://doi.org/bg5hjk
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/sj.onc.1207979
@@ -2578,7 +2461,6 @@
   date: '2004-09-20'
   link: https://doi.org/bfz9rt
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1074/jbc.M311123200
@@ -2594,7 +2476,6 @@
   date: '2004-03-01'
   link: https://doi.org/b7qw3j
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.crvi.2003.09.029
@@ -2617,7 +2498,6 @@
   date: '2003-10-01'
   link: https://doi.org/cmt727
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/nature01266
@@ -2628,7 +2508,6 @@
   date: '2002-12-01'
   link: https://doi.org/b6tvxd
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/35055500
@@ -2734,7 +2613,6 @@
   date: '2001-02-08'
   link: https://doi.org/d7h668
   orcid: 0000-0002-7336-8071
-  member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
 - id: pubmed:39111315
@@ -2824,6 +2702,796 @@
   - spatial transcriptomics
   plugin: sources.py
   file: sources.yaml
+- id: pubmed:36525970
+  title: Hyaluronan driven by epithelial aPKC deficiency remodels the microenvironment
+    and creates a vulnerability in mesenchymal colorectal cancer.
+  authors:
+  - "Anxo Martinez-Ordo\xF1ez"
+  - Angeles Duran
+  - Marc Ruiz-Martinez
+  - Tania Cid-Diaz
+  - Xiao Zhang
+  - Qixiu Han
+  - Hiroto Kinoshita
+  - Yu Muta
+  - Juan F Linares
+  - Hiroaki Kasashima
+  - Yuki Nakanishi
+  - Mohamed Omar
+  - Sadaaki Nishimura
+  - Leandro Avila
+  - Masakazu Yashiro
+  - Kiyoshi Maeda
+  - Tania Pannellini
+  - Alessio Pigazzi
+  - Giorgio Inghirami
+  - Luigi Marchionni
+  - Darren Sigal
+  - Maria T Diaz-Meco
+  - Jorge Moscat
+  publisher: Cancer cell
+  date: '2022-12-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36525970
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38987117
+  title: ChatGPT for digital pathology research.
+  authors:
+  - Mohamed Omar
+  - Varun Ullanat
+  - Massimo Loda
+  - Luigi Marchionni
+  - Renato Umeton
+  publisher: The Lancet. Digital health
+  date: '2024-07-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38987117
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38831751
+  title: Obesogenic High-Fat Diet and MYC Cooperate to Promote Lactate Accumulation
+    and Tumor Microenvironment Remodeling in Prostate Cancer.
+  authors:
+  - Nadia Boufaied
+  - Paolo Chetta
+  - Tarek Hallal
+  - Stefano Cacciatore
+  - Daniela Lalli
+  - Carole Luthold
+  - Kevin Homsy
+  - Eddie L Imada
+  - Sudeepa Syamala
+  - Cornelia Photopoulos
+  - Anna Di Matteo
+  - Anna de Polo
+  - Alessandra Maria Storaci
+  - Ying Huang
+  - Francesca Giunchi
+  - Patricia A Sheridan
+  - Gregory Michelotti
+  - Quang-De Nguyen
+  - Xin Zhao
+  - Yang Liu
+  - Elai Davicioni
+  - Daniel E Spratt
+  - Simone Sabbioneda
+  - Giovanni Maga
+  - Lorelei A Mucci
+  - Claudia Ghigna
+  - Luigi Marchionni
+  - Lisa M Butler
+  - Leigh Ellis
+  - "Fran\xE7ois Bordeleau"
+  - Massimo Loda
+  - Valentina Vaira
+  - "David P Labb\xE9"
+  - Giorgia Zadra
+  publisher: Cancer research
+  date: '2024-06-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38831751
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:36717286
+  title: 'A Phase 1 Trial of Durvalumab in Combination with Bacillus Calmette-Guerin
+    (BCG) or External Beam Radiation Therapy in Patients with BCG-unresponsive Non-muscle-Invasive
+    Bladder Cancer: The Hoosier Cancer Research Network GU16-243 ADAPT-BLADDER Study.'
+  authors:
+  - Noah M Hahn
+  - Michael A O'Donnell
+  - Jason A Efstathiou
+  - Marianna Zahurak
+  - Gary L Rosner
+  - Jeff Smith
+  - Max R Kates
+  - Trinity J Bivalacqua
+  - Phuoc T Tran
+  - Daniel Y Song
+  - Alex S Baras
+  - Andres Matoso
+  - Woonyoung Choi
+  - Kellie N Smith
+  - Drew M Pardoll
+  - Luigi Marchionni
+  - Bridget McGuire
+  - Mary Grace Phelan
+  - Burles A Johnson
+  - Tanya O'Neal
+  - David J McConkey
+  - Tracy L Rose
+  - Marc Bjurlin
+  - Emerson A Lim
+  - Charles G Drake
+  - James M McKiernan
+  - Israel Deutsch
+  - Christopher B Anderson
+  - Donald L Lamm
+  - Daniel M Geynisman
+  - Elizabeth R Plimack
+  - Mark A Hallman
+  - Eric M Horwitz
+  - Essel Al-Saleem
+  - David Y T Chen
+  - Richard E Greenberg
+  - Alexander Kutikov
+  - Gordon Guo
+  - Timothy A Masterson
+  - Nabil Adra
+  - Hristos Z Kaimakliotis
+  publisher: European urology
+  date: '2023-01-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36717286
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:36204675
+  title: 'Hobotnica: exploring molecular signature quality.'
+  authors:
+  - Alexey Stupnikov
+  - Alexey Sizykh
+  - Anna Budkina
+  - Alexander Favorov
+  - Bahman Afsari
+  - Sarah Wheelan
+  - Luigi Marchionni
+  - Yulia Medvedeva
+  publisher: F1000Research
+  date: '2021-12-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36204675
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39294134
+  title: Emergence of transmissible SARS-CoV-2 variants with decreased sensitivity
+    to antivirals in immunocompromised patients with persistent infections.
+  authors:
+  - Mohammed Nooruzzaman
+  - Katherine E E Johnson
+  - Ruchi Rani
+  - Eli J Finkelsztein
+  - Leonardo C Caserta
+  - Rosy P Kodiyanplakkal
+  - Wei Wang
+  - Jingmei Hsu
+  - Maria T Salpietro
+  - Stephanie Banakis
+  - Joshua Albert
+  - Lars F Westblade
+  - Claudio Zanettini
+  - Luigi Marchionni
+  - Rosemary Soave
+  - Elodie Ghedin
+  - Diego G Diel
+  - Mirella Salvatore
+  publisher: Nature communications
+  date: '2024-09-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39294134
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38253539
+  title: Divergent immune microenvironments in two tumor nodules from a patient with
+    mismatch repair-deficient prostate cancer.
+  authors:
+  - Hannah E Bergom
+  - Laura A Sena
+  - Abderrahman Day
+  - Benjamin Miller
+  - Carly D Miller
+  - John R Lozada
+  - Nicholas Zorko
+  - Jinhua Wang
+  - Eugene Shenderov
+  - Francisco Pereira Lobo
+  - Fernanda Caramella-Pereira
+  - Luigi Marchionni
+  - Charles G Drake
+  - Tamara Lotan
+  - Angelo M De Marzo
+  - Justin Hwang
+  - Emmanuel S Antonarakis
+  publisher: NPJ genomic medicine
+  date: '2024-01-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38253539
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38706981
+  title: Federated benchmarking of medical artificial intelligence with MedPerf.
+  authors:
+  - Alexandros Karargyris
+  - Renato Umeton
+  - Micah J Sheller
+  - Alejandro Aristizabal
+  - Johnu George
+  - Anna Wuest
+  - Sarthak Pati
+  - Hasan Kassem
+  - Maximilian Zenk
+  - Ujjwal Baid
+  - Prakash Narayana Moorthy
+  - Alexander Chowdhury
+  - Junyi Guo
+  - Sahil Nalawade
+  - Jacob Rosenthal
+  - David Kanter
+  - Maria Xenochristou
+  - Daniel J Beutel
+  - Verena Chung
+  - Timothy Bergquist
+  - James Eddy
+  - Abubakar Abid
+  - Lewis Tunstall
+  - Omar Sanseviero
+  - Dimitrios Dimitriadis
+  - Yiming Qian
+  - Xinxing Xu
+  - Yong Liu
+  - Rick Siow Mong Goh
+  - Srini Bala
+  - Victor Bittorf
+  - Sreekar Reddy Puchala
+  - Biagio Ricciuti
+  - Soujanya Samineni
+  - Eshna Sengupta
+  - Akshay Chaudhari
+  - Cody Coleman
+  - Bala Desinghu
+  - Gregory Diamos
+  - Debo Dutta
+  - Diane Feddema
+  - Grigori Fursin
+  - Xinyuan Huang
+  - Satyananda Kashyap
+  - Nicholas Lane
+  - Indranil Mallick
+  - Pietro Mascagni
+  - Virendra Mehta
+  - Cassiano Ferro Moraes
+  - Vivek Natarajan
+  - Nikola Nikolov
+  - Nicolas Padoy
+  - Gennady Pekhimenko
+  - Vijay Janapa Reddi
+  - G Anthony Reina
+  - Pablo Ribalta
+  - Abhishek Singh
+  - Jayaraman J Thiagarajan
+  - Jacob Albrecht
+  - Thomas Wolf
+  - Geralyn Miller
+  - Huazhu Fu
+  - Prashant Shah
+  - Daguang Xu
+  - Poonam Yadav
+  - David Talby
+  - Mark M Awad
+  - Jeremy P Howard
+  - Michael Rosenthal
+  - Luigi Marchionni
+  - Massimo Loda
+  - Jason M Johnson
+  - Spyridon Bakas
+  - Peter Mattson
+  publisher: Nature machine intelligence
+  date: '2023-07-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38706981
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39630608
+  title: YAP1 induces bladder cancer progression and promotes immune evasion through
+    IL-6/STAT3 pathway and CXCL deregulation.
+  authors:
+  - Pritam Sadhukhan
+  - Mingxiao Feng
+  - Emily Illingworth
+  - Ido Sloma
+  - Akira Ooki
+  - Andres Matoso
+  - David Sidransky
+  - Burles A Johnson
+  - Luigi Marchionni
+  - "Fenna Cm Sill\xE9"
+  - Woonyoung Choi
+  - David McConkey
+  - Mohammad Hoque
+  publisher: The Journal of clinical investigation
+  date: '2024-12-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39630608
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:32079618
+  title: Recounting the FANTOM CAGE-Associated Transcriptome.
+  authors:
+  - Eddie Luidy Imada
+  - Diego Fernando Sanchez
+  - Leonardo Collado-Torres
+  - Christopher Wilks
+  - Tejasvi Matam
+  - Wikum Dinalankara
+  - Aleksey Stupnikov
+  - Francisco Lobo-Pereira
+  - Chi-Wai Yip
+  - Kayoko Yasuzawa
+  - Naoto Kondo
+  - Masayoshi Itoh
+  - Harukazu Suzuki
+  - Takeya Kasukawa
+  - Chung-Chau Hon
+  - Michiel J L de Hoon
+  - Jay W Shin
+  - Piero Carninci
+  - Andrew E Jaffe
+  - Jeffrey T Leek
+  - Alexander Favorov
+  - Gloria R Franco
+  - Ben Langmead
+  - Luigi Marchionni
+  publisher: Genome research
+  date: '2020-02-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32079618
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:36282572
+  title: A FOXO1-dependent transcription network is a targetable vulnerability of
+    mantle cell lymphomas.
+  authors:
+  - Ja-Young Jang
+  - Inah Hwang
+  - Heng Pan
+  - Jun Yao
+  - Lapo Alinari
+  - Eddie Imada
+  - Claudio Zanettini
+  - Michael J Kluk
+  - Yizhe Wang
+  - Yunkyoung Lee
+  - Hua V Lin
+  - Xiangao Huang
+  - Maurizio Di Liberto
+  - Zhengming Chen
+  - Karla V Ballman
+  - Lewis C Cantley
+  - Luigi Marchionni
+  - Giorgio Inghirami
+  - Olivier Elemento
+  - Robert A Baiocchi
+  - Selina Chen-Kiang
+  - Sandro Belvedere
+  - Hongwu Zheng
+  - Jihye Paik
+  publisher: The Journal of clinical investigation
+  date: '2022-12-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36282572
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:31804462
+  title: Look for methods, not conclusions.
+  authors:
+  - Roberto Bassi
+  - Enrico M Bucci
+  - Raffaele A Calogero
+  - Piero Carninci
+  - Gennaro Ciliberto
+  - Pellegrino Conte
+  - Michele De Luca
+  - Gilberto Corbellini
+  - Antonio Giordano
+  - Luigi Marchionni
+  - Giacomina Massaro Giordano
+  - Angelo Parini
+  - Gianluca Sbardella
+  publisher: Cell death & disease
+  date: '2019-12-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31804462
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:34618807
+  title: A field guide to cultivating computational biology.
+  authors:
+  - Gregory P Way
+  - Casey S Greene
+  - Piero Carninci
+  - Benilton S Carvalho
+  - Michiel de Hoon
+  - Stacey D Finley
+  - Sara J C Gosline
+  - "Kim-Anh L\u0207 Cao"
+  - Jerry S H Lee
+  - Luigi Marchionni
+  - Nicolas Robine
+  - Suzanne S Sindi
+  - Fabian J Theis
+  - Jean Y H Yang
+  - Anne E Carpenter
+  - Elana J Fertig
+  publisher: PLoS biology
+  date: '2021-10-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34618807
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:32718982
+  title: Functional annotation of human long noncoding RNAs via molecular phenotyping.
+  authors:
+  - Jordan A Ramilowski
+  - Chi Wai Yip
+  - Saumya Agrawal
+  - Jen-Chien Chang
+  - Yari Ciani
+  - Ivan V Kulakovskiy
+  - "Micka\xEBl Mendez"
+  - Jasmine Li Ching Ooi
+  - John F Ouyang
+  - Nick Parkinson
+  - Andreas Petri
+  - Leonie Roos
+  - Jessica Severin
+  - Kayoko Yasuzawa
+  - Imad Abugessaisa
+  - Altuna Akalin
+  - Ivan V Antonov
+  - Erik Arner
+  - Alessandro Bonetti
+  - Hidemasa Bono
+  - Beatrice Borsari
+  - Frank Brombacher
+  - Christopher JF Cameron
+  - Carlo Vittorio Cannistraci
+  - Ryan Cardenas
+  - Melissa Cardon
+  - Howard Chang
+  - "Jos\xE9e Dostie"
+  - Luca Ducoli
+  - Alexander Favorov
+  - Alexandre Fort
+  - Diego Garrido
+  - Noa Gil
+  - Juliette Gimenez
+  - Reto Guler
+  - Lusy Handoko
+  - Jayson Harshbarger
+  - Akira Hasegawa
+  - Yuki Hasegawa
+  - Kosuke Hashimoto
+  - Norihito Hayatsu
+  - Peter Heutink
+  - Tetsuro Hirose
+  - Eddie L Imada
+  - Masayoshi Itoh
+  - Bogumil Kaczkowski
+  - Aditi Kanhere
+  - Emily Kawabata
+  - Hideya Kawaji
+  - Tsugumi Kawashima
+  - S Thomas Kelly
+  - Miki Kojima
+  - Naoto Kondo
+  - Haruhiko Koseki
+  - Tsukasa Kouno
+  - Anton Kratz
+  - Mariola Kurowska-Stolarska
+  - Andrew Tae Jun Kwon
+  - Jeffrey Leek
+  - Andreas Lennartsson
+  - Marina Lizio
+  - "Fernando L\xF3pez-Redondo"
+  - "Joachim Luginb\xFChl"
+  - Shiori Maeda
+  - Vsevolod J Makeev
+  - Luigi Marchionni
+  - Yulia A Medvedeva
+  - Aki Minoda
+  - "Ferenc M\xFCller"
+  - "Manuel Mu\xF1oz-Aguirre"
+  - Mitsuyoshi Murata
+  - Hiromi Nishiyori
+  - Kazuhiro R Nitta
+  - Shuhei Noguchi
+  - Yukihiko Noro
+  - Ramil Nurtdinov
+  - Yasushi Okazaki
+  - Valerio Orlando
+  - Denis Paquette
+  - Callum J C Parr
+  - Owen J L Rackham
+  - Patrizia Rizzu
+  - "Diego Fernando S\xE1nchez Martinez"
+  - Albin Sandelin
+  - Pillay Sanjana
+  - Colin A M Semple
+  - Youtaro Shibayama
+  - Divya M Sivaraman
+  - Takahiro Suzuki
+  - Suzannah C Szumowski
+  - Michihira Tagami
+  - Martin S Taylor
+  - Chikashi Terao
+  - Malte Thodberg
+  - Supat Thongjuea
+  - Vidisha Tripathi
+  - Igor Ulitsky
+  - Roberto Verardo
+  - Ilya E Vorontsov
+  - Chinatsu Yamamoto
+  - Robert S Young
+  - J Kenneth Baillie
+  - Alistair R R Forrest
+  - "Roderic Guig\xF3"
+  - Michael M Hoffman
+  - Chung Chau Hon
+  - Takeya Kasukawa
+  - Sakari Kauppinen
+  - Juha Kere
+  - Boris Lenhard
+  - Claudio Schneider
+  - Harukazu Suzuki
+  - Ken Yagi
+  - Michiel J L de Hoon
+  - Jay W Shin
+  - Piero Carninci
+  publisher: Genome research
+  date: '2020-07-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32718982
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39272208
+  title: A triple hormone receptor ER, AR, and VDR signature is a robust prognosis
+    predictor in breast cancer.
+  authors:
+  - Mohamed Omar
+  - J Chuck Harrell
+  - Rulla Tamimi
+  - Luigi Marchionni
+  - Cihat Erdogan
+  - Harikrishna Nakshatri
+  - Tan A Ince
+  publisher: 'Breast cancer research : BCR'
+  date: '2024-09-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39272208
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38862340
+  title: Genomic Determinants Associated with Modes of Progression and Patterns of
+    Failure in Metachronous Oligometastatic Castration-sensitive Prostate Cancer.
+  authors:
+  - Philip Sutera
+  - Yang Song
+  - Amol C Shetty
+  - Keara English
+  - Kim Van der Eecken
+  - Ozan Cem Guler
+  - Jarey Wang
+  - Yufeng Cao
+  - Soha Bazyar
+  - Sofie Verbeke
+  - Jo Van Dorpe
+  - "Val\xE9rie Fonteyne"
+  - Bram De Laere
+  - Mark Mishra
+  - Zaker Rana
+  - Jason Molitoris
+  - Matthew Ferris
+  - Ana Kiess
+  - Daniel Y Song
+  - Theodore DeWeese
+  - Kenneth J Pienta
+  - Christopher Barbieri
+  - Luigi Marchionni
+  - Lei Ren
+  - Amit Sawant
+  - Nicole Simone
+  - Alejandro Berlin
+  - Cem Onal
+  - Phuoc T Tran
+  - Piet Ost
+  - Matthew P Deek
+  publisher: European urology oncology
+  date: '2024-06-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38862340
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39094629
+  title: Machine learning predicts conventional imaging metastasis-free survival (MFS)
+    for oligometastatic castration-sensitive prostate cancer (omCSPC) using prostate-specific
+    membrane antigen (PSMA) PET radiomics.
+  authors:
+  - Yufeng Cao
+  - Philip Sutera
+  - William Silva Mendes
+  - Bardia Yousefi
+  - Tom Hrinivich
+  - Matthew Deek
+  - Ryan Phillips
+  - Danny Song
+  - Ana Kiess
+  - Ozan Cem Guler
+  - Nese Torun
+  - Mehmet Reyhan
+  - Amit Sawant
+  - Luigi Marchionni
+  - Nicole L Simone
+  - Phuoc Tran
+  - Cem Onal
+  - Lei Ren
+  publisher: 'Radiotherapy and oncology : journal of the European Society for Therapeutic
+    Radiology and Oncology'
+  date: '2024-07-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39094629
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:36759904
+  title: 'REPAC: analysis of alternative polyadenylation from RNA-sequencing data.'
+  authors:
+  - Eddie L Imada
+  - Christopher Wilks
+  - Ben Langmead
+  - Luigi Marchionni
+  publisher: Genome biology
+  date: '2023-02-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36759904
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:35979657
+  title: Donor-derived acute myeloid leukemia in solid organ transplantation.
+  authors:
+  - Luigi Marchionni
+  - Francisco Pereira Lobo
+  - Rumen Kostadinov
+  - Anna Serra
+  - Federico Genzano Besso
+  - Silvia Deaglio
+  - Piero Stratta
+  - Monica Berrino
+  - Claudio Zanettini
+  - Eddie Luidy Imada
+  - Mohamed N Omar
+  - Gianluca Gaidano
+  - Benedetto Bruno
+  - Giuseppe Saglio
+  - Antonio Amoroso
+  publisher: 'American journal of transplantation : official journal of the American
+    Society of Transplantation and the American Society of Transplant Surgeons'
+  date: '2022-09-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35979657
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:37034687
+  title: Distinct mesenchymal cell states mediate prostate cancer progression.
+  authors:
+  - Hubert Pakula
+  - Mohamed Omar
+  - Ryan Carelli
+  - Filippo Pederzoli
+  - "Giuseppe Nicol\xF2 Fanelli"
+  - Tania Pannellini
+  - Lucie Van Emmenis
+  - Silvia Rodrigues
+  - Caroline Fidalgo-Ribeiro
+  - Pier V Nuzzo
+  - Nicholas J Brady
+  - Madhavi Jere
+  - Caitlin Unkenholz
+  - Mohammad K Alexanderani
+  - Francesca Khani
+  - Francisca Nunes de Almeida
+  - Cory Abate-Shen
+  - Matthew B Greenblatt
+  - David S Rickman
+  - Christopher E Barbieri
+  - Brian D Robinson
+  - Luigi Marchionni
+  - Massimo Loda
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2023-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37034687
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:32718981
+  title: Comparative transcriptomics of primary cells in vertebrates.
+  authors:
+  - Tanvir Alam
+  - Saumya Agrawal
+  - Jessica Severin
+  - Robert S Young
+  - Robin Andersson
+  - Erik Arner
+  - Akira Hasegawa
+  - Marina Lizio
+  - Jordan A Ramilowski
+  - Imad Abugessaisa
+  - Yuri Ishizu
+  - Shohei Noma
+  - Hiroshi Tarui
+  - Martin S Taylor
+  - Timo Lassmann
+  - Masayoshi Itoh
+  - Takeya Kasukawa
+  - Hideya Kawaji
+  - Luigi Marchionni
+  - Guojun Sheng
+  - Alistair R R Forrest
+  - Levon M Khachigian
+  - Yoshihide Hayashizaki
+  - Piero Carninci
+  - Michiel J L de Hoon
+  publisher: Genome research
+  date: '2020-07-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32718981
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38284821
+  title: Semi-Supervised, Attention-Based Deep Learning for Predicting TMPRSS2:ERG
+    Fusion Status in Prostate Cancer Using Whole Slide Images.
+  authors:
+  - Mohamed Omar
+  - Zhuoran Xu
+  - Sophie B Rand
+  - Mohammad K Alexanderani
+  - Daniela C Salles
+  - Itzel Valencia
+  - Edward M Schaeffer
+  - Brian D Robinson
+  - Tamara L Lotan
+  - Massimo Loda
+  - Luigi Marchionni
+  publisher: 'Molecular cancer research : MCR'
+  date: '2024-04-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38284821
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:36543879
+  title: Recurrent germline variant in ATM associated with familial myeloproliferative
+    neoplasms.
+  authors:
+  - Evan M Braunstein
+  - Eddie Imada
+  - Sergiu Pasca
+  - Shiyu Wang
+  - Hang Chen
+  - Camille Alba
+  - Dan N Hupalo
+  - Matthew Wilkerson
+  - Clifton L Dalgard
+  - Jack Ghannam
+  - Yujia Liu
+  - Luigi Marchionni
+  - Alison Moliterno
+  - Christopher S Hourigan
+  - Lukasz P Gondek
+  publisher: Leukemia
+  date: '2022-12-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36543879
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:33396819
+  title: Identifying Personalized Metabolic Signatures in Breast Cancer.
+  authors:
+  - Priyanka Baloni
+  - Wikum Dinalankara
+  - John C Earls
+  - Theo A Knijnenburg
+  - Donald Geman
+  - Luigi Marchionni
+  - Nathan D Price
+  publisher: Metabolites
+  date: '2020-12-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33396819
+  plugin: sources.py
+  file: sources.yaml
 - id: pubmed:36852282
   title: Using biological constraints to improve prediction in precision oncology.
   authors:
@@ -2846,6 +3514,126 @@
   - statistical method
   plugin: sources.py
   file: sources.yaml
+- id: pubmed:38946967
+  title: Emergence of transmissible SARS-CoV-2 variants with decreased sensitivity
+    to antivirals in immunocompromised patients with persistent infections.
+  authors:
+  - Mohammed Nooruzzaman
+  - Katherine E E Johnson
+  - Ruchi Rani
+  - Eli J Finkelsztein
+  - Leonardo C Caserta
+  - Rosy P Kodiyanplakkal
+  - Wei Wang
+  - Jingmei Hsu
+  - Maria T Salpietro
+  - Stephanie Banakis
+  - Joshua Albert
+  - Lars Westblade
+  - Claudio Zanettini
+  - Luigi Marchionni
+  - Rosemary Soave
+  - Elodie Ghedin
+  - Diego G Diel
+  - Mirella Salvatore
+  publisher: 'medRxiv : the preprint server for health sciences'
+  date: '2024-06-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38946967
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:18252678
+  title: 'Systematic review: gene expression profiling assays in early-stage breast
+    cancer.'
+  authors:
+  - Luigi Marchionni
+  - Renee F Wilson
+  - Antonio C Wolff
+  - Spyridon Marinopoulos
+  - Giovanni Parmigiani
+  - Eric B Bass
+  - Steven N Goodman
+  publisher: Annals of internal medicine
+  date: '2008-02-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18252678
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:25575134
+  title: Notch signaling activation in pediatric low-grade astrocytoma.
+  authors:
+  - William D Brandt
+  - Karisa C Schreck
+  - Eli E Bar
+  - Isabella Taylor
+  - Luigi Marchionni
+  - Eric Raabe
+  - Charles G Eberhart
+  - Fausto J Rodriguez
+  publisher: Journal of neuropathology and experimental neurology
+  date: '2015-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25575134
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38157646
+  title: "Concomitant assessment of PD-1 and CD56 expression identifies subsets of\
+    \ resting cord blood V\u03B42 T cells with disparate cytotoxic potential."
+  authors:
+  - Haoting Hsu
+  - Claudio Zanettini
+  - Modupe Coker
+  - Sarah Boudova
+  - David Rach
+  - Godfrey Mvula
+  - Titus H Divala
+  - Randy G Mungwira
+  - Francesca Boldrin
+  - Giulia Degiacomi
+  - "Laura Cioetto Mazzab\xF2"
+  - Riccardo Manganelli
+  - Miriam K Laufer
+  - Yuji Zhang
+  - Luigi Marchionni
+  - Cristiana Cairo
+  publisher: Cellular immunology
+  date: '2023-12-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38157646
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:37812042
+  title: TP53 structure-function relationships in metastatic castrate-sensitive prostate
+    cancer and the impact of APR-246 treatment.
+  authors:
+  - Tung Hoang
+  - Philip Sutera
+  - Triet Nguyen
+  - Jinhee Chang
+  - Shreya Jagtap
+  - Yang Song
+  - Amol C Shetty
+  - Dipanwita D Chowdhury
+  - Aaron Chan
+  - Francesca A Carrieri
+  - Lara Hathout
+  - Ronald Ennis
+  - Salma K Jabbour
+  - Rahul Parikh
+  - Jason Molitoris
+  - Daniel Y Song
+  - Theodore DeWeese
+  - Luigi Marchionni
+  - Lei Ren
+  - Amit Sawant
+  - Nicole Simone
+  - Audrey Lafargue
+  - Kim Van Der Eecken
+  - Fred Bunz
+  - Piet Ost
+  - Phuoc T Tran
+  - Matthew P Deek
+  publisher: The Prostate
+  date: '2023-10-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37812042
+  plugin: sources.py
+  file: sources.yaml
 - id: pubmed:34115745
   title: Efficient representations of tumor diversity with paired DNA-RNA aberrations.
   authors:
@@ -2862,6 +3650,83 @@
   - cancer
   - tumor heterogeneity
   - statistical method
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:18457476
+  title: Impact of gene expression profiling tests on breast cancer outcomes.
+  authors:
+  - Luigi Marchionni
+  - Renee F Wilson
+  - Spyridon S Marinopoulos
+  - Antonio C Wolff
+  - Giovanni Parmigiani
+  - Eric B Bass
+  - Steven N Goodman
+  publisher: Evidence report/technology assessment
+  date: '2007-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18457476
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:33991092
+  title: 'covid19census: U.S. and Italy COVID-19 metrics and other epidemiological
+    data.'
+  authors:
+  - Claudio Zanettini
+  - Mohamed Omar
+  - Wikum Dinalankara
+  - Eddie Luidy Imada
+  - Elizabeth Colantuoni
+  - Giovanni Parmigiani
+  - Luigi Marchionni
+  publisher: 'Database : the journal of biological databases and curation'
+  date: '2021-05-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33991092
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:34297428
+  title: RNA-sequencing highlights differential regulated pathways involved in cell
+    cycle and inflammation in orbitofacial neurofibromas.
+  authors:
+  - Eddie Luidy Imada
+  - Diego Strianese
+  - Deepak P Edward
+  - Rawan alThaqib
+  - Antionette Price
+  - Antje Arnold
+  - Hailah Al-Hussain
+  - Luigi Marchionni
+  - Fausto J Rodriguez
+  publisher: Brain pathology (Zurich, Switzerland)
+  date: '2021-07-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34297428
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:26862087
+  title: Whole-Genome Sequencing of Salivary Gland Adenoid Cystic Carcinoma.
+  authors:
+  - Eleni M Rettig
+  - C Conover Talbot
+  - Mark Sausen
+  - Sian Jones
+  - Justin A Bishop
+  - Laura D Wood
+  - Collin Tokheim
+  - Noushin Niknafs
+  - Rachel Karchin
+  - Elana J Fertig
+  - Sarah J Wheelan
+  - Luigi Marchionni
+  - Michael Considine
+  - Shizhang Ling
+  - Carole Fakhry
+  - Nickolas Papadopoulos
+  - Kenneth W Kinzler
+  - Bert Vogelstein
+  - Patrick K Ha
+  - Nishant Agrawal
+  publisher: Cancer prevention research (Philadelphia, Pa.)
+  date: '2016-02-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26862087
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:29666255
@@ -2890,6 +3755,2007 @@
   - statistical method
   plugin: sources.py
   file: sources.yaml
+- id: pubmed:34311724
+  title: Transcriptional landscape of PTEN loss in primary prostate cancer.
+  authors:
+  - Eddie Luidy Imada
+  - Diego Fernando Sanchez
+  - Wikum Dinalankara
+  - Thiago Vidotto
+  - Ericka M Ebot
+  - Svitlana Tyekucheva
+  - Gloria Regina Franco
+  - Lorelei Ann Mucci
+  - Massimo Loda
+  - Edward Matthew Schaeffer
+  - Tamara Lotan
+  - Luigi Marchionni
+  publisher: BMC cancer
+  date: '2021-07-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34311724
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39510141
+  title: Validation of an artificial intelligence-based prognostic biomarker in patients
+    with oligometastatic Castration-Sensitive prostate cancer.
+  authors:
+  - Jarey H Wang
+  - Matthew P Deek
+  - Adrianna A Mendes
+  - Yang Song
+  - Amol Shetty
+  - Soha Bazyar
+  - Kim Van der Eecken
+  - Emmalyn Chen
+  - Timothy N Showalter
+  - Trevor J Royce
+  - Tamara Todorovic
+  - Huei-Chung Huang
+  - Scott A Houck
+  - Rikiya Yamashita
+  - Ana P Kiess
+  - Daniel Y Song
+  - Tamara Lotan
+  - Theodore DeWeese
+  - Luigi Marchionni
+  - Lei Ren
+  - Amit Sawant
+  - Nicole Simone
+  - Alejandro Berlin
+  - Cem Onal
+  - Andre Esteva
+  - Felix Y Feng
+  - Phuoc T Tran
+  - Philip Sutera
+  - Piet Ost
+  publisher: 'Radiotherapy and oncology : journal of the European Society for Therapeutic
+    Radiology and Oncology'
+  date: '2024-11-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39510141
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:28411178
+  title: MicroRNA expression profiling of Xp11 renal cell carcinoma.
+  authors:
+  - Luigi Marchionni
+  - Masamichi Hayashi
+  - Elisa Guida
+  - Akira Ooki
+  - Enrico Munari
+  - Fayez J Jabboure
+  - Wikum Dinalankara
+  - Ali Raza
+  - George J Netto
+  - Mohammad O Hoque
+  - Pedram Argani
+  publisher: Human pathology
+  date: '2017-04-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28411178
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:34746025
+  title: Host Blood Gene Signatures Can Detect the Progression to Severe and Cerebral
+    Malaria.
+  authors:
+  - Mohamed Omar
+  - Luigi Marchionni
+  - "Georg H\xE4cker"
+  - Mohamed Tarek Badr
+  publisher: Frontiers in cellular and infection microbiology
+  date: '2021-10-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34746025
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:36752203
+  title: Association of self-identified race and genetic ancestry with the immunogenomic
+    landscape of primary prostate cancer.
+  authors:
+  - Thiago Vidotto
+  - Eddie L Imada
+  - Farzana Faisal
+  - Sanjana Murali
+  - Adrianna A Mendes
+  - Harsimar Kaur
+  - Siqun Zheng
+  - Jianfeng Xu
+  - Edward M Schaeffer
+  - William B Isaacs
+  - Karen S Sfanos
+  - Luigi Marchionni
+  - Tamara L Lotan
+  publisher: JCI insight
+  date: '2023-02-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36752203
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:32607525
+  title: Influenza Vaccination and COVID19 Mortality in the USA.
+  authors:
+  - Claudio Zanettini
+  - Mohamed Omar
+  - Wikum Dinalankara
+  - Eddie Luidy Imada
+  - Elizabeth Colantuoni
+  - Giovanni Parmigiani
+  - Luigi Marchionni
+  publisher: 'medRxiv : the preprint server for health sciences'
+  date: '2020-06-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32607525
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:37964363
+  title: Notch-based gene signature for predicting the response to neoadjuvant chemotherapy
+    in triple-negative breast cancer.
+  authors:
+  - Mohamed Omar
+  - Pier Vitale Nuzzo
+  - Francesco Ravera
+  - Sara Bleve
+  - "Giuseppe Nicol\xF2 Fanelli"
+  - Claudio Zanettini
+  - Itzel Valencia
+  - Luigi Marchionni
+  publisher: Journal of translational medicine
+  date: '2023-11-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37964363
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38016949
+  title: 'PhenoSV: interpretable phenotype-aware model for the prioritization of genes
+    affected by structural variants.'
+  authors:
+  - Zhuoran Xu
+  - Quan Li
+  - Luigi Marchionni
+  - Kai Wang
+  publisher: Nature communications
+  date: '2023-11-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38016949
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:37409050
+  title: 'CALANGO: A phylogeny-aware comparative genomics tool for discovering quantitative
+    genotype-phenotype associations across species.'
+  authors:
+  - Jorge Augusto Hongo
+  - Giovanni Marques de Castro
+  - Alison Pelri Albuquerque Menezes
+  - "Agnello C\xE9sar Rios Picorelli"
+  - Thieres Tayroni Martins da Silva
+  - Eddie Luidy Imada
+  - Luigi Marchionni
+  - Luiz-Eduardo Del-Bem
+  - Anderson Vieira Chaves
+  - Gabriel Magno de Freitas Almeida
+  - Felipe Campelo
+  - Francisco Pereira Lobo
+  publisher: Patterns (New York, N.Y.)
+  date: '2023-04-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37409050
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:32817372
+  title: GULP1 regulates the NRF2-KEAP1 signaling axis in urothelial carcinoma.
+  authors:
+  - Masamichi Hayashi
+  - Elisa Guida
+  - Yoshikuni Inokawa
+  - Rachel Goldberg
+  - Leonardo O Reis
+  - Akira Ooki
+  - Manohar Pilli
+  - Pritam Sadhukhan
+  - Juhyung Woo
+  - Woonyoung Choi
+  - Evgeny Izumchenko
+  - Leonel Maldonado Gonzalez
+  - Luigi Marchionni
+  - Alex Zhavoronkov
+  - Mariana Brait
+  - Trinity Bivalacqua
+  - Alexander Baras
+  - George J Netto
+  - Wayne Koch
+  - Anju Singh
+  - Mohammad O Hoque
+  publisher: Science signaling
+  date: '2020-08-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32817372
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:29180467
+  title: YAP1 and COX2 Coordinately Regulate Urothelial Cancer Stem-like Cells.
+  authors:
+  - Akira Ooki
+  - Maria Del Carmen Rodriguez Pena
+  - Luigi Marchionni
+  - Wikum Dinalankara
+  - Asma Begum
+  - Noah M Hahn
+  - Christopher J VandenBussche
+  - Zeshaan A Rasheed
+  - Shifeng Mao
+  - George J Netto
+  - David Sidransky
+  - Mohammad O Hoque
+  publisher: Cancer research
+  date: '2017-11-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29180467
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:33923159
+  title: 'Influenza Vaccination and COVID-19 Mortality in the USA: An Ecological Study.'
+  authors:
+  - Claudio Zanettini
+  - Mohamed Omar
+  - Wikum Dinalankara
+  - Eddie Luidy Imada
+  - Elizabeth Colantuoni
+  - Giovanni Parmigiani
+  - Luigi Marchionni
+  publisher: Vaccines
+  date: '2021-04-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33923159
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:36038558
+  title: ZNF92, an unexplored transcription factor with remarkably distinct breast
+    cancer over-expression associated with prognosis and cell-of-origin.
+  authors:
+  - Mohammad Kamran
+  - Udayan Bhattacharya
+  - Mohamed Omar
+  - Luigi Marchionni
+  - Tan A Ince
+  publisher: NPJ breast cancer
+  date: '2022-08-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36038558
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:34880124
+  title: 'Building Tools for Machine Learning and Artificial Intelligence in Cancer
+    Research: Best Practices and a Case Study with the PathML Toolkit for Computational
+    Pathology.'
+  authors:
+  - Jacob Rosenthal
+  - Ryan Carelli
+  - Mohamed Omar
+  - David Brundage
+  - Ella Halbert
+  - Jackson Nyman
+  - Surya N Hari
+  - Eliezer M Van Allen
+  - Luigi Marchionni
+  - Renato Umeton
+  - Massimo Loda
+  publisher: 'Molecular cancer research : MCR'
+  date: '2021-12-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34880124
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:37419704
+  title: 'Optimal fluid volume for detecting malignancy in serous effusions: a single
+    institution experience.'
+  authors:
+  - Shaham Beg
+  - Claudio Zanettini
+  - Lucio Queiroz
+  - Luigi Marchionni
+  - Susan A Alperstein
+  - Momin T Siddiqui
+  publisher: Journal of the American Society of Cytopathology
+  date: '2023-06-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37419704
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:24086345
+  title: Next-generation sequence analysis of cancer xenograft models.
+  authors:
+  - Fernando J Rossello
+  - Richard W Tothill
+  - Kara Britt
+  - Kieren D Marini
+  - Jeanette Falzon
+  - David M Thomas
+  - Craig D Peacock
+  - Luigi Marchionni
+  - Jason Li
+  - Samara Bennett
+  - Erwin Tantoso
+  - Tracey Brown
+  - Philip Chan
+  - Luciano G Martelotto
+  - D Neil Watkins
+  publisher: PloS one
+  date: '2013-09-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24086345
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:36122486
+  title: Rapid detection of SARS-CoV-2 variants of concern by single nucleotide polymorphism
+    genotyping using TaqMan assays.
+  authors:
+  - Priya Velu
+  - Lin Cong
+  - Sophie Rand
+  - Yuqing Qiu
+  - Zhengmao Zhang
+  - Jianxuan Zhang
+  - Jianfen Guo
+  - Phyllis Ruggiero
+  - Ashley Sukhu
+  - Kathy Fauntleroy
+  - Eddie Imada
+  - Claudio Zanettini
+  - David Brundage
+  - Lars Westblade
+  - Luigi Marchionni
+  - Melissa M Cushing
+  - Hanna Rennert
+  publisher: Diagnostic microbiology and infectious disease
+  date: '2022-08-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36122486
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:33819273
+  title: An R package for divergence analysis of omics data.
+  authors:
+  - Wikum Dinalankara
+  - Qian Ke
+  - Donald Geman
+  - Luigi Marchionni
+  publisher: PloS one
+  date: '2021-04-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33819273
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:31360735
+  title: 'CDK12 inactivation across solid tumors: an actionable genetic subtype.'
+  authors:
+  - Catherine H Marshall
+  - Eddie L Imada
+  - Zhuojun Tang
+  - Luigi Marchionni
+  - Emmanuel S Antonarakis
+  publisher: Oncoscience
+  date: '2019-05-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31360735
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:30181298
+  title: Hypomethylation, endogenous retrovirus expression, and interferon signaling
+    in testicular germ cell tumors.
+  authors:
+  - Michael C Haffner
+  - Diana Taheri
+  - Eddie Luidy-Imada
+  - Doreen N Palsgrove
+  - Marie-Lisa Eich
+  - George J Netto
+  - Andres Matoso
+  - Thomas R Nirschl
+  - Qizhi Zheng
+  - Jessica L Hicks
+  - William G Nelson
+  - Angelo M De Marzo
+  - Luigi Marchionni
+  - Charles G Drake
+  - Srinivasan Yegnasubramanian
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2018-09-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30181298
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:30655325
+  title: Ezrin Promotes Stem Cell Properties in Pancreatic Ductal Adenocarcinoma.
+  authors:
+  - Vesselin R Penchev
+  - Yu-Tai Chang
+  - Asma Begum
+  - Theodore Ewachiw
+  - Christian Gocke
+  - Joey Li
+  - Ross H McMillan
+  - Qiuju Wang
+  - Robert Anders
+  - Luigi Marchionni
+  - Anirban Maitra
+  - Aykut Uren
+  - Zeshaan Rasheed
+  - William Matsui
+  publisher: 'Molecular cancer research : MCR'
+  date: '2019-01-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30655325
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:33568675
+  title: Plasma cells are enriched in localized prostate cancer in Black men and are
+    associated with improved outcomes.
+  authors:
+  - Adam B Weiner
+  - Thiago Vidotto
+  - Yang Liu
+  - Adrianna A Mendes
+  - Daniela C Salles
+  - Farzana A Faisal
+  - Sanjana Murali
+  - Matthew McFarlane
+  - Eddie L Imada
+  - Xin Zhao
+  - Ziwen Li
+  - Elai Davicioni
+  - Luigi Marchionni
+  - Arul M Chinnaiyan
+  - Stephen J Freedland
+  - Daniel E Spratt
+  - Jennifer D Wu
+  - Tamara L Lotan
+  - Edward M Schaeffer
+  publisher: Nature communications
+  date: '2021-02-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33568675
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:37216914
+  title: 'MultiNEP: a multi-omics network enhancement framework for prioritizing disease
+    genes and metabolites simultaneously.'
+  authors:
+  - Zhuoran Xu
+  - Luigi Marchionni
+  - Shuang Wang
+  publisher: Bioinformatics (Oxford, England)
+  date: '2023-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37216914
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:26062848
+  title: Integration of Hedgehog and mutant FLT3 signaling in myeloid leukemia.
+  authors:
+  - Yiting Lim
+  - Lukasz Gondek
+  - Li Li
+  - Qiuju Wang
+  - Hayley Ma
+  - Emily Chang
+  - David L Huso
+  - Sarah Foerster
+  - Luigi Marchionni
+  - Karen McGovern
+  - David Neil Watkins
+  - Craig D Peacock
+  - Mark Levis
+  - Bruce Douglas Smith
+  - Akil A Merchant
+  - Donald Small
+  - William Matsui
+  publisher: Science translational medicine
+  date: '2015-06-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26062848
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:25354783
+  title: Identification of miR-145 targets through an integrated omics analysis.
+  authors:
+  - Tai-Chung Huang
+  - Santosh Renuse
+  - Sneha Pinto
+  - Praveen Kumar
+  - Yi Yang
+  - Raghothama Chaerkady
+  - Brian Godsey
+  - Joshua T Mendell
+  - Marc K Halushka
+  - Curt I Civin
+  - Luigi Marchionni
+  - Akhilesh Pandey
+  publisher: Molecular bioSystems
+  date: '2014-10-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25354783
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:26542228
+  title: "A multi-omic analysis of human na\xEFve CD4+ T cells."
+  authors:
+  - Christopher J Mitchell
+  - Derese Getnet
+  - Min-Sik Kim
+  - Srikanth S Manda
+  - Praveen Kumar
+  - Tai-Chung Huang
+  - Sneha M Pinto
+  - Raja Sekhar Nirujogi
+  - Mio Iwasaki
+  - Patrick G Shaw
+  - Xinyan Wu
+  - Jun Zhong
+  - Raghothama Chaerkady
+  - Arivusudar Marimuthu
+  - Babylakshmi Muthusamy
+  - Nandini A Sahasrabuddhe
+  - Rajesh Raju
+  - Caitlyn Bowman
+  - Ludmila Danilova
+  - Jevon Cutler
+  - Dhanashree S Kelkar
+  - Charles G Drake
+  - T S Keshava Prasad
+  - Luigi Marchionni
+  - Peter N Murakami
+  - Alan F Scott
+  - Leming Shi
+  - Jean Thierry-Mieg
+  - Danielle Thierry-Mieg
+  - Rafael Irizarry
+  - Leslie Cope
+  - Yasushi Ishihama
+  - Charles Wang
+  - Harsha Gowda
+  - Akhilesh Pandey
+  publisher: BMC systems biology
+  date: '2015-11-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26542228
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:25864518
+  title: HES6 promotes prostate cancer aggressiveness independently of Notch signalling.
+  authors:
+  - Filipe L F Carvalho
+  - Luigi Marchionni
+  - Anuj Gupta
+  - Basheer A Kummangal
+  - Edward M Schaeffer
+  - Ashley E Ross
+  - David M Berman
+  publisher: Journal of cellular and molecular medicine
+  date: '2015-04-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25864518
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:29684357
+  title: Genome-Wide Somatic Copy Number Alterations and Mutations in High-Grade Pancreatic
+    Intraepithelial Neoplasia.
+  authors:
+  - Tatsuo Hata
+  - Masaya Suenaga
+  - Luigi Marchionni
+  - Anne Macgregor-Das
+  - Jun Yu
+  - Koji Shindo
+  - Koji Tamura
+  - Ralph H Hruban
+  - Michael Goggins
+  publisher: The American journal of pathology
+  date: '2018-04-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29684357
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:35634961
+  title: Precision health diagnostic and surveillance network uses S gene target failure
+    (SGTF) combined with sequencing technologies to track emerging SARS-CoV-2 variants.
+  authors:
+  - Rafael Guerrero-Preston
+  - Vanessa Rivera-Amill
+  - Karem Caraballo
+  - "Sebastian Rodr\xEDguez-Torres"
+  - Ana Purcell-Wiltz
+  - "Andrea A Garc\xEDa"
+  - Raphael S Torres
+  - Fernando T Zamuner
+  - Claudio Zanettini
+  - Matthew J MacKay
+  - Rachel Baits
+  - Daisy Salgado
+  - Gaurav Khullar
+  - Jessica Metti
+  - Timothy Baker
+  - Joel Dudley
+  - Keilyn Vale
+  - "Gabriela P\xE9rez"
+  - "Lorena De Jes\xFAs"
+  - Yaima Miranda
+  - Denise Ortiz
+  - "Amanda Garc\xEDa-Negr\xF3n"
+  - Liliana Viera
+  - Alberto Ortiz
+  - Jorge A Canabal
+  - Josefina Romaguera
+  - "Ivonne Jim\xE9nez-Vel\xE1zquez"
+  - Luigi Marchionni
+  - "Jos\xE9 F Rodr\xEDguez-Orengo"
+  - Adriana Baez
+  - Christopher E Mason
+  - David Sidransky
+  publisher: Immunity, inflammation and disease
+  date: '2022-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35634961
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:34569064
+  title: A robust and interpretable gene signature for predicting the lymph node status
+    of primary T1/T2 oral cavity squamous cell carcinoma.
+  authors:
+  - Yasmin Ghantous
+  - Mohamed Omar
+  - Esther Channah Broner
+  - Nishant Agrawal
+  - Alexander T Pearson
+  - Ari J Rosenberg
+  - Vasudha Mishra
+  - Alka Singh
+  - Imad Abu El-Naaj
+  - Peter A Savage
+  - David Sidransky
+  - Luigi Marchionni
+  - Evgeny Izumchenko
+  publisher: International journal of cancer
+  date: '2021-10-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34569064
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:26422827
+  title: Alterations in cellular metabolome after pharmacological inhibition of Notch
+    in glioblastoma cells.
+  authors:
+  - Ulf D Kahlert
+  - Menglin Cheng
+  - Katharina Koch
+  - Luigi Marchionni
+  - Xing Fan
+  - Eric H Raabe
+  - Jarek Maciaczyk
+  - Kristine Glunde
+  - Charles G Eberhart
+  publisher: International journal of cancer
+  date: '2015-10-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26422827
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:28038920
+  title: Analysis of differential gene expression mediated by clozapine in human postmortem
+    brains.
+  authors:
+  - Brian J Lee
+  - Luigi Marchionni
+  - Carrie E Andrews
+  - Alexis L Norris
+  - Leslie G Nucifora
+  - Yeewen Candace Wu
+  - Robert A Wright
+  - Jonathan Pevsner
+  - Christopher A Ross
+  - Russell L Margolis
+  - Akira Sawa
+  - Frederick C Nucifora
+  publisher: Schizophrenia research
+  date: '2016-12-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28038920
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:32366326
+  title: Differential gene methylation and expression of HOX transcription factor
+    family in orbitofacial neurofibroma.
+  authors:
+  - Antje Arnold
+  - Eddie Luidy Imada
+  - M Lisa Zhang
+  - Deepak P Edward
+  - Luigi Marchionni
+  - Fausto J Rodriguez
+  publisher: Acta neuropathologica communications
+  date: '2020-05-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32366326
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:22960283
+  title: Wnt signaling though beta-catenin is required for prostate lineage specification.
+  authors:
+  - Brian W Simons
+  - Paula J Hurley
+  - Zhenhua Huang
+  - Ashley E Ross
+  - Rebecca Miller
+  - Luigi Marchionni
+  - David M Berman
+  - Edward M Schaeffer
+  publisher: Developmental biology
+  date: '2012-08-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22960283
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:28561063
+  title: Selective analysis of cancer-cell intrinsic transcriptional traits defines
+    novel clinically relevant subtypes of colorectal cancer.
+  authors:
+  - Claudio Isella
+  - Francesco Brundu
+  - Sara E Bellomo
+  - Francesco Galimi
+  - Eugenia Zanella
+  - Roberta Porporato
+  - Consalvo Petti
+  - Alessandro Fiori
+  - Francesca Orzan
+  - Rebecca Senetta
+  - Carla Boccaccio
+  - Elisa Ficarra
+  - Luigi Marchionni
+  - Livio Trusolino
+  - Enzo Medico
+  - Andrea Bertotti
+  publisher: Nature communications
+  date: '2017-05-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28561063
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:37693379
+  title: Tumor-Specific CD8
+  authors:
+  - Elizabeth M Zawidzka
+  - Luca Biavati
+  - Amy Thomas
+  - Claudio Zanettini
+  - Luigi Marchionni
+  - Robert Leone
+  - Ivan Borrello
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2023-08-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37693379
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:28174896
+  title: PatternMarkers & GWCoGAPS for novel data-driven biomarkers via whole transcriptome
+    NMF.
+  authors:
+  - Genevieve L Stein-O'Brien
+  - Jacob L Carey
+  - Wai Shing Lee
+  - Michael Considine
+  - Alexander V Favorov
+  - Emily Flam
+  - Theresa Guo
+  - Sijia Li
+  - Luigi Marchionni
+  - Thomas Sherman
+  - Shawn Sivy
+  - Daria A Gaykalova
+  - Ronald D McKay
+  - Michael F Ochs
+  - Carlo Colantuoni
+  - Elana J Fertig
+  publisher: Bioinformatics (Oxford, England)
+  date: '2017-06-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28174896
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:24486590
+  title: Integrative analysis of 1q23.3 copy-number gain in metastatic urothelial
+    carcinoma.
+  authors:
+  - Markus Riester
+  - Lillian Werner
+  - Joaquim Bellmunt
+  - Shamini Selvarajah
+  - Elizabeth A Guancial
+  - Barbara A Weir
+  - Edward C Stack
+  - Rachel S Park
+  - Robert O'Brien
+  - Fabio A B Schutz
+  - Toni K Choueiri
+  - Sabina Signoretti
+  - Josep Lloreta
+  - Luigi Marchionni
+  - Enrique Gallardo
+  - Federico Rojo
+  - Denise I Garcia
+  - Yvonne Chekaluk
+  - David J Kwiatkowski
+  - Bernard H Bochner
+  - William C Hahn
+  - Azra H Ligon
+  - Justine A Barletta
+  - Massimo Loda
+  - David M Berman
+  - Philip W Kantoff
+  - Franziska Michor
+  - Jonathan E Rosenberg
+  publisher: 'Clinical cancer research : an official journal of the American Association
+    for Cancer Research'
+  date: '2014-01-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24486590
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:21421236
+  title: Molecular effects of genistein on male urethral development.
+  authors:
+  - Ashley E Ross
+  - Luigi Marchionni
+  - Timothy M Phillips
+  - Rebecca M Miller
+  - Paula J Hurley
+  - Brian W Simons
+  - Amirali H Salmasi
+  - Anthony J Schaeffer
+  - John P Gearhart
+  - Edward M Schaeffer
+  publisher: The Journal of urology
+  date: '2011-03-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21421236
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:22018358
+  title: Integrating diverse genomic data using gene sets.
+  authors:
+  - Svitlana Tyekucheva
+  - Luigi Marchionni
+  - Rachel Karchin
+  - Giovanni Parmigiani
+  publisher: Genome biology
+  date: '2011-10-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22018358
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:26109417
+  title: Removal of Abnormal Myofilament O-GlcNAcylation Restores Ca2+ Sensitivity
+    in Diabetic Cardiac Muscle.
+  authors:
+  - Genaro A Ramirez-Correa
+  - Junfeng Ma
+  - Chad Slawson
+  - Quira Zeidan
+  - Nahyr S Lugo-Fagundo
+  - Mingguo Xu
+  - Xiaoxu Shen
+  - Wei Dong Gao
+  - Viviane Caceres
+  - Khalid Chakir
+  - Lauren DeVine
+  - Robert N Cole
+  - Luigi Marchionni
+  - Nazareno Paolocci
+  - Gerald W Hart
+  - Anne M Murphy
+  publisher: Diabetes
+  date: '2015-06-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26109417
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:24403532
+  title: 'Hydrogen sulfide [corrected] increases survival during sepsis: protective
+    effect of CHOP inhibition.'
+  authors:
+  - Marcella Ferlito
+  - Qihong Wang
+  - William B Fulton
+  - Paul M Colombani
+  - Luigi Marchionni
+  - Karen Fox-Talbot
+  - Nazareno Paolocci
+  - Charles Steenbergen
+  publisher: 'Journal of immunology (Baltimore, Md. : 1950)'
+  date: '2014-01-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24403532
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:14707141
+  title: hGTSE-1 expression stimulates cytoplasmic localization of p53.
+  authors:
+  - Martin Monte
+  - Roberta Benetti
+  - Licio Collavin
+  - Luigi Marchionni
+  - Giannino Del Sal
+  - Claudio Schneider
+  publisher: The Journal of biological chemistry
+  date: '2004-01-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/14707141
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:29739972
+  title: Cell-type specific expression of oncogenic and tumor suppressive microRNAs
+    in the human prostate and prostate cancer.
+  authors:
+  - Binod Kumar
+  - Avi Z Rosenberg
+  - Su Mi Choi
+  - Karen Fox-Talbot
+  - Angelo M De Marzo
+  - Larisa Nonn
+  - W Nathaniel Brennen
+  - Luigi Marchionni
+  - Marc K Halushka
+  - Shawn E Lupold
+  publisher: Scientific reports
+  date: '2018-05-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29739972
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:30339629
+  title: Genetic Analysis of Small Well-differentiated Pancreatic Neuroendocrine Tumors
+    Identifies Subgroups With Differing Risks of Liver Metastases.
+  authors:
+  - Antonio Pea
+  - Jun Yu
+  - Luigi Marchionni
+  - Michael Noe
+  - Claudio Luchini
+  - Alessandra Pulvirenti
+  - Roeland F de Wilde
+  - Lodewijk A Brosens
+  - Neda Rezaee
+  - Ammar Javed
+  - Peter Chianchiano
+  - Stefano Gobbo
+  - Paolo Regi
+  - Roberto Salvia
+  - Claudio Bassi
+  - Jin He
+  - Matthew J Weiss
+  - John L Cameron
+  - G Johan A Offerhaus
+  - Ralph H Hruban
+  - Rita T Lawlor
+  - Aldo Scarpa
+  - Christopher M Heaphy
+  - Laura D Wood
+  - Christopher L Wolfgang
+  publisher: Annals of surgery
+  date: '2020-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30339629
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:22761195
+  title: Sox9 is required for prostate development and prostate cancer initiation.
+  authors:
+  - Zhenhua Huang
+  - Paula J Hurley
+  - Brian W Simons
+  - Luigi Marchionni
+  - David M Berman
+  - Ashley E Ross
+  - Edward M Schaeffer
+  publisher: Oncotarget
+  date: '2012-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22761195
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:33408119
+  title: Newly Identified Members of FGFR1 Splice Variants Engage in Cross-talk with
+    AXL/AKT Axis in Salivary Adenoid Cystic Carcinoma.
+  authors:
+  - Joseph O Humtsoe
+  - Hyun-Su Kim
+  - Brandon Leonard
+  - Shizhang Ling
+  - Bhumsuk Keam
+  - Luigi Marchionni
+  - Bahman Afsari
+  - Michael Considine
+  - Alexander V Favorov
+  - Elana J Fertig
+  - Hyunseok Kang
+  - Patrick K Ha
+  publisher: Cancer research
+  date: '2021-01-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33408119
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:29467463
+  title: "Bifunctional immune checkpoint-targeted antibody-ligand traps that simultaneously\
+    \ disable TGF\u03B2 enhance the efficacy of cancer immunotherapy."
+  authors:
+  - Rajani Ravi
+  - Kimberly A Noonan
+  - Vui Pham
+  - Rishi Bedi
+  - Alex Zhavoronkov
+  - Ivan V Ozerov
+  - Eugene Makarev
+  - Artem V Artemov
+  - Piotr T Wysocki
+  - Ranee Mehra
+  - Sridhar Nimmagadda
+  - Luigi Marchionni
+  - David Sidransky
+  - Ivan M Borrello
+  - Evgeny Izumchenko
+  - Atul Bedi
+  publisher: Nature communications
+  date: '2018-02-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29467463
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:32410671
+  title: 'Correction to: Differential gene methylation and expression of HOX transcription
+    factor family in orbitofacial neurofibroma.'
+  authors:
+  - Antje Arnold
+  - Eddie Luidy Imada
+  - M Lisa Zhang
+  - Deepak P Edward
+  - Luigi Marchionni
+  - Fausto J Rodriguez
+  publisher: Acta neuropathologica communications
+  date: '2020-05-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32410671
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:22585994
+  title: MYC is activated by USP2a-mediated modulation of microRNAs in prostate cancer.
+  authors:
+  - Barbara Benassi
+  - Richard Flavin
+  - Luigi Marchionni
+  - Silvio Zanata
+  - Yunfeng Pan
+  - Dipanjan Chowdhury
+  - Marina Marani
+  - Sabrina Strano
+  - Paola Muti
+  - Giovanni Blandino
+  - Massimo Loda
+  publisher: Cancer discovery
+  date: '2012-01-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22585994
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:21512138
+  title: An EGFR-ERK-SOX9 signaling cascade links urothelial development and regeneration
+    to cancer.
+  authors:
+  - Shizhang Ling
+  - Xiaofei Chang
+  - Luciana Schultz
+  - Thomas K Lee
+  - Alcides Chaux
+  - Luigi Marchionni
+  - George J Netto
+  - David Sidransky
+  - David M Berman
+  publisher: Cancer research
+  date: '2011-04-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21512138
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:20664052
+  title: A novel role of IL-17-producing lymphocytes in mediating lytic bone disease
+    in multiple myeloma.
+  authors:
+  - Kimberly Noonan
+  - Luigi Marchionni
+  - Judy Anderson
+  - Drew Pardoll
+  - G David Roodman
+  - Ivan Borrello
+  publisher: Blood
+  date: '2010-07-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20664052
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:21360566
+  title: Gene expression pathways of high grade localized prostate cancer.
+  authors:
+  - Ashley E Ross
+  - Luigi Marchionni
+  - Milena Vuica-Ross
+  - Chris Cheadle
+  - Jinshui Fan
+  - David M Berman
+  - Edward M Schaeffer
+  publisher: The Prostate
+  date: '2011-02-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21360566
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:29396848
+  title: Arsenic promotes the COX2/PGE2-SOX2 axis to increase the malignant stemness
+    properties of urothelial cells.
+  authors:
+  - Akira Ooki
+  - Asma Begum
+  - Luigi Marchionni
+  - Christopher J VandenBussche
+  - Shifeng Mao
+  - Max Kates
+  - Mohammad Obaidul Hoque
+  publisher: International journal of cancer
+  date: '2018-02-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29396848
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:30518628
+  title: PDCD4 Is an Androgen-Repressed Tumor Suppressor that Regulates Prostate Cancer
+    Growth and Castration Resistance.
+  authors:
+  - Kenji Zennami
+  - Su Mi Choi
+  - Ross Liao
+  - Ying Li
+  - Wikum Dinalankara
+  - Luigi Marchionni
+  - Fatema H Rafiqi
+  - Akira Kurozumi
+  - Koji Hatano
+  - Shawn E Lupold
+  publisher: 'Molecular cancer research : MCR'
+  date: '2018-12-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30518628
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:27799525
+  title: Expression of HIV-1 matrix protein p17 and association with B-cell lymphoma
+    in HIV-1 transgenic mice.
+  authors:
+  - Virginia A Carroll
+  - Mark K Lafferty
+  - Luigi Marchionni
+  - Joseph L Bryant
+  - Robert C Gallo
+  - Alfredo Garzino-Demo
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2016-10-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27799525
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38721890
+  title: Comparison of three machine learning algorithms for classification of B-cell
+    neoplasms using clinical flow cytometry data.
+  authors:
+  - Wikum Dinalankara
+  - David P Ng
+  - Luigi Marchionni
+  - Paul D Simonson
+  publisher: Cytometry. Part B, Clinical cytometry
+  date: '2024-05-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38721890
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:20488783
+  title: Methylation profiles of endometrioid and serous endometrial cancers.
+  authors:
+  - Laura M S Seeber
+  - Ronald P Zweemer
+  - Luigi Marchionni
+  - Leon F A G Massuger
+  - Vincent T H B M Smit
+  - W Marchien van Baal
+  - "Ren\xE9 H M Verheijen"
+  - Paul J van Diest
+  publisher: Endocrine-related cancer
+  date: '2010-06-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20488783
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39252915
+  title: Gene Signature for Predicting Metastasis in Prostate Cancer Using Primary
+    Tumor Expression Profiles.
+  authors:
+  - Itzel Valencia
+  - Pier Vitale Nuzzo
+  - Edoardo Francini
+  - Francesco Ravera
+  - "Giuseppe Nicol\xF2 Fanelli"
+  - Sara Bleve
+  - Cristian Scatena
+  - Luigi Marchionni
+  - Mohamed Omar
+  publisher: 'medRxiv : the preprint server for health sciences'
+  date: '2024-08-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39252915
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:29568059
+  title: Cell-autonomous and cell non-autonomous downregulation of tumor suppressor
+    DAB2IP by microRNA-149-3p promotes aggressiveness of cancer cells.
+  authors:
+  - Arianna Bellazzo
+  - Giulio Di Minin
+  - Elena Valentino
+  - Daria Sicari
+  - Denis Torre
+  - Luigi Marchionni
+  - Federica Serpi
+  - Michael B Stadler
+  - Daniela Taverna
+  - Gaia Zuccolotto
+  - Isabella Monia Montagner
+  - Antonio Rosato
+  - Federica Tonon
+  - Cristina Zennaro
+  - Chiara Agostinis
+  - Roberta Bulla
+  - Miguel Mano
+  - Giannino Del Sal
+  - Licio Collavin
+  publisher: Cell death and differentiation
+  date: '2018-03-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29568059
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:25535351
+  title: Only three driver gene mutations are required for the development of lung
+    and colorectal cancers.
+  authors:
+  - Cristian Tomasetti
+  - Luigi Marchionni
+  - Martin A Nowak
+  - Giovanni Parmigiani
+  - Bert Vogelstein
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2014-12-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25535351
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:27334595
+  title: Human Th17 Cells Lack HIV-Inhibitory RNases and Are Highly Permissive to
+    Productive HIV Infection.
+  authors:
+  - Aaron Christensen-Quick
+  - Mark Lafferty
+  - Lingling Sun
+  - Luigi Marchionni
+  - Anthony DeVico
+  - Alfredo Garzino-Demo
+  publisher: Journal of virology
+  date: '2016-08-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27334595
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:22313051
+  title: Regulation of lipid metabolism by Dicer revealed through SILAC mice.
+  authors:
+  - Tai-Chung Huang
+  - Nandini A Sahasrabuddhe
+  - Min-Sik Kim
+  - Derese Getnet
+  - Yi Yang
+  - Jonathan M Peterson
+  - Bidyut Ghosh
+  - Raghothama Chaerkady
+  - Steven D Leach
+  - Luigi Marchionni
+  - G William Wong
+  - Akhilesh Pandey
+  publisher: Journal of proteome research
+  date: '2012-02-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22313051
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:24086249
+  title: Association of promoter methylation of VGF and PGP9.5 with ovarian cancer
+    progression.
+  authors:
+  - Mariana Brait
+  - Leonel Maldonado
+  - Maartje G Noordhuis
+  - Shahnaz Begum
+  - Myriam Loyo
+  - Maria Luana Poeta
+  - Alvaro Barbosa
+  - Vito M Fazio
+  - Roberto Angioli
+  - Carla Rabitti
+  - Luigi Marchionni
+  - Pauline de Graeff
+  - Ate G J van der Zee
+  - G Bea A Wisman
+  - David Sidransky
+  - Mohammad O Hoque
+  publisher: PloS one
+  date: '2013-09-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24086249
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:31502941
+  title: ''
+  authors:
+  - Nora M Haney
+  - Farzana A Faisal
+  - Jiayun Lu
+  - Liana B Guedes
+  - Victor E Reuter
+  - Howard I Scher
+  - James A Eastham
+  - Luigi Marchionni
+  - Corinne Joshu
+  - Anuradha Gopalan
+  - Tamara L Lotan
+  publisher: The Journal of urology
+  date: '2019-09-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31502941
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:21703415
+  title: Effects of age and heart failure on human cardiac stem cell function.
+  authors:
+  - Daniela Cesselli
+  - Antonio P Beltrami
+  - Federica D'Aurizio
+  - Patrizia Marcon
+  - Natascha Bergamin
+  - Barbara Toffoletto
+  - Maura Pandolfi
+  - Elisa Puppato
+  - Laura Marino
+  - Sergio Signore
+  - Ugolino Livi
+  - Roberto Verardo
+  - Silvano Piazza
+  - Luigi Marchionni
+  - Claudia Fiorini
+  - Claudio Schneider
+  - Toru Hosoda
+  - Marcello Rota
+  - Jan Kajstura
+  - Piero Anversa
+  - Carlo A Beltrami
+  - Annarosa Leri
+  publisher: The American journal of pathology
+  date: '2011-05-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21703415
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:21176082
+  title: Dimeric naphthoquinones, a novel class of compounds with prostate cancer
+    cytotoxicity.
+  authors:
+  - Ashley E Ross
+  - Ashkan Emadi
+  - Luigi Marchionni
+  - Paula J Hurley
+  - Brian W Simons
+  - Edward M Schaeffer
+  - Milena Vuica-Ross
+  publisher: BJU international
+  date: '2010-12-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21176082
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:23880963
+  title: Analysis of the genomic response of human prostate cancer cells to histone
+    deacetylase inhibitors.
+  authors:
+  - Madeleine S Q Kortenhorst
+  - Michel D Wissing
+  - "Ronald Rodr\xEDguez"
+  - Sushant K Kachhap
+  - Judith J M Jans
+  - Petra Van der Groep
+  - Henk M W Verheul
+  - Anuj Gupta
+  - Paul O Aiyetan
+  - Elsken van der Wall
+  - Michael A Carducci
+  - Paul J Van Diest
+  - Luigi Marchionni
+  publisher: Epigenetics
+  date: '2013-07-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23880963
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:23452820
+  title: Combination treatment with ABT-737 and chloroquine in preclinical models
+    of small cell lung cancer.
+  authors:
+  - Rebekah L Zinn
+  - Eric E Gardner
+  - Irina Dobromilskaya
+  - Sara Murphy
+  - Luigi Marchionni
+  - Christine L Hann
+  - Charles M Rudin
+  publisher: Molecular cancer
+  date: '2013-03-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23452820
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:23161775
+  title: MicroRNA profiling in pediatric pilocytic astrocytoma reveals biologically
+    relevant targets, including PBX3, NFIB, and METAP2.
+  authors:
+  - Cheng-Ying Ho
+  - Eli Bar
+  - Caterina Giannini
+  - Luigi Marchionni
+  - Matthias A Karajannis
+  - David Zagzag
+  - David H Gutmann
+  - Charles G Eberhart
+  - Fausto J Rodriguez
+  publisher: Neuro-oncology
+  date: '2012-11-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23161775
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:23682826
+  title: A simple and reproducible breast cancer prognostic test.
+  authors:
+  - Luigi Marchionni
+  - Bahman Afsari
+  - Donald Geman
+  - Jeffrey T Leek
+  publisher: BMC genomics
+  date: '2013-05-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23682826
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:26374070
+  title: Targeted sequencing reveals clonal genetic changes in the progression of
+    early lung neoplasms and paired circulating DNA.
+  authors:
+  - Evgeny Izumchenko
+  - Xiaofei Chang
+  - Mariana Brait
+  - Elana Fertig
+  - Luciane T Kagohara
+  - Atul Bedi
+  - Luigi Marchionni
+  - Nishant Agrawal
+  - Rajani Ravi
+  - Sian Jones
+  - Mohammad O Hoque
+  - William H Westra
+  - David Sidransky
+  publisher: Nature communications
+  date: '2015-09-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26374070
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:30171262
+  title: Hedgehog/GLI1 activation leads to leukemic transformation of myelodysplastic
+    syndrome in vivo and GLI1 inhibition results in antitumor activity.
+  authors:
+  - Bonnie W Lau
+  - Kyounghee Huh
+  - Rafael Madero-Marroquin
+  - Federico De Marchi
+  - Yiting Lim
+  - Qiuju Wang
+  - Francisco Lobo
+  - Luigi Marchionni
+  - Douglas B Smith
+  - Amy DeZern
+  - Mark J Levis
+  - Peter D Aplan
+  - William Matsui
+  - Lukasz P Gondek
+  publisher: Oncogene
+  date: '2018-08-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30171262
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:19544456
+  title: Differentiation of a highly tumorigenic basal cell compartment in urothelial
+    carcinoma.
+  authors:
+  - Xiaobing He
+  - Luigi Marchionni
+  - Donna E Hansel
+  - Wayne Yu
+  - Akshay Sood
+  - Jie Yang
+  - Giovanni Parmigiani
+  - William Matsui
+  - David M Berman
+  publisher: Stem cells (Dayton, Ohio)
+  date: '2009-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19544456
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:28811253
+  title: MicroRNAs, promising biomarkers in the diagnosis of Xp11 translocation RCC-reply.
+  authors:
+  - Luigi Marchionni
+  - George J Netto
+  - Mohammad O Hoque
+  - Pedram Argani
+  publisher: Human pathology
+  date: '2017-08-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28811253
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:22527098
+  title: 'Oncogene amplification in male breast cancer: analysis by multiplex ligation-dependent
+    probe amplification.'
+  authors:
+  - Robert Kornegoor
+  - Cathy B Moelans
+  - Anoek H J Verschuur-Maes
+  - Marieke C H Hogenes
+  - Peter C de Bruin
+  - Joost J Oudejans
+  - Luigi Marchionni
+  - Paul J van Diest
+  publisher: Breast cancer research and treatment
+  date: '2012-04-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22527098
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:23515613
+  title: ERK phosphorylation is predictive of resistance to IGF-1R inhibition in small
+    cell lung cancer.
+  authors:
+  - Rebekah L Zinn
+  - Eric E Gardner
+  - Luigi Marchionni
+  - Sara C Murphy
+  - Irina Dobromilskaya
+  - Christine L Hann
+  - Charles M Rudin
+  publisher: Molecular cancer therapeutics
+  date: '2013-03-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23515613
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:21562231
+  title: In vivo liver regeneration potential of human induced pluripotent stem cells
+    from diverse origins.
+  authors:
+  - Hua Liu
+  - Yonghak Kim
+  - Saul Sharkis
+  - Luigi Marchionni
+  - Yoon-Young Jang
+  publisher: Science translational medicine
+  date: '2011-05-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21562231
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:25262153
+  title: 'switchBox: an R package for k-Top Scoring Pairs classifier development.'
+  authors:
+  - Bahman Afsari
+  - Elana J Fertig
+  - Donald Geman
+  - Luigi Marchionni
+  publisher: Bioinformatics (Oxford, England)
+  date: '2014-09-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25262153
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:24786473
+  title: Key tumor suppressor genes inactivated by "greater promoter" methylation
+    and somatic mutations in head and neck cancer.
+  authors:
+  - Rafael Guerrero-Preston
+  - Christina Michailidi
+  - Luigi Marchionni
+  - Curtis R Pickering
+  - Mitchell J Frederick
+  - Jeffrey N Myers
+  - Srinivasan Yegnasubramanian
+  - Tal Hadar
+  - Maartje G Noordhuis
+  - Veronika Zizkova
+  - Elana Fertig
+  - Nishant Agrawal
+  - William Westra
+  - Wayne Koch
+  - Joseph Califano
+  - Victor E Velculescu
+  - David Sidransky
+  publisher: Epigenetics
+  date: '2014-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24786473
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:29980786
+  title: Epigenetically regulated PAX6 drives cancer cells toward a stem-like state
+    via GLI-SOX2 signaling axis in lung adenocarcinoma.
+  authors:
+  - Akira Ooki
+  - Wikum Dinalankara
+  - Luigi Marchionni
+  - Jun-Chieh J Tsay
+  - Chandra Goparaju
+  - Zahra Maleki
+  - William N Rom
+  - Harvey I Pass
+  - Mohammad O Hoque
+  publisher: Oncogene
+  date: '2018-07-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29980786
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:29704674
+  title: 'PD-L1 Expression Heterogeneity in Non-Small Cell Lung Cancer: Defining Criteria
+    for Harmonization between Biopsy Specimens and Whole Sections.'
+  authors:
+  - Enrico Munari
+  - Giuseppe Zamboni
+  - Gianluigi Lunardi
+  - Luigi Marchionni
+  - Marcella Marconi
+  - Marco Sommaggio
+  - Matteo Brunelli
+  - Guido Martignoni
+  - George J Netto
+  - Mohammad O Hoque
+  - Francesca Moretta
+  - Maria Cristina Mingari
+  - Maria Cristina Pegoraro
+  - Alessandro Inno
+  - Simona Paiano
+  - Alberto Terzi
+  - Alberto Cavazza
+  - Giulio Rossi
+  - Francesca Romana Mariotti
+  - Paola Vacca
+  - Lorenzo Moretta
+  - Giuseppe Bogina
+  publisher: 'Journal of thoracic oncology : official publication of the International
+    Association for the Study of Lung Cancer'
+  date: '2018-04-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29704674
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:26058959
+  title: Tissue-based Genomics Augments Post-prostatectomy Risk Stratification in
+    a Natural History Cohort of Intermediate- and High-Risk Men.
+  authors:
+  - Ashley E Ross
+  - Michael H Johnson
+  - Kasra Yousefi
+  - Elai Davicioni
+  - George J Netto
+  - Luigi Marchionni
+  - Helen L Fedor
+  - Stephanie Glavaris
+  - Voleak Choeurng
+  - Christine Buerki
+  - Nicholas Erho
+  - Lucia L Lam
+  - Elizabeth B Humphreys
+  - Sheila Faraj
+  - Stephania M Bezerra
+  - Misop Han
+  - Alan W Partin
+  - Bruce J Trock
+  - Edward M Schaeffer
+  publisher: European urology
+  date: '2015-06-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26058959
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:23760244
+  title: High levels of CD2 expression identify HIV-1 latently infected resting memory
+    CD4+ T cells in virally suppressed subjects.
+  authors:
+  - Maria Iglesias-Ussel
+  - Claire Vandergeeten
+  - Luigi Marchionni
+  - Nicolas Chomont
+  - Fabio Romerio
+  publisher: Journal of virology
+  date: '2013-06-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23760244
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:28692661
+  title: The extracellular matrix and focal adhesion kinase signaling regulate cancer
+    stem cell function in pancreatic ductal adenocarcinoma.
+  authors:
+  - Asma Begum
+  - Theodore Ewachiw
+  - Clinton Jung
+  - Ally Huang
+  - K Jessica Norberg
+  - Luigi Marchionni
+  - Ross McMillan
+  - Vesselin Penchev
+  - N V Rajeshkumar
+  - Anirban Maitra
+  - Laura Wood
+  - Chenguang Wang
+  - Christopher Wolfgang
+  - Ana DeJesus-Acosta
+  - Daniel Laheru
+  - Irina M Shapiro
+  - Mahesh Padval
+  - Jonathan A Pachter
+  - David T Weaver
+  - Zeshaan A Rasheed
+  - William Matsui
+  publisher: PloS one
+  date: '2017-07-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28692661
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:27683042
+  title: Identification of miR-30b-3p and miR-30d-5p as direct regulators of androgen
+    receptor signaling in prostate cancer by complementary functional microRNA library
+    screening.
+  authors:
+  - Binod Kumar
+  - Salar Khaleghzadegan
+  - Brian Mears
+  - Koji Hatano
+  - Tarana A Kudrolli
+  - Wasim H Chowdhury
+  - David B Yeater
+  - Charles M Ewing
+  - Jun Luo
+  - William B Isaacs
+  - Luigi Marchionni
+  - Shawn E Lupold
+  publisher: Oncotarget
+  date: '2016-11-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27683042
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:30777857
+  title: ''
+  authors:
+  - Rafael Guerrero-Preston
+  - Fahcina Lawson
+  - Sebastian Rodriguez-Torres
+  - Maartje G Noordhuis
+  - Francesca Pirini
+  - Laura Manuel
+  - Blanca L Valle
+  - Tal Hadar
+  - Bianca Rivera
+  - Oluwasina Folawiyo
+  - Adriana Baez
+  - Luigi Marchionni
+  - Wayne M Koch
+  - William H Westra
+  - Young J Kim
+  - James R Eshleman
+  - David Sidransky
+  publisher: Cancer prevention research (Philadelphia, Pa.)
+  date: '2019-02-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30777857
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:27401248
+  title: Dysregulation of EGFR Pathway in EphA2 Cell Subpopulation Significantly Associates
+    with Poor Prognosis in Colorectal Cancer.
+  authors:
+  - Mariangela De Robertis
+  - Luisa Loiacono
+  - Caterina Fusilli
+  - Maria Luana Poeta
+  - Tommaso Mazza
+  - Massimo Sanchez
+  - Luigi Marchionni
+  - Emanuela Signori
+  - Giuseppe Lamorte
+  - Angelo Luigi Vescovi
+  - Jesus Garcia-Foncillas
+  - Vito Michele Fazio
+  publisher: 'Clinical cancer research : an official journal of the American Association
+    for Cancer Research'
+  date: '2016-07-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27401248
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:26446945
+  title: Germline Variants in Asporin Vary by Race, Modulate the Tumor Microenvironment,
+    and Are Differentially Associated with Metastatic Prostate Cancer.
+  authors:
+  - Paula J Hurley
+  - Debasish Sundi
+  - Brian Shinder
+  - Brian W Simons
+  - Robert M Hughes
+  - Rebecca M Miller
+  - Benjamin Benzon
+  - Sheila F Faraj
+  - George J Netto
+  - Ismael A Vergara
+  - Nicholas Erho
+  - Elai Davicioni
+  - R Jeffrey Karnes
+  - Guifang Yan
+  - Charles Ewing
+  - Sarah D Isaacs
+  - David M Berman
+  - Jennifer R Rider
+  - Kristina M Jordahl
+  - Lorelei A Mucci
+  - Jessie Huang
+  - Steven S An
+  - Ben H Park
+  - William B Isaacs
+  - Luigi Marchionni
+  - Ashley E Ross
+  - Edward M Schaeffer
+  publisher: 'Clinical cancer research : an official journal of the American Association
+    for Cancer Research'
+  date: '2015-10-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26446945
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:20585447
+  title: Downregulation of homologous recombination DNA repair genes by HDAC inhibition
+    in prostate cancer is mediated through the E2F1 transcription factor.
+  authors:
+  - Sushant K Kachhap
+  - Nadine Rosmus
+  - Spencer J Collis
+  - Madeleine S Q Kortenhorst
+  - Michel D Wissing
+  - Mohammad Hedayati
+  - Shabana Shabbeer
+  - Janet Mendonca
+  - Justin Deangelis
+  - Luigi Marchionni
+  - Jianqing Lin
+  - "Naseruddin H\xF6ti"
+  - Johan W R Nortier
+  - Theodore L DeWeese
+  - Hans Hammers
+  - Michael A Carducci
+  publisher: PloS one
+  date: '2010-06-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20585447
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:26230923
+  title: Identification and Validation of Protein Biomarkers of Response to Neoadjuvant
+    Platinum Chemotherapy in Muscle Invasive Urothelial Carcinoma.
+  authors:
+  - Alexander S Baras
+  - Nilay Gandhi
+  - Enrico Munari
+  - Sheila Faraj
+  - Luciana Shultz
+  - Luigi Marchionni
+  - Mark Schoenberg
+  - Noah Hahn
+  - Mohammad Obaidul Hoque
+  - David Berman
+  - Trinity J Bivalacqua
+  - George Netto
+  publisher: PloS one
+  date: '2015-07-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26230923
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:26599435
+  title: 'Correction: Identification and Validation of Protein Biomarkers of Response
+    to Neoadjuvant Platinum Chemotherapy in Muscle Invasive Urothelial Carcinoma.'
+  authors:
+  - Alexander S Baras
+  - Nilay Gandhi
+  - Enrico Munari
+  - Sheila Faraj
+  - Luciana Shultz
+  - Luigi Marchionni
+  - Mark Schoenberg
+  - Noah Hahn
+  - Mohammad Obaidul Hoque
+  - David Berman
+  - Trinity J Bivalacqua
+  - George Netto
+  publisher: PloS one
+  date: '2015-11-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26599435
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:21169257
+  title: 'The Notch target Hes1 directly modulates Gli1 expression and Hedgehog signaling:
+    a potential mechanism of therapeutic resistance.'
+  authors:
+  - Karisa C Schreck
+  - Pete Taylor
+  - Luigi Marchionni
+  - Vidya Gopalakrishnan
+  - Eli E Bar
+  - Nicholas Gaiano
+  - Charles G Eberhart
+  publisher: 'Clinical cancer research : an official journal of the American Association
+    for Cancer Research'
+  date: '2010-12-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21169257
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:29340028
+  title: High-resolution microbiome profiling uncovers
+  authors:
+  - Rafael Guerrero-Preston
+  - James Robert White
+  - Filipa Godoy-Vitorino
+  - "Arnold Rodr\xEDguez-Hilario"
+  - Kelvin Navarro
+  - "Herminio Gonz\xE1lez"
+  - Christina Michailidi
+  - Anne Jedlicka
+  - Sierra Canapp
+  - Jessica Bondy
+  - Amanda Dziedzic
+  - Barbara Mora-Lagos
+  - Gustavo Rivera-Alvarez
+  - Carmen Ili-Gangas
+  - Priscilla Brebi-Mieville
+  - William Westra
+  - Wayne Koch
+  - Hyunseok Kang
+  - Luigi Marchionni
+  - Young Kim
+  - David Sidransky
+  publisher: Oncotarget
+  date: '2017-09-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29340028
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:27376138
+  title: Summary and Recommendations from the National Cancer Institute's Clinical
+    Trials Planning Meeting on Novel Therapeutics for Non-Muscle Invasive Bladder
+    Cancer.
+  authors:
+  - Seth P Lerner
+  - Dean F Bajorin
+  - Colin P Dinney
+  - Jason A Efstathiou
+  - Susan Groshen
+  - Noah M Hahn
+  - Donna Hansel
+  - David Kwiatkowski
+  - Michael O'Donnell
+  - Jonathan Rosenberg
+  - Robert Svatek
+  - Jeffrey S Abrams
+  - Hikmat Al-Ahmadie
+  - Andrea B Apolo
+  - Joaquim Bellmunt
+  - Margaret Callahan
+  - Eugene K Cha
+  - Charles Drake
+  - Jonathan Jarow
+  - Ashish Kamat
+  - William Kim
+  - Margaret Knowles
+  - Bhupinder Mann
+  - Luigi Marchionni
+  - David McConkey
+  - Lisa McShane
+  - Nilsa Ramirez
+  - Andrew Sharabi
+  - Arlene H Sharpe
+  - David Solit
+  - Catherine M Tangen
+  - Abdul Tawab Amiri
+  - Eliezer Van Allen
+  - Pamela J West
+  - J A Witjes
+  - Diane Zipursky Quale
+  publisher: Bladder cancer (Amsterdam, Netherlands)
+  date: '2016-04-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27376138
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:22927397
+  title: Secreted protein, acidic and rich in cysteine-like 1 (SPARCL1) is down regulated
+    in aggressive prostate cancers and is prognostic for poor clinical outcome.
+  authors:
+  - Paula J Hurley
+  - Luigi Marchionni
+  - Brian W Simons
+  - Ashley E Ross
+  - Sarah B Peskoe
+  - Rebecca M Miller
+  - Nicholas Erho
+  - Ismael A Vergara
+  - Mercedeh Ghadessi
+  - Zhenhua Huang
+  - Bora Gurel
+  - Ben Ho Park
+  - Elai Davicioni
+  - Robert B Jenkins
+  - Elizabeth A Platz
+  - David M Berman
+  - Edward M Schaeffer
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2012-08-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22927397
+  plugin: sources.py
+  file: sources.yaml
 - id: pmc:PMC2821899
   title: A primary xenograft model of small-cell lung cancer reveals irreversible
     changes in gene expression imposed by culture in vitro
@@ -2908,5 +5774,172 @@
   publisher: Cancer research
   date: '2009-04-15'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2821899/
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:23434645
+  title: Isolation of microarray-quality RNA from primary human cells after intracellular
+    immunostaining and fluorescence-activated cell sorting.
+  authors:
+  - Maria Iglesias-Ussel
+  - Luigi Marchionni
+  - Fabio Romerio
+  publisher: Journal of immunological methods
+  date: '2013-02-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23434645
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:29262631
+  title: Pharmacodynamic and pharmacokinetic neoadjuvant study of hedgehog pathway
+    inhibitor Sonidegib (LDE-225) in men with high-risk localized prostate cancer
+    undergoing prostatectomy.
+  authors:
+  - Ashley E Ross
+  - Robert M Hughes
+  - Stephanie Glavaris
+  - Kamyar Ghabili
+  - Ping He
+  - Nicole M Anders
+  - Rana Harb
+  - Jeffrey J Tosoian
+  - Luigi Marchionni
+  - Edward M Schaeffer
+  - Alan W Partin
+  - Mohamad E Allaf
+  - Trinity J Bivalacqua
+  - Carolyn Chapman
+  - Tanya O'Neal
+  - Angelo M DeMarzo
+  - Paula J Hurley
+  - Michelle A Rudek
+  - Emmanuel S Antonarakis
+  publisher: Oncotarget
+  date: '2017-10-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29262631
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:31557666
+  title: 'Combined extracts of Echinacea angustifolia DC. and Zingiber officinale
+    Roscoe in softgel capsules: Pharmacokinetics and immunomodulatory effects assessed
+    by gene expression profiling.'
+  authors:
+  - Stefano Dall'Acqua
+  - Iztok Grabnar
+  - Roberto Verardo
+  - Enio Klaric
+  - Luigi Marchionni
+  - Eddie Luidy-Imada
+  - Stefania Sut
+  - Chiara Agostinis
+  - Roberta Bulla
+  - Beatrice Perissutti
+  - Dario Voinovich
+  publisher: 'Phytomedicine : international journal of phytotherapy and phytopharmacology'
+  date: '2019-09-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31557666
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:24703100
+  title: 'Clear cell papillary renal cell carcinoma: micro-RNA expression profiling
+    and comparison with clear cell renal cell carcinoma and papillary renal cell carcinoma.'
+  authors:
+  - Enrico Munari
+  - Luigi Marchionni
+  - Apurva Chitre
+  - Masamichi Hayashi
+  - Guido Martignoni
+  - Matteo Brunelli
+  - Stefano Gobbo
+  - Pedram Argani
+  - Mohamad Allaf
+  - Mohammad O Hoque
+  - George J Netto
+  publisher: Human pathology
+  date: '2014-01-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24703100
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:19695104
+  title: The ordering of expression among a few genes can provide simple cancer biomarkers
+    and signal BRCA1 mutations.
+  authors:
+  - Xue Lin
+  - Bahman Afsari
+  - Luigi Marchionni
+  - Leslie Cope
+  - Giovanni Parmigiani
+  - Daniel Naiman
+  - Donald Geman
+  publisher: BMC bioinformatics
+  date: '2009-08-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19695104
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:15377994
+  title: 'Gene expression profiling of advanced ovarian cancer: characterization of
+    a molecular signature involving fibroblast growth factor 2.'
+  authors:
+  - Loris De Cecco
+  - Luigi Marchionni
+  - Manuela Gariboldi
+  - James F Reid
+  - M Stefania Lagonigro
+  - Stefano Caramuta
+  - Cristina Ferrario
+  - Erica Bussani
+  - Delia Mezzanzanica
+  - Fabio Turatti
+  - Domenico Delia
+  - Maria G Daidone
+  - Maria Oggionni
+  - Norma Bertuletti
+  - Antonino Ditto
+  - Francesco Raspagliesi
+  - Silvana Pilotti
+  - Marco A Pierotti
+  - Silvana Canevari
+  - Claudio Schneider
+  publisher: Oncogene
+  date: '2004-10-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15377994
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:14744102
+  title: 'LNCIB human full-length cDNAs collection: towards a better comprehension
+    of the human transcriptome.'
+  authors:
+  - Emiliano Dalla
+  - Roberto Verardo
+  - "Dejan Lazarevi\u0107"
+  - Luigi Marchionni
+  - James F Reid
+  - Nabil Bahar
+  - "Enio Klari\u0107"
+  - Giacomo Marcuzzi
+  - Riccardo Marzio
+  - Anna Belgrano
+  - Danilo Licastro
+  - Claudio Schneider
+  publisher: Comptes rendus biologies
+  date: '2003-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/14744102
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:28437440
+  title: 'Synthesizer: Expediting synthesis studies from context-free data with information
+    retrieval techniques.'
+  authors:
+  - Lisa M Gandy
+  - Jordan Gumm
+  - Benjamin Fertig
+  - Anne Thessen
+  - Michael J Kennish
+  - Sameer Chavan
+  - Luigi Marchionni
+  - Xiaoxin Xia
+  - Shambhavi Shankrit
+  - Elana J Fertig
+  publisher: PloS one
+  date: '2017-04-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28437440
   plugin: sources.py
   file: sources.yaml
