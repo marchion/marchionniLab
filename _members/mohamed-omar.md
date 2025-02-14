@@ -1,8 +1,9 @@
 ---
 name: Mohamed Omar
-image: images/luigi.png
-role: assistant-professor
-affiliation: Weill Cornell Medicine
+image: images/Omar.png
+description: Digital pathology expert
+role: principal-investigator
+affiliation: Cedar Sinai
 aliases:
   - M. Omar
   - M Omar

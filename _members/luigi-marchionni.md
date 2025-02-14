@@ -1,8 +1,10 @@
 ---
 name: Luigi Marchionni
-image: images/luigi.jpg
+image: images/Luigi.jpg
+description: Hopefully a good scientist
 role: principal-investigator
 affiliation: Weill Cornell Medicine
+
 aliases:
   - L. Marchionni
   - L Marchionni

@@ -1,8 +1,8 @@
 ---
 name: Eddie Luidy Imda
-image: images/luigi.jpg
-description: Lead Programmer
-role: assistant-professor
+image: images/Eddie.jpg
+description: Lead programmer and RNA expert
+role: principal-investigator
 affiliation: Weill Cornell Medicine
 aliases:
   - E. Imada
