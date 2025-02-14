@@ -27,7 +27,8 @@ Former lab members
 {% capture content %}
 
 {% include list.html data="members" component="portrait" filter="group == 'former'" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/dna.jpg" %}
+{% include figure.html image="images/rna.jpg" %}
 
 {% endcapture %}
 
