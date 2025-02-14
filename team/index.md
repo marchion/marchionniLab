@@ -17,10 +17,6 @@ Please meet our current team members.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-{% include figure.html image="images/digitalPath.jpg" %}
-Meet Dr. Mohamed Omar
-
-
 ## Past team members 
 
 Our team of exceptional former lab members
@@ -29,13 +25,13 @@ Our team of exceptional former lab members
 
 {% capture content %}
 
-{% include figure.html image="images/digitalPath.jpg" %}
+{% include figure.html image="images/digitalPath.png" %}
 Meet Dr. Mohamed Omar
 
 {% include figure.html image="images/dna.png" %}
 Meet Dr. Paul Ayietan
 
-{% include figure.html image="images/tumorEvol.jpg" %}
+{% include figure.html image="images/turEvol.png" %}
 Meet Dr. Diego Sanchez
 
 {% include figure.html image="images/3Dstruct.jpg" %}
