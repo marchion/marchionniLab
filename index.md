@@ -23,9 +23,9 @@ My lab aims to improve human health, disease outcomes, and treatments through th
 **Cancer Genomics and Computation Biology.**
 Millions of cells are dividing every day in our human body. 
 This process is well coordinated and cell divisions are followed by cell specialization,
-allowing the internal maintenance of tissues and organs (homeostasis). 
+allowing the maintenance of tissues and organs (homeostasis).
 Cancer is a deviation from such state of balance: a cell that has undergone mutations in its DNA, 
-instead of maturing and dying normally, reproduces without restraint, giving rise to a progeny that also fails to mature. 
+instead of maturing and dying normally, reproduces without restraint, giving rise to a progeny that also fails to mature.
 As a result, cancer is a very complex disease, that involves not only cancerous cells, 
 but also surrounding and distant normal cells, which engage in a network of complex interactions. 
 
@@ -42,7 +42,7 @@ but also surrounding and distant normal cells, which engage in a network of comp
 
 {%
   include feature.html
-  image="images/FANTOM3.jpg"
+  image="images/cancer.jpg"
   link="research"
   title="Our publications"
   text=text
@@ -50,7 +50,7 @@ but also surrounding and distant normal cells, which engage in a network of comp
 
 {% capture text %}
 
-**Digital Pathology.**
+**Digital Pathology**
 It is now possible to digitize and store large archives of histopaholoy slides.
 At the same time, thanks to advances in algorithmics, statistics, mathematics, and computer science 
 it is also possible to extract and analyze quantifiable information from such images. 
@@ -90,7 +90,7 @@ Medicine is transitioning from treating the “average patient” to seeking to 
   include button.html
   link="team"
   text="Meet the team"
-  icon="fa-solid fa-arrow-right"
+edits  icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
