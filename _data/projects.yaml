@@ -19,6 +19,7 @@
   repo: 
   tags:
     - transcriptomics
+    - lncRNAs
 
 - title: PathML
   subtitle: Suite for digital pathology analysis
