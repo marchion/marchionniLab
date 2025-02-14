@@ -5,7 +5,7 @@ aliases:
   - M Omar
 image: images/team/Omar.png
 role: collaborator
-group: alumn
+group: alum
 description: Digital pathology expert
 affiliation: Cedar Sinai
 links:

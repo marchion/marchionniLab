@@ -7,7 +7,7 @@ aliases:
   - EL Imada
 image: images/team/Eddie.jpg
 role: collaborator
-group: alumn
+group: alum
 description: Lead programmer and RNA expert
 affiliation: Weill Cornell Medicine
 links:

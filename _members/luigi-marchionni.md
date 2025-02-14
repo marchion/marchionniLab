@@ -6,7 +6,6 @@ aliases:
   - L Marchionni
 image: images/team/Luigi.png
 role: principal-investigator
-group: pis
 description: Lead Scientist
 affiliation: Weill Cornell Medicine
 links:

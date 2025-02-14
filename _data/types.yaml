@@ -7,10 +7,10 @@ principal-investigator:
   description: Principal Investigator
 
 collaborator:
-  icon: fa-solid fa-microscope
+  icon: fa-solid fa-glasses
   description: Collaborator
-
-postdoc:
+  
+  postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
