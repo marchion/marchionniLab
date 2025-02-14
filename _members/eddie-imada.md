@@ -1,5 +1,5 @@
 ---
-name: Eddie Luidy Imda
+name: Eddie Luidy Imada
 aliases:
   - E. Imada
   - E Imada
