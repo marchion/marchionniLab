@@ -1,6 +1,5 @@
 ---
 title: Breast Cancer
-
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %} Breast Cancer Classification

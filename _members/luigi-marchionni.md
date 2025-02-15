@@ -4,7 +4,7 @@ aliases:
   - Luigi Marchionni
   - L. Marchionni
   - L Marchionni
-image: images/team/Luigi.png
+image: images/team/Luigi.jpg
 role: principal-investigator
 description: Lead Scientist
 affiliation: Weill Cornell Medicine

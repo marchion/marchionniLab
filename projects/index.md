@@ -11,7 +11,6 @@ Ed ecco i progetti a cui stiamo lavorando
 
 {% include tags.html tags="biology, bioinformatics, cancer" %}
 
-{% include search-info.html %}
 
 {% include section.html background="images/science/longDNA.jpg" dark=false %}
 
