@@ -4,8 +4,6 @@ title: Exploring genes, genomes, cells, and more
 
 # Marchionni Lab
 
-{% capture text %}
-
 <!--- This is the content of the main page of the site --->
 
 The Marchionni Lab uses quantitative methods to anlyze and interpret high-dimensional data,
