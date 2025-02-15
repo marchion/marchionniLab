@@ -38,7 +38,7 @@
     
 - title: MechPred
   subtitle: Developing mechanistic classifiers
-  group: biology
+  group: bioinformatics
   image: images/projects/mechPred.jpg
   description: We are working to develop algorithm that capture some biology underlying cancer development and progression. 
   tags:

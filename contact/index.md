@@ -25,18 +25,27 @@ Here is how you get in contact with us:
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://maps.app.goo.gl/V4UXJtpFx6Sh6n8Q6"
+  link="https://maps.app.goo.gl/3c6bVr4SeW4LrkfW9"
 %}
 
 {% include section.html background="images/longDNA.jpg" dark=true %}
 
+{% include section.html %}
 
 {% capture col1 %}
 
 {%
   include figure.html
-  image="images/science/science/DNA.jpg"
+  image="images/science/DNA.jpg"
   caption="DNA and cells"
+%}
+
+{% capture col1 %}
+
+{%
+  include figure.html
+  image="images/science/RNA.jpg"
+  caption="RNA and organelles"
 %}
 
 {% endcapture %}

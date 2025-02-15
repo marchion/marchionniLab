@@ -19,7 +19,6 @@ Ed ecco i progetti a cui stiamo lavorando
 
 {% include list.html component="card" data="projects" filter="group == 'biology'" %}
 
-
 {% include section.html background="images/science/researchDNA.jpg" dark=false %}
 
 ## Collaborative projects focusing on computational tools

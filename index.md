@@ -13,15 +13,14 @@ of robust quantitative tools to analyze the molecula and cellular interaction dr
 ***"Considerate la vostra semenza: fatti non foste a viver come bruti ma per seguir virtute e canoscenza."
 Ulisse (Divina Commedia, Canto XXVI, Dante Alighieri)***
 
-{% include section.html background="images/longDNA.jpg" dark=false %}
+{% include section.html background="images/longDNA.jpg" dark=true %}
 
 ## Our research interests
 
 {% include section.html %}
 
-	{% capture text %}
+{% capture text %}
 
-### Cancer Genomics and Computation Biology
 Millions of cells are dividing every day in our human body. 
 This process is well coordinated and cell divisions are followed by cell specialization,
 allowing the maintenance of tissues and organs (homeostasis).
@@ -33,7 +32,7 @@ but also surrounding and distant normal cells, which engage in a network of comp
 {%
   include button.html
   link="research"
-  text="Our research in computational biology"
+  text="Check our research in computational biology"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -45,13 +44,12 @@ but also surrounding and distant normal cells, which engage in a network of comp
   include feature.html
   image="images/science/cancerCells.jpg"
   link="research"
-  title="Computational Biology"
+  title="Computation Cancer Biology"
   text=text
 %}
 
 {% capture text %}
 
-### Digital Pathology
 It is now possible to digitize and store large archives of histopaholoy slides.
 At the same time, thanks to advances in algorithmics, statistics, mathematics, and computer science 
 it is also possible to extract and analyze quantifiable information from such images. 
@@ -64,7 +62,7 @@ holds the promise to project pathology in the next millennium.
 {%
   include button.html
   link="research"
-  text="Our research in digital pathology"
+  text="Check our research in digital pathology"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -84,13 +82,12 @@ holds the promise to project pathology in the next millennium.
 
 {% capture text %}
 
-### Precision Medicine
 Medicine is transitioning from treating the “average patient” to seeking to treat each individual in a tailored way. At present, this approach to medicine, however, can only be delivered at lead academic institutions, hence the opportunity to deliver state of the art clinical care on a large scale and in the community is still missed. By integrating big molecular data, standard clinical laboratory measurements, and digital pathology images, my laboratory strive to bridge this gap. The goal here is to develop robust, parsimonious models that can forecast patients molecular make-up (e.g., their mutational profiles) and outcome (e.g., their response to targeted treatments). While the development of these approaches can only be achieved in leading academic institutions, deploying and disseminating such methods in community and rural hospitals nationwide is of paramount importance. Ultimately, through research in this domain, my lab fosters the democratization of precision and personalized medicine. 
 
 {%
   include button.html
   link="research"
-  text="Our research in cancer and precision oncology"
+  text="Check our research in cancer and precision oncology"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
