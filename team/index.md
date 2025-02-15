@@ -37,6 +37,7 @@ Visiting scholars and students
 
 {% endcapture %}
 
+{% include grid.html style="square" content=content %}
 
 <!--- section for the former members --->
 

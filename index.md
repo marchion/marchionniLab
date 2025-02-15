@@ -15,8 +15,10 @@ diversity and inclusion, is crucial to push the boundaries the boundaries of our
 and ingenuity, ultimately serving the process of discovery, 
 for the benefit of cancer research patients of **ALL** backgrounds.
 
-***"Considerate la vostra semenza: fatti non foste a viver come bruti ma per seguir virtute e canoscenza."
-Ulisse (Divina Commedia, Canto XXVI, Dante Alighieri)***
+***"Considerate la vostra semenza: fatti non foste a viver come bruti ma per seguir virtute e canoscenza."***
+
+***(Ulisse nella Divina Commedia, Canto XXVI, Dante Alighieri)***
+
 
 {% include section.html background="images/longDNA.jpg" dark=true %}
 
