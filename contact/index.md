@@ -30,7 +30,6 @@ Here is how you get in contact with us:
 
 {% include section.html background="images/longDNA.jpg" dark=true %}
 
-{% include section.html %}
 
 {% capture col1 %}
 
