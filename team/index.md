@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-{% include section.html background="images/people.jpg" dark=true %}
+{% include section.html background="images/longPeople.jpg" dark=false %}
 
 ## Current team members 
 
