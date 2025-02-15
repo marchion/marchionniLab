@@ -5,14 +5,14 @@ aliases:
   - W Dinalankara
   - W. Dinalankara
 image: images/team/Wikum.jpg
-role: Research Scientist
+role: staff-scientist
 group: alum
 description: Computer scientist and algorithm developr
 affiliation: Weill Cornell Medicine
 links:
   orcid: 0000-0002-8017-6916
   email: wdd4001@med.cornell.edu
-  google-scholar: T2E7-X4AAAAJ&hl
+  google-scholar: T2E7-X4AAAAJ
   twitter: dinalankara
   github: wikum
 ---

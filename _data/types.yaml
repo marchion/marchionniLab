@@ -6,6 +6,10 @@ principal-investigator:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
+staff-scientist:
+  icon: fa-solid fa-code
+  description: Staff scientist
+  
 collaborator:
   icon: fa-solid fa-glasses
   description: Collaborator
