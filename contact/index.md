@@ -24,25 +24,28 @@ Here is how you get in contact with us:
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
+  tooltip="Click for our location on Google Maps for easy navigation"
   link="https://maps.app.goo.gl/3c6bVr4SeW4LrkfW9"
 %}
 
-{% include section.html background="images/longDNA.jpg" dark=true %}
+{% include section.html background="images/longDNA.jpg" dark=false %}
 
 ## Locations
 
 {% capture col1 %}
 
 ### Office: 
-Belfer Research Building, suite #1524
+Belfer Research Building
+
+suite #1524
 
 {% endcapture %}
 
 {% capture col2 %}
 
 ### Laboratory: 
-413 East 69th Street,
+413 East 69th Street
+
 New York, NY 10021
 
 {% endcapture %}
