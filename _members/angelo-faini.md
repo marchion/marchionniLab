@@ -2,8 +2,8 @@
 name: Angelo Corso Faini, M.D.
 aliases:
   - Angelo Corso Faini
-  - A. Corso Faini
-  - A. Corso Faini
+  - A. C. Faini
+  - A C Faini
 image: images/team/Angelo.jpg
 role: postdoc
 group: visiting
