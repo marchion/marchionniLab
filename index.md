@@ -10,15 +10,16 @@ understand cancer cell biology, and develop useful clinical tools to improve can
 Our final goal is to improve human health, disease outcomes, and treatments through the development
 of robust quantitative tools to analyze the molecula and cellular interaction driving cancer.
 
-***Considerate la vostra semenza: fatti non foste a viver come bruti ma per seguir virtute e canoscenza***
+***"Considerate la vostra semenza: fatti non foste a viver come bruti ma per seguir virtute e canoscenza."
+Ulisse (Divina Commedia, Canto XXVI, Dante Alighieri)***
 
-***Ulisse (Divina Commedia, Canto XXVI, Dante Alighieri)***
-
-{% include section.html background="images/background.jpg" dark=false %}
+{% include section.html background="images/researchDNA.jpg" dark=false %}
 
 ## Our research interests
 
-{% capture text %}
+{% include section.html %}
+
+	{% capture text %}
 
 ### Cancer Genomics and Computation Biology
 Millions of cells are dividing every day in our human body. 
@@ -99,7 +100,7 @@ Medicine is transitioning from treating the “average patient” to seeking to 
 
 {%
   include feature.html
-  image="images/precisionMed.jpg"
+  image="images/gelBands.jpg"
   link="team"
   title="Precision Medicine"
   text=text
