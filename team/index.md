@@ -18,7 +18,7 @@ Please meet our team of exceptional scientists
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 {% include list.html data="members" component="portrait" filter="group == 'alum'" %}
 
-{% include section.html background="images/people.jpg" dark=true %}
+{% include section.html background="images/longPeople.jpg" dark=false %}
 
 ## Past team members 
 

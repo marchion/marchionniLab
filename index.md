@@ -1,5 +1,5 @@
 ---
-title: Surfing our genomes
+title: Exploring genes, genomes, cells, and more
 ---
 
 # Marchionni Lab
@@ -13,7 +13,7 @@ of robust quantitative tools to analyze the molecula and cellular interaction dr
 ***"Considerate la vostra semenza: fatti non foste a viver come bruti ma per seguir virtute e canoscenza."
 Ulisse (Divina Commedia, Canto XXVI, Dante Alighieri)***
 
-{% include section.html background="images/researchDNA.jpg" dark=false %}
+{% include section.html background="images/longDNA.jpg" dark=false %}
 
 ## Our research interests
 
@@ -43,7 +43,7 @@ but also surrounding and distant normal cells, which engage in a network of comp
 
 {%
   include feature.html
-  image="images/cancerCells.jpg"
+  image="images/science/cancerCells.jpg"
   link="research"
   title="Computational Biology"
   text=text
@@ -74,7 +74,7 @@ holds the promise to project pathology in the next millennium.
 
 {%
   include feature.html
-  image="images/digitalPath.png"
+  image="images/science/digitalPath.png"
   link="projects"
   title="Digital Pathology"
   flip=true
@@ -100,7 +100,7 @@ Medicine is transitioning from treating the “average patient” to seeking to 
 
 {%
   include feature.html
-  image="images/gelBands.jpg"
+  image="images/science/gelBands.jpg"
   link="team"
   title="Precision Medicine"
   text=text
