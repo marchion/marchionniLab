@@ -42,8 +42,7 @@ Belfer Research Building, suite #1524
 {% capture col2 %}
 
 ### Laboratory: 
-Belfer Research Building
-413 East 69th Street
+413 East 69th Street,
 New York, NY 10021
 
 {% endcapture %}

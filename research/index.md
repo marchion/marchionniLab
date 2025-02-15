@@ -14,7 +14,7 @@ Finally, aur approach to research prioritizes reproducibility, rigor, and transp
 
 The citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) developed by the [Greene Lab](https://greenelab.com/)!
 
-{% include section.html background="images/longPublications.jpg" dark=true %}
+{% include section.html %}
 
 ## Highlighted
 
@@ -26,8 +26,6 @@ The citations on this page were generated automatically from just identifiers us
 
 {% include button.html icon="fa-brands fa-google" text="More on Google Scholar" link="http://scholar.google.com/citations?hl=en&user=kGqPMb0AAAAJ" %}
 
-
-{% include section.html background="images/longPublications.jpg" dark=true %}
 
 ## All
 
