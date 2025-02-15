@@ -39,6 +39,8 @@ Here is how you get in contact with us:
   caption="DNA and cells"
 %}
 
+{% endcapture %}
+
 {% capture col2 %}
 
 {%
