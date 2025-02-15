@@ -39,7 +39,7 @@ Here is how you get in contact with us:
   caption="DNA and cells"
 %}
 
-{% capture col1 %}
+{% capture col2 %}
 
 {%
   include figure.html
