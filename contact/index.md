@@ -35,17 +35,7 @@ Here is how you get in contact with us:
 
 {%
   include figure.html
-  image="images/RNA.jpg"
-  caption="RNA world"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/DNA.jpg"
+  image="images/science/science/DNA.jpg"
   caption="DNA and cells"
 %}
 
