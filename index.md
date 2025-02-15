@@ -8,10 +8,13 @@ title: Exploring genes, genomes, cells, and more
 
 The Marchionni Lab uses quantitative methods to anlyze and interpret high-dimensional data,
 understand cancer cell biology, and develop useful clinical tools to improve cancer patients' outcomes.
-Our final goal is to improve human health, disease outcomes, and treatments through the development
-of robust quantitative tools to analyze the molecula and cellular interaction driving cancer.
-Finally, we also believe that an inclusive environment for research, centered on the values of 
-diversity and inclusion, is crucial to push the boundaries the boundaries of our curiosity
+Our final goal is to improve human health and disease treatment through the development
+of robust quantitative tools for the analysis of the molecular and cellular interactions
+driving cancer.
+
+We also believe that an inclusive environment for research,
+centered on the values of diversity and inclusion,
+is crucial to push the boundaries the boundaries of our curiosity
 and ingenuity, ultimately serving the process of discovery, 
 for the benefit of cancer research patients of **ALL** backgrounds.
 
