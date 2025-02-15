@@ -1,5 +1,5 @@
 ---
-name: Mohamed Omar
+name: Mohamed Omar, M.D.
 aliases:
   - M. Omar
   - M Omar

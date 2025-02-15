@@ -1,5 +1,5 @@
 ---
-name: Eddie Luidy Imada
+name: Eddie Luidy Imada, Ph.D.
 aliases:
   - E. Imada
   - E Imada
@@ -18,4 +18,4 @@ links:
   twitter: eddieimada
 ---
 
-Eddie is an outstanding computational biologit studying alternative polyadenilation in prostate cancer.
+Eddie is an outstanding computational biologist studying alternative polyadenilation in prostate cancer.

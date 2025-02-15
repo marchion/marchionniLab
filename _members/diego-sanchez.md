@@ -1,5 +1,5 @@
 ---
-name: Diego F Sanchez
+name: Diego F Sanchez, M.D.
 aliases:
   - Diego F Sanchez
   - D F Sanchez

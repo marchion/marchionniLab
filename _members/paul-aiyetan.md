@@ -1,5 +1,5 @@
 ---
-name: Paul Aiyetan
+name: Paul Aiyetan, M.D.
 aliases:
   - P Aiyetan
   - P. Aiyetan
@@ -8,7 +8,7 @@ image: images/team/Paul.png
 role: collaborator
 group: former
 description: Principal Investigator, Entrepreneur
-affiliation: FDA
+affiliation: 
 links:
   email: claudio.zanettini@gmail.com
   google-scholar: Xx6OPTkAAAAJ

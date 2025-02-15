@@ -1,5 +1,5 @@
 ---
-name: Claudio Zanettini
+name: Claudio Zanettini, Ph.D.
 aliases:
   - C Zanettini
   - C. Zanettini
@@ -8,7 +8,7 @@ image: images/team/Claudio.jpg
 role: collaborator
 group: former
 description: Staff Scientist
-affiliation: FDA
+affiliation: Food and Drugs Administration
 links:
   email: claudio.zanettini@gmail.com
   google-scholar: zre7C0oAAAAJ

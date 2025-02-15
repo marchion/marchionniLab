@@ -1,5 +1,5 @@
 ---
-name: Luigi Marchionni
+name: Luigi Marchionni, M.D., Ph.D.
 aliases:
   - Luigi Marchionni
   - L. Marchionni

@@ -1,5 +1,5 @@
 ---
-name: Wikum Dinalankara
+name: Wikum Dinalankara, Ph.D.
 aliases:
   - Wikum Dinalankara
   - W Dinalankara

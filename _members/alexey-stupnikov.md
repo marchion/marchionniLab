@@ -8,7 +8,7 @@ image: images/team/Alexey.jpg
 role: collaborator
 group: former
 description: Bioinformatician
-affiliation: Cedar Sinai
+affiliation: Vavilov Institute of General Genetics, Moscow, Russia
 links:
   email: alexej.stupnikov@phystech.edu
   orcid: 0000-0001-7605-410X
