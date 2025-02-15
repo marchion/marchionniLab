@@ -21,7 +21,7 @@ Ed ecco i progetti a cui stiamo lavorando
 
 {% include section.html background="images/science/researchDNA.jpg" dark=false %}
 
-## Collaborative projects focusing on computational tools
+## Collaborative projects focusing on computational tools and statistical methods
 
 {% include list.html component="card" data="projects" filter="group == 'bioinformatics'" %}
 
