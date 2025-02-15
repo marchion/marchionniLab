@@ -4,7 +4,7 @@ aliases:
   - Alexey Stupnikov
   - A Stupnikov
   - A. Stupnikov
-image: images/team/Alexey.png
+image: images/team/Alexey.jpg
 role: collaborator
 group: former
 description: Bioinformatician
