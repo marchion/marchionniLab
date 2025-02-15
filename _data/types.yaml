@@ -5,14 +5,18 @@
 principal-investigator:
   icon: fa-solid fa-microscope
   description: Principal Investigator
-
-staff-scientist:
-  icon: fa-solid fa-code
-  description: Staff scientist
   
 collaborator:
   icon: fa-solid fa-glasses
   description: Collaborator
+
+staff-scientist:
+  icon: fa-solid fa-code
+  description: Staff scientist
+
+research-analyst:
+  icon: fa-solid fa-code
+  description: Research Analyst
   
 postdoc:
   icon: fa-solid fa-glasses
