@@ -4,7 +4,7 @@ aliases:
   - P Aiyetan
   - P. Aiyetan
   - Paul Aiyetan
-image: images/team/Paul.jpg
+image: images/team/Paul.png
 role: collaborator
 group: former
 description: Principal Investigator, Entrepreneur
