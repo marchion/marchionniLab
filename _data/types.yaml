@@ -10,7 +10,7 @@ collaborator:
   icon: fa-solid fa-glasses
   description: Collaborator
   
-  postdoc:
+postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
