@@ -31,37 +31,23 @@ Here is how you get in contact with us:
 {% include section.html background="images/longDNA.jpg" dark=true %}
 
 
+## Locations
+
 {% capture col1 %}
-
-{%
-  include figure.html
-  image="images/science/DNA.jpg"
-  caption="DNA and cells"
-%}
-
+### Office: 
+Belfer Research Building, BRB1524
 {% endcapture %}
 
 {% capture col2 %}
+### Laboratory: 
+Belfer Research Building, BRB1524
+413 East 69th Street
+New York, NY 10021
+{% endcapture %}
 
 {%
-  include figure.html
-  image="images/science/RNA.jpg"
-  caption="RNA and organelles"
+  include cols.html
+  col1=col1
+  col2=col2
 %}
 
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-{% endcapture %}
-
-{% capture col2 %}
-{% endcapture %}
-
-{% capture col3 %}
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
