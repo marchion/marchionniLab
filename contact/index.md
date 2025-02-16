@@ -52,7 +52,7 @@ Suite #1524
 413 East 69th Street
 
 New York, NY 10021
-<h/2>
+</h2>
 
 {% endcapture %}
 
