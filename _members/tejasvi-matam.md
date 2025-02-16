@@ -4,7 +4,7 @@ aliases:
   - Tejasvi Matam
   - T Matam
   - T. Matam
-image: images/team/Tejasvi.png
+image: images/team/Tejasvi.jpg
 role: phd
 group: former
 description: Data and cloud engineer 
