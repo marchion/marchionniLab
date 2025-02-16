@@ -4,14 +4,14 @@
     - cancer
     - immunity
     - TME
-- id: "pubmed:38191471"
-  image: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-023-44210-1/MediaObjects/41467_2023_44210_Fig1_HTML.png"
+- id: "pubmed:23682826"
+      image: ""
   tags:
-    - prostate cancer
-    - TME
+    - "breast cancer"
+    - classification
     - "single cell"
-    - "spatial transcriptomics"
-  image: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-023-44210-1/MediaObjects/41467_2023_44210_Fig1_HTML.png"
+    - "gene expression signature"
+  image: "https://media.springernature.com/full/springer-static/image/art%3A10.1186%2F1471-2164-14-336/MediaObjects/12864_2012_Article_5021_Fig3_HTML.jpg"
   tags:
     - cancer
     - "tumor heterogeneity"
