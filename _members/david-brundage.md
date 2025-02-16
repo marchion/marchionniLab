@@ -4,7 +4,7 @@ aliases:
   - David Brundage
   - D Brundage
   - D. Brundage
-image: images/team/David.jpg
+image: images/team/David.png
 role: collaborator
 group: former
 description: Data and cloud engineer 

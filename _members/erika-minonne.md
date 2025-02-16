@@ -8,7 +8,7 @@ image: images/team/Erika.jpg
 role: grad
 group: visiting
 description: Medical student 
-affiliation: University of Torino, Tuni, Italy
+affiliation: University of Torino, Turin, Italy
 links:
   email: erika.minonne@edu.unito.it
 ---
