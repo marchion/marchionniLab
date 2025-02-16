@@ -4,24 +4,23 @@
     - cancer
     - immunity
     - TME
+
 - id: "pubmed:23682826"
-      image: ""
+  image: "https://media.springernature.com/full/springer-static/image/art%3A10.1186%2F1471-2164-14-336/MediaObjects/12864_2012_Article_5021_Fig3_HTML.jpg"
   tags:
     - "breast cancer"
     - classification
     - "single cell"
     - "gene expression signature"
-  image: "https://media.springernature.com/full/springer-static/image/art%3A10.1186%2F1471-2164-14-336/MediaObjects/12864_2012_Article_5021_Fig3_HTML.jpg"
-  tags:
-    - cancer
-    - "tumor heterogeneity"
     - "statistical method"
-- id: "pubmed:34115745"
+
+- id: "pubmed:  "
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1b82/8221796/8fb0565b0a4d/pcbi.1008944.g001.jpg"
   tags:
     - cancer
     - "tumor heterogeneity"
     - "statistical method"
+
 - id: "pubmed:29666255"
   image: "https://www.pnas.org/cms/10.1073/pnas.1721628115/asset/1429c0a2-879a-4178-8867-dcb9cd7f7dd8/assets/graphic/pnas.1721628115fig01.jpeg"
   tags:
