@@ -39,7 +39,7 @@ Belfer Research Building
 
 Suite #1524
 
-““{.large}““`
+<h3>Your Text</h3>
 
 {% endcapture %}
 
