@@ -1,9 +1,10 @@
 ---
 name: Mohamed Omar, M.D.
 aliases:
+  - Mohamed Omar
   - M. Omar
   - M Omar
-image: images/team/Omar.png
+image: images/team/Mohamed.png
 role: collaborator
 group: former
 description: Digital pathology expert
