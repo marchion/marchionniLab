@@ -36,9 +36,9 @@ Here is how you get in contact with us:
 
 ## Office: 
 
-<h2> Belfer Research Building </h2>
+Belfer Research Building
 
-<h2> Suite #1524 </h2>
+Suite #1524
 
 
 {% endcapture %}
@@ -47,9 +47,9 @@ Here is how you get in contact with us:
 
 ## Laboratory:
 
-<h2> 413 East 69th Street </h2>
+413 East 69th Street
 
-<h2> New York, NY 10021 </h2>
+New York, NY 10021
 
 
 {% endcapture %}
