@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: Marchionni Lab
-subtitle: Surfing through genes and genomes
+subtitle: Surfing genomes
 description: A short overview of our research and projects
 header: images/background.jpg
 footer: images/background.jpg
@@ -8,9 +8,9 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@marchion.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: marchion@med.cornell.edu
+  orcid: 0000-0002-7336-8071
+  google-scholar: kGqPMb0AAAAJ
   github: marchion
   twitter: marchionnilab
   youtube: marchion

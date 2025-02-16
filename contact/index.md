@@ -49,7 +49,7 @@ New York, NY 10021
 
 ## Laboratory
 
-Belfer Research Building, suite #1500
+Belfer Research Building, suite #1520
 
 413 East 69th Street
 
