@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Here is how you get in contact with us:
-
 {%
   include button.html
   type="email"
