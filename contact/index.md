@@ -18,7 +18,7 @@ Here is how you get in contact with us:
 {%
   include button.html
   type="phone"
-  text="(001) 646-962-8767"
+  text="(+1) 646-962-8767"
   link="+1-646-962-8767"
 %}
 {%
