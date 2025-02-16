@@ -10,6 +10,7 @@ group: former
 description: Data and cloud engineer 
 affiliation: Baylor College of Medicine
 links:
+  google-scholar: CoC6FGoAAAAJ
   email: tejasvi.matam@bcm.edu
 ---
 
