@@ -1,5 +1,5 @@
 ---
-name: Mohammad, Alexanderani, M.D.
+name: Mohammad Alexanderani, M.D.
 aliases:
   - Mohammad Alexanderani
   - M Alexanderani

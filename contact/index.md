@@ -30,29 +30,27 @@ Here is how you get in contact with us:
 
 {% include section.html background="images/longDNA.jpg" dark=false %}
 
-## Locations
+# Locations
 
 {% capture col1 %}
 
-### Office: 
+## Office: 
 
-<h2>
-Belfer Research Building
+<h2> Belfer Research Building </h2>
 
-Suite #1524
-</h2>
+<h2> Suite #1524 </h2>
+
 
 {% endcapture %}
 
 {% capture col2 %}
 
-### Laboratory:
+## Laboratory:
 
-<h2> 
-413 East 69th Street
+<h2> 413 East 69th Street </h2>
 
-New York, NY 10021
-</h2>
+<h2> New York, NY 10021 </h2>
+
 
 {% endcapture %}
 
