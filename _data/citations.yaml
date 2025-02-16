@@ -2659,45 +2659,22 @@
   - TME
   plugin: sources.py
   file: sources.yaml
-- id: pubmed:38191471
-  title: Distinct mesenchymal cell states mediate prostate cancer progression.
+- id: pubmed:23682826
+  title: A simple and reproducible breast cancer prognostic test.
   authors:
-  - Hubert Pakula
-  - Mohamed Omar
-  - Ryan Carelli
-  - Filippo Pederzoli
-  - "Giuseppe Nicol\xF2 Fanelli"
-  - Tania Pannellini
-  - Fabio Socciarelli
-  - Lucie Van Emmenis
-  - Silvia Rodrigues
-  - Caroline Fidalgo-Ribeiro
-  - Pier Vitale Nuzzo
-  - Nicholas J Brady
-  - Wikum Dinalankara
-  - Madhavi Jere
-  - Itzel Valencia
-  - Christopher Saladino
-  - Jason Stone
-  - Caitlin Unkenholz
-  - Richard Garner
-  - Mohammad K Alexanderani
-  - Francesca Khani
-  - Francisca Nunes de Almeida
-  - Cory Abate-Shen
-  - Matthew B Greenblatt
-  - David S Rickman
-  - Christopher E Barbieri
-  - Brian D Robinson
   - Luigi Marchionni
-  - Massimo Loda
-  publisher: Nature communications
-  date: '2024-01-08'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/38191471
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-023-44210-1/MediaObjects/41467_2023_44210_Fig1_HTML.png
+  - Bahman Afsari
+  - Donald Geman
+  - Jeffrey T Leek
+  publisher: BMC genomics
+  date: '2013-05-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23682826
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2F1471-2164-14-336/MediaObjects/12864_2012_Article_5021_Fig3_HTML.jpg
   tags:
-  - cancer
-  - tumor heterogeneity
+  - breast cancer
+  - classification
+  - single cell
+  - gene expression signature
   - statistical method
   plugin: sources.py
   file: sources.yaml
