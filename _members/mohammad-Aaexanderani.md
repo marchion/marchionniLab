@@ -4,7 +4,7 @@ aliases:
   - Mohammad Alexanderani
   - M Alexanderani
   - M. Alexanderani
-image: images/team/Mohammad.png
+image: images/team/Mohammad.jpg
 role: postdoc
 group: alum
 description: Digital pathology expert
