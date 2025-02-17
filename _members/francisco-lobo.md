@@ -11,7 +11,7 @@ image: images/team/Francisco.jpg
 role: collaborator
 group: visiting
 description: Associate Professor
-affiliation: University if Minas Gerais, Belo Horizonte, Brazil
+affiliation: Federal University of Minas Gerais, Belo Horizonte, Brazil
 links:
   home-page: https://ccr.cancer.gov/staff-directory/francisco-pereira-lobo
   email: franciscolobo@gmail.com
