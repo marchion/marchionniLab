@@ -4,18 +4,19 @@ title: Breast Cancer
 
 # {% include icon.html icon="fa-solid fa-wrench" %} Breast Cancer Classification
 
-**Supplementary data for: "A SIMPLE AND REPRODUCIBLE BREAST CANCER PROGNOSTIC TEST"**
+**Supplementary data for: "A simple and reproducible breast cancer prognostic test."**
 
-**Luigi Marchionni, Bahman Afsari, Donald Geman, and Jeffrey T. Leek**
+**by Luigi Marchionni, Bahman Afsari, Donald Geman, and Jeffrey T. Leek**
 
 
-{% include tags.html tags="publication, resource, machine learning" %}
+{% include citation.html lookup="R"A simple and reproducible breast cancer prognostic test." style="rich" %}
+
+{% include citation.html lookup="pubmed:23682826" style="rich" %}
+
+{% include tags.html tags="method, gene expression, machine learning" %}
 
 {% include search-info.html %}
 
-{% include list.html component="card" data="research" filter="group == 'featured'" %}
-
-{% include section.html %}
 
 {% include smallSection.html background="images/thinDNA.jpg" dark=true %}
 ***
