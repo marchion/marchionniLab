@@ -1,0 +1,132 @@
+<html xmlns="http://www.w3.org/1999/xhtml" version="XHTML 1.2" xml:lang="en">
+ <head>
+  <title>Analysis of functional annotation</title>
+  <link rel="stylesheet" href="report.css" type="text/css"/>
+ </head>
+
+ <body>
+ 
+    <h1>Analysis of functional annotation:</h1>
+
+  	<div id="message">Click on the hyperlinks to see the results.</div>
+  
+  	<div id="tablediv">
+
+<font size=+2 face="Arial,Helvetica"><b>Analysis of Functional Annotation and Functional Gene Set description</b></font>
+<br>
+
+<br>Below is a brief description of the Functional Gene Sets (FGS) used to perform the Analysis of Functional Annotation (AFA).
+<br>In the table below is reported a brief description for each group of FGS (i.e. Gene Ontology, KEGG pathway, ...), along with the source or database of origin.
+
+<br><br>Usually the AFA is performed by one-sided Wilcoxon rank-sum test to identify the biological concepts associated with the phenotypes and comparisons of interest. The Wilcoxon rank-sum test computes a p-value to test the hypothesis that a specific FGS, defined by a specific functional annotation, tends to be more highly ranked in an ordered list. In general the individual genes on the arrays are ranked by their absolute and signed
+moderated t-statistics.
+
+<br>The use of the absolute moderated t-statistics enables the investigation of gene set enrichment irrespective to differential gene expression direction (up- or down-regulation), while the use of the signed t-statistics enables investigating the enrichment driven by up- or down-regulated genes.
+
+<br><br>All the statistical tests are performed using all annotated genes as reference population.
+<br><br> After the statistical tests are performed, control of false discovery 
+rate (correction for multiple hypothesis testing) is obtained by applying the 
+Benjamini and Hochberg method.
+
+<br><br><hr><hr><br><br>
+
+<TABLE border=1>
+
+<TR> <TH> FGS scope name </TH> <TH> FGS scope description </TH> <TH> FGS scope source </TH>  </TR>
+
+  <TR> <TD align="center"> allPPIa2hsa </TD> <TD align="center"> protein-protein-interaction data from the Entrez Gene database </TD> <TD align="center"> retrieved from <A HREF=http://www.ncbi.nlm.nih.gov/sites/entrez?db=gene&cmd=search&term= > NCBI Entrez Gene </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> c1allV2V5 </TD> <TD align="center"> Gene sets corresponding to each human chromosome and each cytogenetic band that has at least one gene </TD> <TD align="center"> retrieved from  retrieved from  <A HREF=http://www.broad.mit.edu/gsea/msigdb/ > Molecular Signatures Database (MsigDB) </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> c2allV2V5 </TD> <TD align="center"> Gene sets collected from various sources such as online pathway databases, publications in PubMed, and knowledge of domain experts </TD> <TD align="center"> retrieved from  <A HREF=http://www.broad.mit.edu/gsea/msigdb/ > Molecular Signatures Database (MsigDB) </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> c2biocartaV2V5 </TD> <TD align="center"> Gene sets collected from <A HREF=http://www.biocarta.com > Biocarta  </A> </TD> <TD align="center"> retrieved from  <A HREF=http://www.broad.mit.edu/gsea/msigdb/ > Molecular Signatures Database (MsigDB) </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> c2cgpV2V5 </TD> <TD align="center"> Gene sets that represent gene expression signatures of genetic and chemical perturbations </TD> <TD align="center"> retrieved from  <A HREF=http://www.broad.mit.edu/gsea/msigdb/ > Molecular Signatures Database (MsigDB) </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> c2cpV2V5 </TD> <TD align="center"> GGene sets from the pathway databases. Usually, these gene sets are canonical representations of a biological process compiled by domain experts </TD> <TD align="center"> retrieved from  <A HREF=http://www.broad.mit.edu/gsea/msigdb/ > Molecular Signatures Database (MsigDB) </A> </TD> </TR> <TR> 
+  
+  <TR> <TD align="center"> c2genmappV2V5 </TD> <TD align="center"> Gene sets collected from <A HREF=http://www.genmapp.org/ > GenMAPP  </A> </TD> <TD align="center"> retrieved from  <A HREF=http://www.broad.mit.edu/gsea/msigdb/ > Molecular Signatures Database (MsigDB) </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> c2keggV2V5 </TD> <TD align="center"> Gene sets collected from <A HREF=http://www.genome.jp/kegg/ > KEGG  </A> </TD> <TD align="center"> retrieved from  <A HREF=http://www.broad.mit.edu/gsea/msigdb/ > Molecular Signatures Database (MsigDB) </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> c3allV2V5 </TD> <TD align="center"> Gene sets that contain genes that share a cis-regulatory motif that is conserved across the human, mouse, rat, and dog genomes. The motifs are catalogued in Xie, et al. (2005, Nature 434, 338–345) and represent known or likely regulatory elements in promoters and 3'-UTRs </TD> <TD align="center"> retrieved from  <A HREF=http://www.broad.mit.edu/gsea/msigdb/ > Molecular Signatures Database (MsigDB) </A> </TD> </TR> <TR> 
+  
+  <TR> <TD align="center"> c3mirV2V5 </TD> <TD align="center"> Gene sets that contain genes that share a 3'-UTR microRNA binding motif (see c3allV2V5 above) </TD> <TD align="center"> retrieved from  <A HREF=http://www.broad.mit.edu/gsea/msigdb/ > Molecular Signatures Database (MsigDB) </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> c3tftV2V5 </TD> <TD align="center"> ene sets that contain genes that share a transcription factor binding site defined in the <A HREF=http://www.gene-regulation.com/ >  TRANSFAC database (version 7.4) </A>  </TD> <TD align="center"> retrieved from  <A HREF=http://www.broad.mit.edu/gsea/msigdb/ > Molecular Signatures Database (MsigDB) </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> c4allV2V5 </TD> <TD align="center"> Computational gene sets defined by mining large collections of cancer-oriented microarray data </TD> <TD align="center"> retrieved from  <A HREF=http://www.broad.mit.edu/gsea/msigdb/ > Molecular Signatures Database (MsigDB) </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> c4cgnV2V5 </TD> <TD align="center"> Gene sets defined by expression neighborhoods centered on 380 cancer-associated genes (Brentani, Caballero et al. 2003) </TD> <TD align="center"> retrieved from  <A HREF=http://www.broad.mit.edu/gsea/msigdb/ > Molecular Signatures Database (MsigDB) </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> c4cmV2V5 </TD> <TD align="center"> Gene sets defined by Segal et al. (Nature Genetics 36, 1090-1098, 2004). Briefly, the authors compiled gene sets ('modules') from a variety of resources such as KEGG, GO, and others. By mining a large compendium of cancer-related microarray data, they identified 456 such modules as significantly changed in a variety of cancer conditions. </TD> <TD align="center"> retrieved from  <A HREF=http://www.broad.mit.edu/gsea/msigdb/ > Molecular Signatures Database (MsigDB) </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> c5allV2V5 </TD> <TD align="center"> Gene sets are named by GO term and contain genes annotated by that term; All <A HREF=http://www.geneontology.org/ > Gene Ontology  </A> terms together </TD> <TD align="center"> retrieved from  <A HREF=http://www.broad.mit.edu/gsea/msigdb/ > Molecular Signatures Database (MsigDB) </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> c5bpV2V5 </TD> <TD align="center"> Gene sets derived from the Biological Process Gene Ontology <A HREF=http://www.geneontology.org/GO.process.guidelines.shtml > see guidelines </A>) </TD> <TD align="center"> retrieved from  <A HREF=http://www.broad.mit.edu/gsea/msigdb/ > Molecular Signatures Database (MsigDB) </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> c5ccV2V5 </TD> <TD align="center"> Gene sets derived from the Molecular Function Gene Ontology (<A HREF=http://www.geneontology.org/GO.process.guidelines.shtml > see guidelines </A>) </TD> <TD align="center"> retrieved from  <A HREF=http://www.broad.mit.edu/gsea/msigdb/ > Molecular Signatures Database (MsigDB) </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> c5ccV2V5 </TD> <TD align="center"> Gene sets derived from the Cellular Component Gene Ontology (<A HREF=http://www.geneontology.org/GO.process.guidelines.shtml > see guidelines </A>) </TD> <TD align="center"> retrieved from  <A HREF=http://www.broad.mit.edu/gsea/msigdb/ > Molecular Signatures Database (MsigDB) </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> cancerModulesSegal </TD> <TD align="center"> Cancer module gene sets from Eran Segal's lab, described <A HREF=http://ai.stanford.edu/~erans/cancer/browse_by_modules.html > here </A> </TD> <TD align="center"> retrieved from the  <A HREF=http://www-stat.stanford.edu/~tibs/GSA/index.html >  Rob Tibshirani webpage </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> ChromosomeArms </TD> <TD align="center"> Chromosome Arms from Stanford Microarray Database; a description  is available at <A HREF=http://smd.stanford.edu/help/synthGenes.shtml > Synthetic genes page on SMD </A> </TD> <TD align="center"> retrieved from the  <A HREF=http://www-stat.stanford.edu/~tibs/GSA/index.html >  Rob Tibshirani webpage </A> </TD> </TR> <TR> 
+  
+  <TR> <TD align="center"> cytobandsStanford </TD> <TD align="center"> Cytobands from Stanford Microarray Database; a description  is available at <A HREF=http://smd.stanford.edu/help/synthGenes.shtml > Synthetic genes page on SMD </A> </TD> <TD align="center"> retrieved from the  <A HREF=http://www-stat.stanford.edu/~tibs/GSA/index.html >  Rob Tibshirani webpage </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> mb5ChromosomalTiles </TD> <TD align="center"> 5MbChromosomalTiles from Stanford Microarray Database; a description  is available at <A HREF=http://smd.stanford.edu/help/synthGenes.shtml > Synthetic genes page on SMD </A> </TD> <TD align="center"> retrieved from the  <A HREF=http://www-stat.stanford.edu/~tibs/GSA/index.html >  Rob Tibshirani webpage </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> ENZYME </TD> <TD align="center"> Enzyme Commission number; these FGS group genes annotated to the same Enzyme Commission number, as obtained from the R/Bioconductor metadata package </TD> <TD align="center"> retrieved from <A HREF=http://bioconductor.org >  bioconductor </A> metadata annotation packages</TD> </TR> <TR> 
+
+  <TR> <TD align="center"> GO </TD> <TD align="center"> Gene Ontology; FGS defined based on the Gene Ontology annotation obtained from the R/Bioconductor metadata package (complete collection, since each gene inherited all parents GO terms) </TD> <TD align="center"> retrieved from <A HREF=http://bioconductor.org >  bioconductor </A> metadata annotation packages</TD> </TR> <TR> 
+
+  <TR> <TD align="center"> KEGG </TD> <TD align="center"> KEGG; FGS defined based on the KEGG pathways annotation obtained from the R/Bioconductor metadata package </TD> <TD align="center"> retrieved from <A HREF=http://bioconductor.org >  bioconductor </A> metadata annotation packages</TD> </TR> <TR> 
+
+  <TR> <TD align="center"> PMID </TD> <TD align="center"> PubMed id; FGS defined based on the PudMed identifiers obtained from the R/Bioconductor metadata package </TD> <TD align="center"> retrieved from <A HREF=http://bioconductor.org >  bioconductor </A> metadata annotation packages</TD> </TR> <TR> 
+
+  <TR> <TD align="center"> processes </TD> <TD align="center"> Cellular processes gene sets from Stanford Microarray Database; a description  is available at <A HREF=http://smd.stanford.edu/help/synthGenes.shtml > Synthetic genes page on SMD </A> </TD> <TD align="center"> retrieved from the  <A HREF=http://www-stat.stanford.edu/~tibs/GSA/index.html >  Rob Tibshirani webpage </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> tfbsK15Z164EGID </TD> <TD align="center"> Transcription factor binding site (TFBS); the genes contained in this collection have a TFBS in the genomic region around their transcription starting site (TSS); The genomic window considered spans from 15kb before the TSS to 15kb after the TSS, with a Z-score for conservation of 1.64, corresponding to a False Discovery Rate of 5%. Details are available from the <A HREF=
+http://genome.ucsc.edu/cgi-bin/hgTrackUi?hgsid=&g=tfbsConsSites > UCSC Genome Browser </A> </TD> <TD align="center"> based on <A HREF=http://www.gene-regulation.com/ >  TRANSFAC </A> TFBS tracks available through <A HREF=http://genome.ucsc.edu/cgi-bin/hgGateway > UCSC Genome Browser </A> </TD> </TR> <TR>   
+
+  <TR> <TD align="center"> tfbsK15Z233EGID </TD> <TD align="center"> Transcription factor binding site (TFBS); the genes contained in this collection have a TFBS in the genomic region around their transcription starting site (TSS); The genomic window considered spans from 15kb before the TSS to 15kb after the TSS, with a Z-score for conservation of 2.33, corresponding to a False Discovery Rate of 1%. Details are available from the <A HREF=
+http://genome.ucsc.edu/cgi-bin/hgTrackUi?hgsid=&g=tfbsConsSites > UCSC Genome Browser </A> </TD> <TD align="center"> based on <A HREF=http://www.gene-regulation.com/ >  TRANSFAC </A> TFBS tracks available through <A HREF=http://genome.ucsc.edu/cgi-bin/hgGateway > UCSC Genome Browser </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> tfbsK5Z164EGID </TD> <TD align="center"> Transcription factor binding site (TFBS); the genes contained in this collection have a TFBS in the genomic region around their transcription starting site (TSS); The genomic window considered spans from 5kb before the TSS to 5kb after the TSS, with a Z-score for conservation of 1.64, corresponding to a False Discovery Rate of 5%. Details are available from the <A HREF=
+http://genome.ucsc.edu/cgi-bin/hgTrackUi?hgsid=&g=tfbsConsSites > UCSC Genome Browser </A> </TD> <TD align="center"> based on <A HREF=http://www.gene-regulation.com/ >  TRANSFAC </A> TFBS tracks available through <A HREF=http://genome.ucsc.edu/cgi-bin/hgGateway > UCSC Genome Browser </A> </TD> </TR> <TR> 
+
+ <TR> <TD align="center"> tfbsK5Z164EGID </TD> <TD align="center"> Transcription factor binding site (TFBS); the genes contained in this collection have a TFBS in the genomic region around their transcription starting site (TSS); The genomic window considered spans from 5kb before the TSS to 5kb after the TSS, with a Z-score for conservation of 1.64, corresponding to a False Discovery Rate of 5%. Details are available from the <A HREF=
+http://genome.ucsc.edu/cgi-bin/hgTrackUi?hgsid=&g=tfbsConsSites > UCSC Genome Browser </A> </TD> <TD align="center"> based on <A HREF=http://www.gene-regulation.com/ >  TRANSFAC </A> TFBS tracks available through <A HREF=http://genome.ucsc.edu/cgi-bin/hgGateway > UCSC Genome Browser </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> pathsNetPathEGID </TD> <TD align="center"> Pathway members; the genes contained in this collection are signaling pathway members; the gene lists were manually curated and are available from the  <A HREF= http://www.hprd.org/ > HPRD data base </A> </TD> <TD align="center"> Based on manually curated pathways part of the <A HREF= http://www.netpath.org/index.html > NetPath </A> initiative </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> upNetPathEGID </TD> <TD align="center"> Genes up-regulated by pathway activation; the genes contained in this collection are the up-regulated targets induced by the activation of the signaling pathway; the gene lists were manually curated, result from the evaluation of evidence available from the literature, and are available from the  <A HREF= http://www.hprd.org/ > HPRD data base </A> </TD> <TD align="center"> Based on manually curated pathways part of the <A HREF= http://www.netpath.org/index.html > NetPath </A> initiative </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> dwNetPathEGID </TD> <TD align="center"> Genes down-regulated by pathway activation; the genes contained in this collection are the down-regulated targets induced by the activation of the signaling pathway; the gene lists were manually curated, result from the evaluation of evidence available from the literature, and are available from the  <A HREF= http://www.hprd.org/ > HPRD data base </A> </TD> <TD align="center"> Based on manually curated pathways part of the <A HREF= http://www.netpath.org/index.html > NetPath </A> initiative </TD> </TR> <TR> 
+  
+  <TR> <TD align="center"> updwNetPathEGID </TD> <TD align="center"> Genes up- and down-regulated by pathway activation; the genes contained in this collection are the up- and down-regulated targets induced by the activation of the signaling pathway; the gene lists were manually curated, result from the evaluation of evidence available from the literature, and are available from the  <A HREF= http://www.hprd.org/ > HPRD data base </A> </TD> <TD align="center"> Based on manually curated pathways part of the <A HREF= http://www.netpath.org/index.html > NetPath </A> initiative </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> tissues </TD> <TD align="center"> Tissues gene sets from Stanford Microarray Database; a description  is available at <A HREF=http://smd.stanford.edu/help/synthGenes.shtml > Synthetic genes page on SMD </A> </TD> <TD align="center"> retrieved from the  <A HREF=http://www-stat.stanford.edu/~tibs/GSA/index.html >  Rob Tibshirani webpage </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> mirInt2X </TD> <TD align="center"> Gene sets that contain genes that share a 3'-UTR microRNA binding motif (see c3allV2V5 above); Gene sets in this collection account for the <b>INTERSECTION</b> of predicted targets by <b>TWO</b> programs (PicTar, miRanda, DIANA-microT, or TargetScanS). Intersections can provide more specific searches, see <A HREF=http://www.diana.pcbi.upenn.edu/miRGen/v3/TargetDesc.html> miRGen target web-page</A> </TD> <TD align="center"> retrieved from the  <A HREF=http://www.diana.pcbi.upenn.edu/miRGen.html> miRGen data base </A> </TD> </TR> <TR> 
+  
+  <TR> <TD align="center"> mirInt3X </TD> <TD align="center"> Gene sets that contain genes that share a 3'-UTR microRNA binding motif (see c3allV2V5 above); Gene sets in this collection account for the <b>INTERSECTION</b> of predicted targets by <b>THREE</b> programs (PicTar, miRanda, DIANA-microT, or TargetScanS). Intersections can provide more specific searches, see <A HREF=http://www.diana.pcbi.upenn.edu/miRGen/v3/TargetDesc.html> miRGen target web-page</A> </TD> <TD align="center"> retrieved from the  <A HREF=http://www.diana.pcbi.upenn.edu/miRGen.html> miRGen data base </A> </TD> </TR> <TR> 
+  
+  <TR> <TD align="center"> mirUnion </TD> <TD align="center"> Gene sets that contain genes that share a 3'-UTR microRNA binding motif (see c3allV2V5 above); Gene sets in this collection account for the <b>UNION</b> of predicted targets by <b>THREE</b> programs (PicTar, miRanda, DIANA-microT,  and TargetScanS). UNION can provide more sensitive searches since gene lists are larger, see <A HREF=http://www.diana.pcbi.upenn.edu/miRGen/v3/TargetDesc.html> miRGen target web-page</A> </TD> <TD align="center"> retrieved from the  <A HREF=http://www.diana.pcbi.upenn.edu/miRGen.html> miRGen data base </A> </TD> </TR> <TR> 
+
+  <TR> <TD align="center"> miranda </TD> <TD align="center"> miRNA targets as predicted by the <A HREF=http://www.microrna.org/>  miranda algorithm </A> ; FGS were obtained from the R/Bioconductor <b>'microRNA'</b> package </TD> <TD align="center"> retrieved from <A HREF=http://bioconductor.org>  bioconductor </A> <b>'microRNA'</b> package </TD> </TR> <TR> 
+  
+  <TR> <TD align="center"> mirbase </TD> <TD align="center"> miRNA targets as obtained from the <A HREF=http://www.mirbase.org/>  miRBase database </A>; FGS were obtained from the R/Bioconductor <b>'microRNA'</b> package </TD> <TD align="center"> retrieved from <A HREF=http://bioconductor.org>  bioconductor </A> <b>'microRNA'</b> package	</TD> </TR> <TR> 
+
+  <TR> <TD align="center"> mirtarget2 </TD> <TD align="center"> miRNA targets as obtained from the <A HREF=http://mirdb.org/miRDB/>  mirtarget2 algorithm </A>; FGS were obtained from the R/Bioconductor <b>'microRNA'</b> package </TD> <TD align="center"> retrieved from <A HREF=http://bioconductor.org>  bioconductor </A> <b>'microRNA'</b> package	</TD> </TR> <TR> 
+
+  <TR> <TD align="center"> pictar </TD> <TD align="center"> miRNA targets as obtained from the <A HREF=http://pictar.mdc-berlin.de/>  PicTar algorithm </A>; FGS were obtained from the R/Bioconductor <b>'microRNA'</b> package </TD> <TD align="center"> retrieved from <A HREF=http://bioconductor.org>  bioconductor </A> <b>'microRNA'</b> package	</TD> </TR> <TR> 
+
+  <TR> <TD align="center"> tarbase </TD> <TD align="center"> miRNA targets as obtained from the <A HREF=http://diana.cslab.ece.ntua.gr/tarbase/>  TabBase database </A>; FGS were obtained from the R/Bioconductor <b>'microRNA'</b> package </TD> <TD align="center"> retrieved from <A HREF=http://bioconductor.org>  bioconductor </A> <b>'microRNA'</b> package	</TD> </TR> <TR> 
+
+  <TR> <TD align="center"> targetscan </TD> <TD align="center"> miRNA targets as obtained from the <A HREF=http://www.targetscan.org/>  targetscan algorithm </A>; FGS were obtained from the R/Bioconductor <b>'microRNA'</b> package </TD> <TD align="center"> retrieved from <A HREF=http://bioconductor.org>  bioconductor </A> <b>'microRNA'</b> package	</TD> </TR> <TR> 
+  
+</TABLE>
+
