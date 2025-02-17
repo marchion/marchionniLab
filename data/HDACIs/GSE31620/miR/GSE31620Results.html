@@ -1,0 +1,58 @@
+ <html xmlns="http://www.w3.org/1999/xhtml" version="XHTML 1.2" xml:lang="en">
+ <head>
+  <title>Differentially expressed genes</title>
+  <link rel="stylesheet" href="html/report.css" type="text/css"/>
+ </head>
+
+ <body>
+ 
+    <h1>Differentially expressed gene lists:</h1>
+
+  	<div id="message">Click on the hyperlinks to see the results.</div>
+  
+  	<div id="tablediv">
+<!-- html table generated in R 2.15.0 by xtable 1.7-0 package -->
+<!-- Thu Jul 19 23:09:06 2012 -->
+<TABLE >
+<TR> <TH> FileName </TH> <TH> Description </TH>  </TR>
+  <TR> <TD align="center"> <A HREF=./html/ANOVA.ls.html>ANOVA.ls</A> </TD> <TD align="center"> ANOVA MODEL (all genes and samples, least squares), log2 fold change for all groups, genes with F-statistics > 90th percentile </TD> </TR>
+  <TR> <TD align="center"> <A HREF=./html/ANOVA.rb.html>ANOVA.rb</A> </TD> <TD align="center"> ANOVA MODEL (all genes and samples, robust), log2 fold change for all groups, genes with F-statistics > 90th percentile </TD> </TR>
+  <TR> <TD align="center"> <A HREF=./html/AzaC_TSAvsControl.ls.html>AzaC_TSAvsControl.ls</A> </TD> <TD align="center"> ANOVA MODEL (all genes and samples, least squares),  AzaC_TSAvsControl contrast: AzaC + TSA vs. Control cell lines, genes with B-statistics > 90th percentile </TD> </TR>
+  <TR> <TD align="center"> <A HREF=./html/AzaC_TSAvsControl.rb.html>AzaC_TSAvsControl.rb</A> </TD> <TD align="center"> ANOVA MODEL (all genes and samples, robust),  AzaC_TSAvsControl contrast: AzaC + TSA vs. Control cell lines, genes with B-statistics > 90th percentile </TD> </TR>
+  <TR> <TD align="center"> <A HREF=./html/AzaCvsControl.ls.html>AzaCvsControl.ls</A> </TD> <TD align="center"> ANOVA MODEL (all genes and samples, least squares),  AzaCvsControl contrast: AzaC vs. Control cell lines, genes with B-statistics > 90th percentile </TD> </TR>
+  <TR> <TD align="center"> <A HREF=./html/AzaCvsControl.rb.html>AzaCvsControl.rb</A> </TD> <TD align="center"> ANOVA MODEL (all genes and samples, robust),  AzaCvsControl contrast: AzaC vs. Control cell lines, genes with B-statistics > 90th percentile </TD> </TR>
+  <TR> <TD align="center"> <A HREF=./html/TSAvsControl.ls.html>TSAvsControl.ls</A> </TD> <TD align="center"> ANOVA MODEL (all genes and samples, least squares),  TSAvsControl contrast: TSA vs. Control cell lines, genes with B-statistics > 90th percentile </TD> </TR>
+  <TR> <TD align="center"> <A HREF=./html/TSAvsControl.rb.html>TSAvsControl.rb</A> </TD> <TD align="center"> ANOVA MODEL (all genes and samples, robust),  TSAvsControl contrast: TSA vs. Control cell lines, genes with B-statistics > 90th percentile </TD> </TR>
+   </TABLE>
+  </div>  
+
+    <h1>Diagnostics and results figures:</h1>
+
+  	<div id="message">Click on the hyperlinks to see the results.</div>
+  
+  	<div id="tablediv">
+
+<!-- html table generated in R 2.15.0 by xtable 1.7-0 package -->
+<!-- Thu Jul 19 23:09:06 2012 -->
+<TABLE >
+<TR> <TH> FileName </TH> <TH> Description </TH>  </TR>
+  <TR> <TD align="center"> <A HREF=./figs/bxpexp.png>bxpexp</A> </TD> <TD align="center"> Boxplot for Log2 expression before and after Loess and Rquantile normalization </TD> </TR>
+  <TR> <TD align="center"> <A HREF=./figs/bxpMval.png>bxpMval</A> </TD> <TD align="center"> Boxplot for M values (compared to the median array) before and after Loess and Rquantile normalization </TD> </TR>
+  <TR> <TD align="center"> <A HREF=./figs/bxpAval.png>bxpAval</A> </TD> <TD align="center"> Boxplot for A values (compared to the median array) before and after Loess and Rquantile normalization </TD> </TR>
+  <TR> <TD align="center"> <A HREF=./figs/MAplots.png>MAplots</A> </TD> <TD align="center"> MAplots for each array, raw data </TD> </TR>
+  <TR> <TD align="center"> <A HREF=./figs/MAnQplots.png>MAnQplots</A> </TD> <TD align="center"> MAplots for each array, after Loess and Rquantile normalization </TD> </TR>
+  <TR> <TD align="center"> <A HREF=./figs/expIntQuDiff.png>expIntQuDiff</A> </TD> <TD align="center"> Interquartile differences of Log2 expression before and after Loess and Rquantile Rnormalization </TD> </TR>
+  <TR> <TD align="center"> <A HREF=./figs/expMedian.png>expMedian</A> </TD> <TD align="center"> Medians of Log2 expression before and after Loess and Rquantile normalization </TD> </TR>
+  <TR> <TD align="center"> <A HREF=./figs/corrHM.RG.png>corrHM.RG</A> </TD> <TD align="center"> Samples pair-wise correlation heatmap, raw data </TD> </TR>
+  <TR> <TD align="center"> <A HREF=./figs/corrHM.RGnQ.png>corrHM.RGnQ</A> </TD> <TD align="center"> Samples pair-wise correlation heatmap, Loess and Rquantile normalized data </TD> </TR>
+  <TR> <TD align="center"> <A HREF=./figs/qqPlots.ls.png>qqPlots.ls</A> </TD> <TD align="center"> QQ-plot for each contrast (least squares method) </TD> </TR>
+  <TR> <TD align="center"> <A HREF=./figs/qqPlots.rb.png>qqPlots.rb</A> </TD> <TD align="center"> QQ-plot for each contrast (robust method) </TD> </TR>
+  <TR> <TD align="center"> <A HREF=./figs/contrasts.BvsM.ls.png>contrasts.BvsM.ls</A> </TD> <TD align="center"> Volcano plots for each performed comparison (least squares method) </TD> </TR>
+  <TR> <TD align="center"> <A HREF=./figs/contrasts.BvsM.rb.png>contrasts.BvsM.rb</A> </TD> <TD align="center"> Volcano plots for each performed comparison (robust method) </TD> </TR>
+  <TR> <TD align="center"> <A HREF=./figs/contrasts.MAplot.ls.png>contrasts.MAplot.ls</A> </TD> <TD align="center"> MAplots for each performed comparison (least squares method) </TD> </TR>
+  <TR> <TD align="center"> <A HREF=./figs/contrasts.MAplot.rb.png>contrasts.MAplot.rb</A> </TD> <TD align="center"> MAplots for each performed comparison (robust method) </TD> </TR>
+   </TABLE>
+
+  </div>  
+ </body>
+</html>

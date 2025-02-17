@@ -1,0 +1,75 @@
+table thead th {
+    background:#91c5d4;
+    cursor: pointer;
+    }
+
+table {
+    border-collapse:collapse;
+    margin-bottom:15px;
+    width:90%;
+    }
+
+table td, table th {
+    padding: 3px;
+    border: 1px solid #ccc;
+    border-width: 0 1px 1px 0;
+    }
+
+table th {
+    border-bottom: 1px solid;
+}
+
+td {
+    text-align:center;
+    background:#d5eaf0;
+    }
+
+tr.odd td {
+    background:#bcd9e1;
+    }
+
+th.headerSortDown { 
+    background-color: #3399FF;
+    text-decoration: underline; 
+} 
+
+th.headerSortUp { 
+    background-color: #3399FF;
+    text-decoration: overline; 
+} 
+
+table { font-size: .9em; 
+	margin-left:auto; 
+	margin-right:auto;
+}
+
+body { background-color: #ccc; }
+h1, h2 { text-align: center; font-style: arial; }
+
+h2 { 
+    text-decoration: underline overline;
+    font-size: 1em;
+    letter-spacing: 0.1em;
+    padding: 5px;
+}
+
+h3 {
+    font-size: 0.8em;
+    text-align: center;
+}
+
+#message {
+text-align: center;
+margin: 15px;
+color: #aa0000;
+}
+
+a {
+    color: #A95842;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #333;
+}
