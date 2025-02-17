@@ -32,5 +32,14 @@ The code and the package to reproduce all figures and analyses can be downloaded
 
 All data analyzed in the paper can be downloaded here:
 - [Download the spreadsheet listing the source for all analyzed datasets](data/divergence/data_sources.xls)
-- [Download the compressed archive with all analyzed datasets (the compressed archive is approximately 2Gb!!!)](data/divergence/omicsData.tar.gz)
+
+- To download the compressed archive with all analyzed datasets:
+
+{%
+  include button.html
+  type="email"
+  text="marchion@med.cornell.edu"
+  link="marchion at med.cornell.edu"
+%}
+
 
