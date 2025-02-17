@@ -4,7 +4,9 @@ title: Recounting the FANTOM Cage Associated Transcriptome
 
 # {% include icon.html icon="fa-solid fa-wrench" %}FANTOM-CAT Transcriptome
 
-{% include citation.html lookup="Recounting the FANTOM Cage Associated Transcriptome" style="rich" %}
+{% include citation.html lookup="Recounting the FANTOM CAGE-Associated Transcriptome." style="rich" %}
+
+{% include citation.html lookup="pubmed:32079618" style="rich" %}
 
 {% include tags.html tags="long non-coding RNA, gene expression, transription" %}
 
