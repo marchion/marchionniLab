@@ -14,7 +14,7 @@ Ed ecco i progetti a cui stiamo lavorando
 
 {% include section.html background="images/longDNA.jpg" dark=false %}
 ***
-## Collaborative projects focusing on cancer biology
+## Collaborative projects focusing on biology
 {% include section.html %}
 
 {% include list.html component="card" data="projects" filter="group == 'biology'" %}
@@ -26,5 +26,3 @@ Ed ecco i progetti a cui stiamo lavorando
 {% include section.html %}
 
 {% include list.html component="card" data="projects" filter="group == 'bioinformatics'" %}
-
-{% include section.html background="images/background.jpg" dark=false %}

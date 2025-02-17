@@ -9,6 +9,7 @@
     - genomics
     - biology
     - cancer
+    - "prostate cancer"
     - prostate
     - resource
 
@@ -24,6 +25,7 @@
     - lncRNAs
     - biology
     - resource
+    - epigenomics
 
 - title: PathML
   subtitle: Suite for digital pathology analysis
@@ -35,6 +37,7 @@
   tags:
     - resource
     - method
+    - "image analysis"
     
 - title: MechPred
   subtitle: Developing mechanistic classifiers
