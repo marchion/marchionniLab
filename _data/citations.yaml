@@ -4297,6 +4297,12 @@
   publisher: PloS one
   date: '2021-04-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33819273
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1cc9/8021195/4749a0e92fd5/pone.0249002.g003.jpg
+  tags:
+  - method
+  - genomics
+  - transcriptomics
+  - heterogeity
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:31360735
