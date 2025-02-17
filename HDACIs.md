@@ -5,28 +5,29 @@ title: HDAC inhibition in Prostate Cancer
 # {% include icon.html icon="fa-solid fa-wrench" %} Analysis of the genomic response of human prostate cancer cells to histone deacetylase inhibitors (Supplementary data)
 
 
-{% include section.html background="images/longDNA.png" dark=false %}
+{% include section.html background="images/longDNA.png" dark=true %}
 ***
 ## Original manuscript
+{% include section.html %}
 
 In the following "Supplementary Methods" section we extensively describe all methods and data sources used in our study. In particular we provide details about the source of gene expression datasets, the platforms and annotation packages employed, the pre-processing procedures adopted for each dataset, the statistical details of the analysis performed, and the gene set databases used for the Analysis of Functional Annotation (AFA).
 
 {% include citation.html lookup="Analysis of the genomic response of human prostate cancer cells to histone deacetylase inhibitors" style="rich" %}
 
 
-{% include section.html background="images/longDNA.jgj" dark=false %}
+{% include section.html background="images/longDNA.jgj" dark=true %}
 ***
 ## Supplementary Methods
+{% include section.html %}
 
 The "Supplementary Methods" section can be downloaded here:
 
 [Download "Supplementary material"](data/HDACIs/HDACIsSuppl.pdf)
 
 
-{% include section.html background="images/longDNA.jpg" dark=false %}
+{% include section.html background="images/longDNA.jpg" dark=true %}
 ***
 ## Supplementary Figures
-
 {% include section.html %}
 
 ### Gene membership for the differentially expressed Functional Gene Set (FGS) associated with HDACI-treatment.
@@ -91,7 +92,7 @@ Treatments included combinations of Colcemid with HDACIs, or HDACIs alone, acros
 
 
 
-{% include section.html background="images/longDNA.jpg" dark=false %}
+{% include section.html background="images/longDNA.jpg" dark=true %}
 ***
 ## Differential gene expression analysis
 
@@ -124,9 +125,11 @@ Nore that columns in the HTML files can be sorted by clicking the column header.
 - **OMIM**: Online Mendelian Inheritance in Man
 
 
-{% include section.html background="images/longDNA.jpg" dark=false %}
+{% include section.html background="images/longDNA.jpg" dark=true %}
 ***
 ## Analysis os Functional Annotation (AFA), Top 200 FGS, FDR < 5%
+{% include section.html %}
+
 
 Columns in the HTML files can be sorted by clicking the column header.
 
@@ -151,7 +154,7 @@ Columns in the HTML files can be sorted by clicking the column header.
 
 
 ***
-### ANALYSIS OF FUNCTIONAL ANNOTATION HEATMAPS
+### Heatmaps for the Analysis of Functional Annotation 
 
 - [FGS enriched in GSE34452 (FDR < 5% in all comparisons) by differential gene expression](data/HDACIs/GSE34452/AFA/AFAheatmapABSmin.html)
 - [FGS enriched in GSE34452 (FDR < 5% in all comparisons) by gene up-regulation](data/HDACIs/GSE34452/AFA/AFAheatmapUPmin.html)
