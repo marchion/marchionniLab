@@ -10,16 +10,20 @@ title: Digitizing Omics Profiles by Divergence from a Baseline
 
 {% include search-info.html %}
 
-{% include section.html %}
 
+{% include smallSection.html background="images/thinDNA.jpg" dark=true %}
 ***
 ## Code and scripts
+{% include section.html %}
 
 The code and the package to reproduce all figures and analyses can be downloaded here:
 - [Divergence Analysis on gitHub](https://github.com/wikum/DivergenceAnalysis)
 
+
+{% include smallSection.html background="images/thinDNA.jpg" dark=true %}
 ***
 ## Datasets
+{% include section.html %}
 
 All data analyzed in the paper can be downloaded here:
 - [Download the spreadsheet listing the source for all analyzed datasets](data/divergence/data_sources.xls)
