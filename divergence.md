@@ -33,9 +33,7 @@ The code and the package to reproduce all figures and analyses can be downloaded
 All data analyzed in the paper can be downloaded here:
 - [Download the spreadsheet listing the source for all analyzed datasets](data/divergence/data_sources.xls)
 
-- To download the compressed archive with all analyzed datasets:
-
-{%
+- To obtain the compressed archive with all analyzed datasets: {%
   include button.html
   type="email"
   text="marchion@med.cornell.edu"
