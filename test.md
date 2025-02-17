@@ -3,6 +3,7 @@ title: The cytokine Meteorin-like inhibits anti-tumor CD8
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Meteorin-like protein in cancer
+{% include section.html %}
 
 {% include mydiv.html background="images/longDNA.jpg" dark=false %}
 ***
