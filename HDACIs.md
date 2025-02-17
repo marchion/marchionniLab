@@ -2,13 +2,17 @@
 title: HDAC inhibition in Prostate Cancer
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %} Supplementary data for: "Analysis of the genomic response of human prostate cancer cells to histone deacetylase inhibitors"
+# {% include icon.html icon="fa-solid fa-wrench" %} Analysis of the genomic response of human prostate cancer cells to histone deacetylase inhibitors (Supplementary data)
 
-{% include tags.html tags="publication, prostate cancer, epigenomics" %}
-
-{% include search-info.html %}
-
+***
+***
+{% include section.html background="images/longHDACIs.png" dark=false %}
 {% include section.html %}
+
+## Original manuscript
+In the following "Supplementary Methods" section we extensively describe all methods and data sources used in our study. In particular we provide details about the source of gene expression datasets, the platforms and annotation packages employed, the pre-processing procedures adopted for each dataset, the statistical details of the analysis performed, and the gene set databases used for the Analysis of Functional Annotation (AFA).
+
+{% include tags.html tags="gene expression, prostate cancer, epigenomics" %}
 
 {% include citation.html lookup="Analysis of the genomic response of human prostate cancer cells to histone deacetylase inhibitors" style="rich" %}
 
@@ -18,8 +22,6 @@ title: HDAC inhibition in Prostate Cancer
 ## Supplementary Methods
 {% include section.html background="images/longDNA.png" dark=false %}
 {% include section.html %}
-
-In the following "Supplementary Methods" section we extensively describe all methods and data sources used in our study. In particular we provide details about the source of gene expression datasets, the platforms and annotation packages employed, the pre-processing procedures adopted for each dataset, the statistical details of the analysis performed, and the gene set databases used for the Analysis of Functional Annotation (AFA).
 
 The "Supplementary Methods" section can be downloaded here:
 
