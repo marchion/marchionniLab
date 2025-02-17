@@ -36,4 +36,13 @@
     - "combination therapy"
     - "gene expression"
 
+- id: "pubmed:32079618"
+  image: "https://genome.cshlp.org/content/30/7/1073/F1.large.jpg"
+  tags:
+    - "genomics"
+    - "transcriptomics"
+    - "long on-coding RNA"
+    - "FANTOM"
+    - "gene expression"
+
 
