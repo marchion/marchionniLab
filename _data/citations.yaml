@@ -2750,3 +2750,42 @@
   - gene expression
   plugin: sources.py
   file: sources.yaml
+- id: pubmed:32079618
+  title: Recounting the FANTOM CAGE-Associated Transcriptome.
+  authors:
+  - Eddie Luidy Imada
+  - Diego Fernando Sanchez
+  - Leonardo Collado-Torres
+  - Christopher Wilks
+  - Tejasvi Matam
+  - Wikum Dinalankara
+  - Aleksey Stupnikov
+  - Francisco Lobo-Pereira
+  - Chi-Wai Yip
+  - Kayoko Yasuzawa
+  - Naoto Kondo
+  - Masayoshi Itoh
+  - Harukazu Suzuki
+  - Takeya Kasukawa
+  - Chung-Chau Hon
+  - Michiel J L de Hoon
+  - Jay W Shin
+  - Piero Carninci
+  - Andrew E Jaffe
+  - Jeffrey T Leek
+  - Alexander Favorov
+  - Gloria R Franco
+  - Ben Langmead
+  - Luigi Marchionni
+  publisher: Genome research
+  date: '2020-02-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32079618
+  image: https://genome.cshlp.org/content/30/7/1073/F1.large.jpg
+  tags:
+  - genomics
+  - transcriptomics
+  - long on-coding RNA
+  - FANTOM
+  - gene expression
+  plugin: sources.py
+  file: sources.yaml
