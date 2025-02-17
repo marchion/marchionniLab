@@ -14,7 +14,7 @@ In the following "Supplementary Methods" section we extensively describe all met
 {% include citation.html lookup="Analysis of the genomic response of human prostate cancer cells to histone deacetylase inhibitors" style="rich" %}
 
 
-{% include section.html background="images/longDNA.png" dark=false %}
+{% include section.html background="images/longDNA.jgj" dark=false %}
 ***
 ## Supplementary Methods
 
@@ -23,14 +23,10 @@ The "Supplementary Methods" section can be downloaded here:
 [Download "Supplementary material"](data/HDACIs/HDACIsSuppl.pdf)
 
 
-
-{% include section.html background="images/longDNA.png" dark=false %}
+{% include section.html background="images/longDNA.jpg" dark=false %}
 ***
 ## Supplementary Figures
 
-{% include section.html %}
-
-***
 ### Gene membership for the differentially expressed Functional Gene Set (FGS) associated with HDACI-treatment.
 
 Heatmaps visualizing gene membership to FGS enriched in DU-145 and PC3 cells upon HDACI treatment. Rows in the heatmaps correspond to described in Figure 1 of the main paper, while columns represent the most differentially expressed genes (FDR < 0.1%) annotated to such FGS. In the heatmaps gene membership to specific FGS is highlighted in white, while black is used when genes do not belong to the FGS. Hierarchical clustering of rows and columns was obtained using the binary distance and the Ward clustering method.
@@ -93,10 +89,9 @@ Treatments included combinations of Colcemid with HDACIs, or HDACIs alone, acros
 
 
 
-{% include section.html background="images/longDNA.png" dark=false %}
+{% include section.html background="images/longDNA.jpg" dark=false %}
 ***
-## DIFFERENTIAL GENE EXPRESSION ANALYSIS
-
+## Differential gene expression analysis
 
 Nore that columns in the HTML files can be sorted by clicking the column header.
 
@@ -113,7 +108,7 @@ Nore that columns in the HTML files can be sorted by clicking the column header.
 - ***ProbeName:*** Microarray Feature Identifier
 - **logFC:*** Logarithmic transformation (base 2 of the fold-change between groups
 - **AveExpr:** Logarithmic transformation (base 2) of the average expression for the group
-- **t:* Moderated t-statistics
+- **t:** Moderated t-statistics
 - **P.value**: Unadjusted P value
 - **adj.P.Val**: Adjusted P value with the Benjamini-Hochberg method
 - **B**: B-statistics, log odds
@@ -125,10 +120,9 @@ Nore that columns in the HTML files can be sorted by clicking the column header.
 - **OMIM**: Online Mendelian Inheritance in Man
 
 
-{% include section.html background="images/longDNA.png" dark=false %}
+{% include section.html background="images/longDNA.jpg" dark=false %}
 ***
-## ANALYSIS OF FUNCTIONAL ANNOTATION (AFA), TOP 200 FGS, FDR < 5%
-
+## Analysis os Functional Annotation (AFA), Top 200 FGS, FDR < 5%
 
 Columns in the HTML files can be sorted by clicking the column header.
 
@@ -142,10 +136,10 @@ Columns in the HTML files can be sorted by clicking the column header.
 
 *Functional Gene Set (FGS) tables headers*
 
-- **Gene Set Name:* The unique Functional Gene Set identifier
-- **GeneSetDescription:* The hyperlink to the list of the FGS differentially expressed genes
-- **Value:* The raw p-value obtained from the Wilcoxon log-rank test
-- **Gene Set Size:* The number of gene contained in the FGS for the microarray platform under analysis
+- **Gene Set Name:** The unique Functional Gene Set identifier
+- **GeneSetDescription:** The hyperlink to the list of the FGS differentially expressed genes
+- **Value:** The raw p-value obtained from the Wilcoxon log-rank test
+- **Gene Set Size:** The number of gene contained in the FGS for the microarray platform under analysis
 - **Corrected Value:** The adjusted p-value obtained using the Benjamini-Hocberg method
 - **Ranking:** The FGS ranking
 - **Description:** The extended description of the FGS
