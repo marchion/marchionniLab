@@ -24,7 +24,7 @@ title: Breast Cancer
 Original manuscript: 
 
 - Find the original [manuscript here](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-336)
-- Download the manuscript's [Supplementary Material](http://marchionnilab.org/data/breastTSP/Supplement.pdf)
+- Download the manuscript's [Supplementary Material](http://marchionnilab.org/breastTSP/Supplement.pdf)
 
 
 ## R-Bioconductor packages
@@ -47,6 +47,5 @@ All experimental and software R-Bioconductor packages can be downloaded here:
 
 ExpressionSet instances for normalized and summarized gene expression data can be downloaded here:
 
-- Download data for the [Glas cohort](https://marchionnilab.org/data/breastTSP/glasEset.rda)
-- Download data for the [Buyse cohort](https://marchionnilab.org/bdata/reastTSP/buyseEset.rda)
-
+- Download data for the [Glas cohort](https://marchionnilab.org/breastTSP/glasEset.rda)
+- Download data for the [Buyse cohort](https://marchionnilab.org/breastTSP/buyseEset.rda)
