@@ -4,7 +4,7 @@ title: HDAC inhibition in Prostate Cancer
 
 # {% include icon.html icon="fa-solid fa-wrench" %} Analysis of the genomic response of human prostate cancer cells to histone deacetylase inhibitors (Supplementary data)
 
-{% include section.html background="images/longDNA.jpg" dark=true %}
+{% include section.html background="images/longDNA.jpg" dark=false %}
 ***
 ## Original manuscript
 {% include section.html %}
@@ -12,7 +12,7 @@ title: HDAC inhibition in Prostate Cancer
 {% include citation.html lookup="Analysis of the genomic response of human prostate cancer cells to histone deacetylase inhibitors." style="rich" %}
 
 
-{% include section.html background="images/longDNA.jpg" dark=true %}
+{% include section.html background="images/longDNA.jpg" dark=false %}
 ***
 ## Supplementary Methods
 {% include section.html %}
@@ -25,7 +25,7 @@ The "Supplementary Methods" section can be downloaded here:
 [Download "Supplementary material"](data/HDACIs/HDACIsSuppl.pdf)
 
 
-{% include section.html background="images/longDNA.jpg" dark=true %}
+{% include section.html background="images/longDNA.jpg" dark=false %}
 ***
 ## Supplementary Figures
 {% include section.html %}
@@ -92,7 +92,7 @@ Treatments included combinations of Colcemid with HDACIs, or HDACIs alone, acros
 
 
 
-{% include section.html background="images/longDNA.jpg" dark=true %}
+{% include section.html background="images/longDNA.jpg" dark=false %}
 ***
 ## Differential gene expression analysis
 
@@ -125,7 +125,7 @@ Nore that columns in the HTML files can be sorted by clicking the column header.
 - **OMIM**: Online Mendelian Inheritance in Man
 
 
-{% include section.html background="images/longDNA.jpg" dark=true %}
+{% include section.html background="images/longDNA.jpg" dark=false %}
 ***
 ## Analysis os Functional Annotation (AFA), Top 200 FGS, FDR < 5%
 {% include section.html %}

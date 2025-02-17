@@ -23,7 +23,7 @@ for the benefit of cancer research patients of **ALL** backgrounds.
 ***(Ulisse nella Divina Commedia, Canto XXVI, Dante Alighieri)***
 
 
-{% include section.html background="images/longDNA.jpg" dark=true %}
+{% include section.html background="images/longDNA.jpg" dark=false %}
 
 ## Our research interests
 

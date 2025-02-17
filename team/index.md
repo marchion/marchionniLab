@@ -9,7 +9,7 @@ nav:
 
 <!--- section for the current members --->
 
-{% include section.html background="images/longPeople.jpg" dark=true %}
+{% include section.html background="images/longPeople.jpg" dark=false %}
 
 ## Current team members 
 
@@ -23,7 +23,7 @@ Please meet our team of exceptional scientists
 
 <!--- section for the visiting students --->
 
-{% include section.html background="images/longPeople.jpg" dark=true %}
+{% include section.html background="images/longPeople.jpg" dark=false %}
 
 ## Visiting scholars and students
 
@@ -41,7 +41,7 @@ Visiting scholars and students
 
 <!--- section for the former members --->
 
-{% include section.html background="images/longPeople.jpg" dark=true %}
+{% include section.html background="images/longPeople.jpg" dark=false %}
 
 ## Past team members 
 

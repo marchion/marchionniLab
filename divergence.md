@@ -4,7 +4,7 @@ title: Digitizing Omics Profiles by Divergence from a Baseline
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Digitizing Omics Profiles
 
-{% include section.html background="images/longDNA.jpg" dark=true %}
+{% include section.html background="images/longDNA.jpg" dark=false %}
 ***
 ## Original manuscript
 {% include section.html %}
@@ -16,7 +16,7 @@ title: Digitizing Omics Profiles by Divergence from a Baseline
 {% include search-info.html %}
 
 
-{% include section.html background="images/longDNA.jpg" dark=true %}
+{% include section.html background="images/longDNA.jpg" dark=false %}
 ***
 ## Code and scripts
 {% include section.html %}
@@ -25,7 +25,7 @@ The code and the package to reproduce all figures and analyses can be downloaded
 - [Divergence Analysis on gitHub](https://github.com/wikum/DivergenceAnalysis)
 
 
-{% include section.html background="images/longDNA.jpg" dark=true %}
+{% include section.html background="images/longDNA.jpg" dark=false %}
 ***
 ## Datasets
 {% include section.html %}
