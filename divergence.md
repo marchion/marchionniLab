@@ -19,7 +19,7 @@ The code and the package to reproduce all figures and analyses can be downloaded
 - [Divergence Analysis on gitHub](https://github.com/wikum/DivergenceAnalysis)
 
 ***
-## Code and scripts
+## Datasets
 
 All data analyzed in the paper can be downloaded here:
 
