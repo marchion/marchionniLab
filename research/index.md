@@ -6,18 +6,14 @@ nav:
 ---
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Below you will find the complete list of the work we published during the years.
+Below is the complete list of our work through the years.
 We know that one team won’t find all solutions,
-so we strive to develop tools that any biologist can reuse.
-Finally, aur approach to research prioritizes reproducibility, rigor, and transparency.
-(Thanks [Greene Lab](https://greenelab.com/) for this, I quoted you almost verbatim here...). 
-
-The citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) developed by the [Greene Lab](https://greenelab.com/)!
-
+so we strive to develop tools that other scientist can use too.
+Our research philosophy prioritizes reproducibility, rigor, and transparency.
 
 {% include section.html background="images/longDNA.jpg" dark=false %}
 ***
-## Highlighted
+## Highlighted (never boring ...)
 {% include section.html %}
 
 {% include citation.html lookup="The cytokine Meteorin-like inhibits anti-tumor CD8" style="rich" %}
@@ -42,3 +38,7 @@ The search box below allows to find the manuscripts of interest from the list be
 
 {% include list.html data="citations" component="citation" style="rich" %}
 
+***
+***
+
+The citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) developed by the [Greene Lab](https://greenelab.com/)!
