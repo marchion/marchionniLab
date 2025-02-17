@@ -86,8 +86,22 @@
 - id: "pubmed:39094629"
 
 - id: "pubmed:36759904"
-
+  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/381b/9912678/2411f65028a2/13059_2023_2865_Fig1_HTML.jpg"
+  tags:
+    - post-trancriptional regulation
+    - splicing
+    - cancer
+    - genomics
+    - transcriptomics
+    - method
+ 
 - id: "pubmed:35979657"
+  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f438/9897593/c932219972b9/nihms-1837110-f0005.jpg"
+  tags:
+    - acute myeloid leukemia
+    - transplantation
+    - genomics
+    - cancer
 
 - id: "pubmed:37034687"
 
