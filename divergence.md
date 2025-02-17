@@ -22,7 +22,6 @@ The code and the package to reproduce all figures and analyses can be downloaded
 ## Datasets
 
 All data analyzed in the paper can be downloaded here:
-
 - [Download the spreadsheet listing the source for all analyzed datasets](data/divergence/data_sources.xls)
-- [Download the compressed archive with all analyzed datasets](data/divergence/omicsData.tar.gz)
+- [Download the compressed archive with all analyzed datasets (the compressed archive is approximately 2Gb!!!)](data/divergence/omicsData.tar.gz)
 
