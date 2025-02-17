@@ -8,7 +8,7 @@ $padding: 40px;
 section {
   padding: $padding max($padding, calc((100% - $page) / 2));
   transition: background var(--transition), color var(--transition);
-  Height: 250px;
+  height: 200px;
 }
 
 section[data-size="wide"] {
