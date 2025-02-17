@@ -2776,6 +2776,8 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/39111315
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1074761324003522-fx1.jpg
   tags:
+  - genomics
+  - transcriptomics
   - cancer
   - immunity
   - TME
@@ -2906,7 +2908,7 @@
   tags:
   - genomics
   - transcriptomics
-  - long on-coding RNA
+  - long non-coding RNA
   - FANTOM
   - gene expression
   plugin: sources.py
@@ -3601,6 +3603,7 @@
   - transplantation
   - genomics
   - cancer
+  - clonal hematopoiesis
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:37034687
@@ -4302,7 +4305,7 @@
   - method
   - genomics
   - transcriptomics
-  - heterogeity
+  - heterogeneity
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:31360735
