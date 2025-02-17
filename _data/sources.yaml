@@ -1,6 +1,8 @@
 - id: "pubmed:39111315"
   image: "https://ars.els-cdn.com/content/image/1-s2.0-S1074761324003522-fx1.jpg"
   tags:
+    - genomics
+    - transcriptomics
     - cancer
     - immunity
     - TME
@@ -32,23 +34,23 @@
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1d82/3883768/24594ab2add1/epi-8-907-g1.jpg"
   tags:
     - "prostate cancer"
-    - "epigenetics"
+    - epigenetics
     - "combination therapy"
     - "gene expression"
 
 - id: "pubmed:32079618"
   image: "https://genome.cshlp.org/content/30/7/1073/F1.large.jpg"
   tags:
-    - "genomics"
-    - "transcriptomics"
-    - "long on-coding RNA"
-    - "FANTOM"
+    - genomics
+    - transcriptomics
+    - "long non-coding RNA"
+    - FANTOM
     - "gene expression"
 
 - id: "pubmed:38191471"
   image: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-023-44210-1/MediaObjects/41467_2023_44210_Fig1_HTML.png"
   tags:
-    - prostate cancer
+    - "prostate cancer"
     - TME
     - "single cell"
     - "spatial transcriptomics"
@@ -88,7 +90,7 @@
 - id: "pubmed:36759904"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/381b/9912678/2411f65028a2/13059_2023_2865_Fig1_HTML.jpg"
   tags:
-    - post-trancriptional regulation
+    - "post-trancriptional regulation"
     - splicing
     - cancer
     - genomics
@@ -98,10 +100,11 @@
 - id: "pubmed:35979657"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f438/9897593/c932219972b9/nihms-1837110-f0005.jpg"
   tags:
-    - acute myeloid leukemia
+    - "acute myeloid leukemia"
     - transplantation
     - genomics
     - cancer
+    - "clonal hematopoiesis"
 
 - id: "pubmed:37034687"
 
@@ -114,15 +117,10 @@
 - id: "pubmed:33396819"
 
 - id: "pubmed:36852282"
-
   image: "https://ars.els-cdn.com/content/image/1-s2.0-S2589004223001852-fx1.jpg"
-
   tags:
-
     - cancer
-
     - "tumor heterogeneity"
-
     - "statistical method"
 
 - id: "pubmed:38946967"
@@ -183,7 +181,7 @@
     - method
     - genomics
     - transcriptomics
-    - heterogeity
+    - heterogeneity
 
 - id: "pubmed:31360735"
 
