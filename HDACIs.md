@@ -2,13 +2,7 @@
 title: HDAC inhibition in Prostate Cancer
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %} HDAC inhibition in Prostate Cancer
-
-**Supplementary data for: Analysis of the genomic response 
-of human prostate cancer cells to histone deacetylase inhibitors**
-
-
-{% include citation.html lookup="Downregulation of Homologous Recombination DNA Repair Genes by HDAC Inhibition in Prostate Cancer Is Mediated through the E2F1 Transcription Factor" style="rich" %}
+# {% include icon.html icon="fa-solid fa-wrench" %} Supplementary data for: "Analysis of the genomic response of human prostate cancer cells to histone deacetylase inhibitors"
 
 {% include tags.html tags="publication, prostate cancer, epigenomics" %}
 
@@ -21,13 +15,9 @@ of human prostate cancer cells to histone deacetylase inhibitors**
 
 ***
 ***
-## Supplementary information for the manuscript
-{% include section.html background="images/longDNA.jpg" dark=true %}
-
-Original manuscript: 
-
-{% include section.html background="images/longHDACIs.png" dark=true %}
 ## Supplementary Methods
+{% include section.html background="images/longDNA.png" dark=false %}
+{% include section.html %}
 
 In the following "Supplementary Methods" section we extensively describe all methods and data sources used in our study. In particular we provide details about the source of gene expression datasets, the platforms and annotation packages employed, the pre-processing procedures adopted for each dataset, the statistical details of the analysis performed, and the gene set databases used for the Analysis of Functional Annotation (AFA).
 
@@ -39,7 +29,8 @@ The "Supplementary Methods" section can be downloaded here:
 ***
 ***
 ## Supplementary Figures
-{% include section.html background="images/longDNA.jpg" dark=true %}
+{% include section.html background="images/longDNA.png" dark=false %}
+{% include section.html %}
 
 ***
 ### Gene membership for differentially expressed Functional Gene Set (FGS) after HDACI-treatment.
@@ -106,7 +97,8 @@ Treatments included combinations of Colcemid with HDACIs, or HDACIs alone, acros
 ***
 ***
 ## DIFFERENTIAL GENE EXPRESSION ANALYSIS
-{% include section.html background="images/longDNA.jpg" dark=true %}
+{% include section.html background="images/longDNA.png" dark=false %}
+{% include section.html %}
 
 Nore that columns in the HTML files can be sorted by clicking the column header.
 
@@ -138,7 +130,8 @@ Nore that columns in the HTML files can be sorted by clicking the column header.
 ***
 ***
 ## ANALYSIS OF FUNCTIONAL ANNOTATION (AFA), TOP 200 FGS, FDR < 5%
-{% include section.html background="images/longDNA.jpg" dark=true %}
+{% include section.html background="images/longDNA.png" dark=false %}
+{% include section.html %}
 
 Columns in the HTML files can be sorted by clicking the column header.
 
@@ -175,9 +168,5 @@ Columns in the HTML files can be sorted by clicking the column header.
 
 
 *Figure Legends:* In all heatmaps the color scale represents the negative base 10 logarithm of the q-values obtained after adjusting the Wilcoxon rank-sum test P-values using with the Benjamini-Hochberg method. Functional Gene Sets are represented on the rows and were clustered using the Euclidian distance and the average clustering method, while the comparisons for the different HDACIs treatments were represented by column and were not reordered.
-
-
-
-
 
 
