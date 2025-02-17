@@ -11,8 +11,6 @@ title: The cytokine Meteorin-like inhibits anti-tumor CD8
 
 {% include citation.html lookup="The cytokine Meteorin-like inhibits anti-tumor CD8" style="rich" %}
 
-{% include tags.html tags="immunity, cancer" %}
-
 {% include search-info.html %}
 
 {% include smallSection.html background="images/thinDNA.jpg" dark=true %}

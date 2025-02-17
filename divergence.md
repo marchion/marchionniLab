@@ -13,8 +13,6 @@ title: Digitizing Omics Profiles by Divergence from a Baseline
 
 {% include citation.html lookup="Digitizing omics profiles by divergence from a baseline." style="rich" %}
 
-{% include tags.html tags="tumor heterogeneity, data modeling, cancer" %}
-
 {% include search-info.html %}
 
 

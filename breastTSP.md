@@ -11,8 +11,6 @@ title: Breast Cancer
 
 {% include citation.html lookup="A simple and reproducible breast cancer prognostic test." style="rich" %}
 
-{% include tags.html tags="method, gene expression, machine learning, breast cancer" %}
-
 {% include search-info.html %}
 
 ***
