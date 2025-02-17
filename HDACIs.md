@@ -4,37 +4,34 @@ title: HDAC inhibition in Prostate Cancer
 
 # {% include icon.html icon="fa-solid fa-wrench" %} Analysis of the genomic response of human prostate cancer cells to histone deacetylase inhibitors (Supplementary data)
 
-***
+
+{% include section.html background="images/longDNA.png" dark=false %}
 ***
 ## Original manuscript
 
 In the following "Supplementary Methods" section we extensively describe all methods and data sources used in our study. In particular we provide details about the source of gene expression datasets, the platforms and annotation packages employed, the pre-processing procedures adopted for each dataset, the statistical details of the analysis performed, and the gene set databases used for the Analysis of Functional Annotation (AFA).
 
-{% include tags.html tags="gene expression, prostate cancer, epigenomics" %}
-
 {% include citation.html lookup="Analysis of the genomic response of human prostate cancer cells to histone deacetylase inhibitors" style="rich" %}
 
 
-***
-***
 {% include section.html background="images/longDNA.png" dark=false %}
-
+***
 ## Supplementary Methods
 
 The "Supplementary Methods" section can be downloaded here:
 
 [Download "Supplementary material"](data/HDACIs/HDACIsSuppl.pdf)
 
-***
-***
-{% include section.html background="images/longDNA.png" dark=false %}
 
+
+{% include section.html background="images/longDNA.png" dark=false %}
+***
 ## Supplementary Figures
 
 {% include section.html %}
 
 ***
-### Gene membership for differentially expressed Functional Gene Set (FGS) after HDACI-treatment.
+### Gene membership for the differentially expressed Functional Gene Set (FGS) associated with HDACI-treatment.
 
 Heatmaps visualizing gene membership to FGS enriched in DU-145 and PC3 cells upon HDACI treatment. Rows in the heatmaps correspond to described in Figure 1 of the main paper, while columns represent the most differentially expressed genes (FDR < 0.1%) annotated to such FGS. In the heatmaps gene membership to specific FGS is highlighted in white, while black is used when genes do not belong to the FGS. Hierarchical clustering of rows and columns was obtained using the binary distance and the Ward clustering method.
 
@@ -95,11 +92,11 @@ Treatments included combinations of Colcemid with HDACIs, or HDACIs alone, acros
 - [Supplementary Figure S21: Flow cytometry graphs for DU-145 cells](data/HDACIs/Figures/figS21.jpg)
 
 
-***
+
+{% include section.html background="images/longDNA.png" dark=false %}
 ***
 ## DIFFERENTIAL GENE EXPRESSION ANALYSIS
-{% include section.html background="images/longDNA.png" dark=false %}
-{% include section.html %}
+
 
 Nore that columns in the HTML files can be sorted by clicking the column header.
 
@@ -128,11 +125,10 @@ Nore that columns in the HTML files can be sorted by clicking the column header.
 - **OMIM**: Online Mendelian Inheritance in Man
 
 
-***
+{% include section.html background="images/longDNA.png" dark=false %}
 ***
 ## ANALYSIS OF FUNCTIONAL ANNOTATION (AFA), TOP 200 FGS, FDR < 5%
-{% include section.html background="images/longDNA.png" dark=false %}
-{% include section.html %}
+
 
 Columns in the HTML files can be sorted by clicking the column header.
 
