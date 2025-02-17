@@ -9,7 +9,7 @@ title: Breast Cancer
 **by Luigi Marchionni, Bahman Afsari, Donald Geman, and Jeffrey T. Leek**
 
 
-{% include citation.html lookup="R"A simple and reproducible breast cancer prognostic test." style="rich" %}
+{% include citation.html lookup="A simple and reproducible breast cancer prognostic test." style="rich" %}
 
 {% include citation.html lookup="pubmed:23682826" style="rich" %}
 
