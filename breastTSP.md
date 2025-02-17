@@ -4,16 +4,19 @@ title: Breast Cancer
 
 # {% include icon.html icon="fa-solid fa-wrench" %} Breast Cancer Classification
 
+{% include smallSection.html background="images/thinDNA.jpg" dark=true %}
+***
+## Original manuscript
+{% include section.html %}
+
 {% include citation.html lookup="A simple and reproducible breast cancer prognostic test." style="rich" %}
 
 {% include tags.html tags="method, gene expression, machine learning, breast cancer" %}
 
 {% include search-info.html %}
 
-{% include smallSection.html background="images/thinDNA.jpg" dark=true %}
 ***
-## Original manuscript: 
-{% include section.html %}
+### Links to the original manuscript:
 
 - Find the original [manuscript here](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-336)
 - Download the manuscript's [Supplementary Material](http://marchionnilab.org/data/breastTSP/Supplement.pdf)

@@ -4,6 +4,11 @@ title: Recounting the FANTOM Cage Associated Transcriptome
 
 # {% include icon.html icon="fa-solid fa-wrench" %}FANTOM-CAT Transcriptome
 
+{% include smallSection.html background="images/thinDNA.jpg" dark=true %}
+***
+## Original manuscript
+{% include section.html %}
+
 {% include citation.html lookup="Recounting the FANTOM CAGE-Associated Transcriptome." style="rich" %}
 
 {% include citation.html lookup="pubmed:32079618" style="rich" %}
