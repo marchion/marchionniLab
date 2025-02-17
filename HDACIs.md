@@ -6,10 +6,8 @@ title: HDAC inhibition in Prostate Cancer
 
 ***
 ***
-{% include section.html background="images/longHDACIs.png" dark=false %}
-{% include section.html %}
-
 ## Original manuscript
+
 In the following "Supplementary Methods" section we extensively describe all methods and data sources used in our study. In particular we provide details about the source of gene expression datasets, the platforms and annotation packages employed, the pre-processing procedures adopted for each dataset, the statistical details of the analysis performed, and the gene set databases used for the Analysis of Functional Annotation (AFA).
 
 {% include tags.html tags="gene expression, prostate cancer, epigenomics" %}
@@ -19,19 +17,20 @@ In the following "Supplementary Methods" section we extensively describe all met
 
 ***
 ***
-## Supplementary Methods
 {% include section.html background="images/longDNA.png" dark=false %}
-{% include section.html %}
+
+## Supplementary Methods
 
 The "Supplementary Methods" section can be downloaded here:
 
 [Download "Supplementary material"](data/HDACIs/HDACIsSuppl.pdf)
 
-
 ***
 ***
-## Supplementary Figures
 {% include section.html background="images/longDNA.png" dark=false %}
+
+## Supplementary Figures
+
 {% include section.html %}
 
 ***
