@@ -1,8 +1,8 @@
 ---
 ---
 
-$page: 500px;
-$padding: 20px;
+$page: 1000px;
+$padding: 40px;
 
 section {
   padding: $padding max($padding, calc((100% - $page) / 2));
