@@ -27,6 +27,20 @@ The code and the package to reproduce all figures and analyses can be downloaded
 
 {% include section.html background="images/longDNA.jpg" dark=false %}
 ***
+## R-Bioconductor packages
+{% include section.html %}
+
+The R-Bioconductor package for **divergence** analysis can be downloaded here:
+
+- [R-Bioconductor divergence package](https://bioconductor.org/packages/release/bioc/html/divergence.html)
+
+See also the following manuscript: 
+
+{% include citation.html lookup="pubmed:33819273" style="rich" %}
+
+
+{% include section.html background="images/longDNA.jpg" dark=false %}
+***
 ## Datasets
 {% include section.html %}
 
