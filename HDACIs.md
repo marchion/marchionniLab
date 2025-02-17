@@ -91,8 +91,8 @@ Heatmap visualizing FGS enriched in DU-145 and PC3 cells upon HDACI treatment (G
 
 Treatments included combinations of Colcemid with HDACIs, or HDACIs alone, across several time points. PC3 cells were treated for variable periods with either 9 μM SAHA alone, or a combination of 0.1 μg/ml Colcemid with 4 μM SAHA or 4 mM VPA. DU-145 cells were treated for variable periods with either 9 μM SAHA alone or a combination of 0.04 μg/ml Colcemid with 4 μM SAHA or 4 mM VPA. Every 2-3 hours cells were harvested and stained with propidium iodide and flow cytometry analyses were performed. Combining HDAC-inhibitors with Colcemid resulted in mitotic accumulation of PC3 cells.
 
-- [Supplementary Figure S20: Flow cytometry graphs for PC3 cells](data/HDACIs/Figures/figS20.png)
-- [Supplementary Figure S21: Flow cytometry graphs for DU-145 cells](data/HDACIs/Figures/figS21.png)
+- [Supplementary Figure S20: Flow cytometry graphs for PC3 cells](data/HDACIs/Figures/figS20.jpg)
+- [Supplementary Figure S21: Flow cytometry graphs for DU-145 cells](data/HDACIs/Figures/figS21.jpg)
 
 
 ***
@@ -113,19 +113,19 @@ Nore that columns in the HTML files can be sorted by clicking the column header.
 
 *Gene annotation table headers*
 
-- *ProbeName:* Microarray Feature Identifier
-- *logFC:* Logarithmic transformation (base 2 of the fold-change between groups
-- *AveExpr:* Logarithmic transformation (base 2) of the average expression for the group
-- *t:* Moderated t-statistics
-- *P.value*: Unadjusted P value
-- *adj.P.Val**: Adjusted P value with the Benjamini-Hochberg method
-- *B*: B-statistics, log odds
-- *ENTREZID*: Entrez Gene Identifier, linked to the NCBI ENTREZ Gene database
-- *SYMBOL*: Gene Symbol
-- *GENENAME*: Official Gene Name
-- *UNIGENE*: Unigene Cluster Identifier, linked to the NCBI Unigene database
-- *ENSEMBL*: ENSEMBL Gene Identifier, linked to the ENSEMBL database
-- *OMIM**: Online Mendelian Inheritance in Man
+- ***ProbeName:*** Microarray Feature Identifier
+- **logFC:*** Logarithmic transformation (base 2 of the fold-change between groups
+- **AveExpr:** Logarithmic transformation (base 2) of the average expression for the group
+- **t:* Moderated t-statistics
+- **P.value**: Unadjusted P value
+- **adj.P.Val**: Adjusted P value with the Benjamini-Hochberg method
+- **B**: B-statistics, log odds
+- **ENTREZID**: Entrez Gene Identifier, linked to the NCBI ENTREZ Gene database
+- **SYMBOL**: Gene Symbol
+- **GENENAME**: Official Gene Name
+- **UNIGENE**: Unigene Cluster Identifier, linked to the NCBI Unigene database
+- **ENSEMBL**: ENSEMBL Gene Identifier, linked to the ENSEMBL database
+- **OMIM**: Online Mendelian Inheritance in Man
 
 
 ***
@@ -146,14 +146,14 @@ Columns in the HTML files can be sorted by clicking the column header.
 
 *Functional Gene Set (FGS) tables headers*
 
-- *Gene Set Name:* The unique Functional Gene Set identifier
-- *GeneSetDescription:* The hyperlink to the list of the FGS differentially expressed genes
-- *Value:* The raw p-value obtained from the Wilcoxon log-rank test
-- *Gene Set Size:* The number of gene contained in the FGS for the microarray platform under analysis
-- *Corrected Value:* The adjusted p-value obtained using the Benjamini-Hocberg method
-- *Ranking:* The FGS ranking
-- *Description:* The extended description of the FGS
-- *URL:* The hyperlink to the webpage containing further information about the FGS
+- **Gene Set Name:* The unique Functional Gene Set identifier
+- **GeneSetDescription:* The hyperlink to the list of the FGS differentially expressed genes
+- **Value:* The raw p-value obtained from the Wilcoxon log-rank test
+- **Gene Set Size:* The number of gene contained in the FGS for the microarray platform under analysis
+- **Corrected Value:** The adjusted p-value obtained using the Benjamini-Hocberg method
+- **Ranking:** The FGS ranking
+- **Description:** The extended description of the FGS
+- **URL:** The hyperlink to the webpage containing further information about the FGS
 
 
 ***
@@ -168,6 +168,6 @@ Columns in the HTML files can be sorted by clicking the column header.
 - [FGS enriched in ALL studies (FDR < 5% in at least one comparison) by gene down-regulation](data/HDACIs/Combined/AFAheatmapDOWNmax.html)
 
 
-*Figure Legends:* In all heatmaps the color scale represents the negative base 10 logarithm of the q-values obtained after adjusting the Wilcoxon rank-sum test P-values using with the Benjamini-Hochberg method. Functional Gene Sets are represented on the rows and were clustered using the Euclidian distance and the average clustering method, while the comparisons for the different HDACIs treatments were represented by column and were not reordered.
+**Figure Legends:** In all heatmaps the color scale represents the negative base 10 logarithm of the q-values obtained after adjusting the Wilcoxon rank-sum test P-values using with the Benjamini-Hochberg method. Functional Gene Sets are represented on the rows and were clustered using the Euclidian distance and the average clustering method, while the comparisons for the different HDACIs treatments were represented by column and were not reordered.
 
 
