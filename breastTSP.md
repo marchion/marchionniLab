@@ -4,7 +4,7 @@ title: Breast Cancer
 
 # {% include icon.html icon="fa-solid fa-wrench" %} Breast Cancer Classification
 
-{% include smallSection.html background="images/thinDNA.jpg" dark=true %}
+{% include section.html background="images/longDNA.jpg" dark=true %}
 ***
 ## Original manuscript
 {% include section.html %}
@@ -20,7 +20,7 @@ title: Breast Cancer
 - Download the manuscript's [Supplementary Material](http://marchionnilab.org/data/breastTSP/Supplement.pdf)
 
 
-{% include smallSection.html background="images/thinDNA.jpg" dark=true %}
+{% include section.html background="images/longDNA.jpg" dark=true %}
 ***
 ## R-Bioconductor packages
 {% include section.html %}
@@ -31,7 +31,7 @@ All experimental and software R-Bioconductor packages can be downloaded here:
 2. [mammaPrintData](https://bioconductor.org/packages/release/data/experiment/html/mammaPrintData.html)
 
 
-{% include smallSection.html background="images/thinDNA.jpg" dark=true %}
+{% include section.html background="images/longDNA.jpg" dark=true %}
 ***
 ## Normalized data
 {% include section.html %}
