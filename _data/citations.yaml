@@ -2722,3 +2722,31 @@
   - statistical method
   plugin: sources.py
   file: sources.yaml
+- id: pubmed:23880963
+  title: Analysis of the genomic response of human prostate cancer cells to histone
+    deacetylase inhibitors.
+  authors:
+  - Madeleine S Q Kortenhorst
+  - Michel D Wissing
+  - "Ronald Rodr\xEDguez"
+  - Sushant K Kachhap
+  - Judith J M Jans
+  - Petra Van der Groep
+  - Henk M W Verheul
+  - Anuj Gupta
+  - Paul O Aiyetan
+  - Elsken van der Wall
+  - Michael A Carducci
+  - Paul J Van Diest
+  - Luigi Marchionni
+  publisher: Epigenetics
+  date: '2013-07-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23880963
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1d82/3883768/24594ab2add1/epi-8-907-g1.jpg
+  tags:
+  - prostate cancer
+  - epigenetics
+  - combination therapy
+  - gene expression
+  plugin: sources.py
+  file: sources.yaml
