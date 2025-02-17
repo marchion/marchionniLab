@@ -1,5 +1,5 @@
 section {
-  padding: 20px max(20px, (100% - 1000px) / 2);
+  padding: 20px max(20px, (100% - 500px) / 2);
   transition: background var(--transition), color var(--transition);
 }
 
