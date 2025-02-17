@@ -10,10 +10,8 @@ aliases:
 image: images/team/Francisco.jpg
 role: collaborator
 group: visiting
-description: Associate Professor and Bioinformatics Staff Scientist
-affiliation:
-  - "University if Minas Gerais, Belo Horizonte, Brazil"
-  - "Cancer and Developmental Biology Laboratory, National Cancer Institute"
+description: Associate Professor
+affiliation: University if Minas Gerais, Belo Horizonte, Brazil
 links:
   home-page: https://ccr.cancer.gov/staff-directory/francisco-pereira-lobo
   email: franciscolobo@gmail.com
@@ -22,3 +20,4 @@ links:
 ---
 
 Dr. Francisco Pereira Lobo develops and uses bioinformatics tools to integrate omics data aiming at generating statistically sound and biologically meaningful knowledge. Currently, he is providing bioinformatics support for various research projects at CDBL, ranging from the description of single-cell atlas of non-model metazoan species to the study of organ development in vertebrates.
+Currently Francisco has a visiting appointment as Bioinformatics Staff Scientist at the Cancer and Developmental Biology Laboratory of the National Cancer Institute, Frederick, MD.
