@@ -25,7 +25,7 @@ The code to extract expression expression information from recount2:
 
 {% include smallSection.html background="images/thinDNA.jpg" dark=true %}
 ***
-## Code and scripts for figures reproduction and other analyses
+## Code and scripts for reproduction of figures and other analyses
 {% include section.html %}
 
 The code to reproduce all figures and analyses can be downloaded here:

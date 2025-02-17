@@ -24,7 +24,7 @@ The code to reproduce all figures and analyses can be downloaded here:
 
 {% include smallSection.html background="images/thinDNA.jpg" dark=true %}
 ***
-## Code and scripts
+## Data download
 {% include section.html %}
 
 - [Download the compressed archive with all analyzed datasets](data/TILs/TILsData.tar.gz)
