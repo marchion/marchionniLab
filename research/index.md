@@ -14,9 +14,11 @@ Finally, aur approach to research prioritizes reproducibility, rigor, and transp
 
 The citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) developed by the [Greene Lab](https://greenelab.com/)!
 
-{% include section.html %}
 
+{% include section.html background="images/longDNA.jpg" dark=false %}
+***
 ## Highlighted
+{% include section.html %}
 
 {% include citation.html lookup="The cytokine Meteorin-like inhibits anti-tumor CD8" style="rich" %}
 
@@ -27,7 +29,10 @@ The citations on this page were generated automatically from just identifiers us
 {% include button.html icon="fa-brands fa-google" text="More on Google Scholar" link="http://scholar.google.com/citations?hl=en&user=kGqPMb0AAAAJ" %}
 
 
+{% include section.html background="images/longDNA.jpg" dark=false %}
+***
 ## All
+{% include section.html %}
 
 The search box below allows to find the manuscripts of interest from the list below.
 
