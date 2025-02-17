@@ -5,7 +5,7 @@ title: HDAC inhibition in Prostate Cancer
 # {% include icon.html icon="fa-solid fa-wrench" %} Analysis of the genomic response of human prostate cancer cells to histone deacetylase inhibitors (Supplementary data)
 
 
-{% include section.html background="images/thinDNA.jpg" dark=true %}
+{% include smallSection.html background="images/thinDNA.jpg" dark=true %}
 ***
 ## Original manuscript
 {% include section.html %}
