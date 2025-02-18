@@ -4,7 +4,7 @@ aliases:
   - Nelson Gee
   - N Gee
   - N. Gee
-image: images/team/Nitesh.jpg
+image: images/team/Nelson.jpg
 role: programmer
 group: alum
 description: Cloud engineer 
