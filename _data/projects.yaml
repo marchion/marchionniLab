@@ -27,6 +27,23 @@
     - resource
     - epigenomics
 
+- title: ROBIN OligoMET
+  subtitle: Radiation Oncology-Biology Integration Network (ROBIN)
+  group: biology
+  image: images/projects/ROBIN.png
+  link: https://www.medschool.umaryland.edu/radonc/divisions/division-of-translational-radiation-sciences/robin-oligomet-center/our-teams/
+  description: The Radiation Oncology-Biology Integration Network (ROBIN) U54 Network is a collaborative interdisciplinary effort that will apply new biological knowledge to optimize radiation therapy in combination with systemic drugs, immunotherapy, and other agents.
+Our center will focus on the biology underlying oligmetastatic prostate cancer,
+trying to identify novel therapeutic targetss and therapeutic opportunities to cure men with oligometastatic prostate cancer.
+  tags:
+    - transcriptomics
+    - metabolomics
+    - imaging
+    - radiomics
+    - digital pathology
+    - "prostate cancer"
+    - "cancer"
+    
 - title: PathML
   subtitle: Suite for digital pathology analysis
   group: bioinformatics
