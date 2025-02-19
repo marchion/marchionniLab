@@ -25,7 +25,7 @@ Please meet our team of exceptional scientists
 
 {% include section.html background="images/longPeople.jpg" dark=false %}
 
-## Visiting scholars and students
+## Visiting scholars
 
 Visiting scholars and students
 
@@ -38,6 +38,7 @@ Visiting scholars and students
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+
 
 <!--- section for the former members --->
 
@@ -52,6 +53,24 @@ Former lab members
 {% capture content %}
 
 {% include list.html data="members" component="portrait" filter="group == 'former'" %}
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
+
+<!--- section for the visiting students --->
+
+{% include section.html background="images/longPeople.jpg" dark=false %}
+
+## International Students
+
+International Students
+
+{% include section.html %}
+
+{% capture content %}
+
+{% include list.html data="members" component="portrait" filter="group == 'vismed'" %}
 
 {% endcapture %}
 
