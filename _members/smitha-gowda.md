@@ -10,7 +10,7 @@ group: vismed
 description: Visiting international medical student
 affiliation: 
 links:
-  home-page: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Gowda%2C+Smitha"
+  inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Gowda+Smitha"
   email: smithan.1691@gmail.com
 ---
 

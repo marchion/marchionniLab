@@ -4,13 +4,13 @@ aliases:
   - Ali Raza Bhinder
   - A R Bhinder
   - A. R. Bhinder
-image: 
+image: images/team/AliRaza.jpg
 role: grad
 group: vismed
 description: Visiting international medical student
 affiliation: 
 links:
-  home-page: "https://www.researchgate.net/profile/Ali_Raza_Bhinder"
+  inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Ali+Raza+Bhinder"
   email: dralirazabhinder@gmail.com
 ---
 

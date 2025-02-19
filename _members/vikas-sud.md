@@ -10,7 +10,7 @@ group: vismed
 description: Visiting international medical student
 affiliation: 
 links:
-  home-page: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Sud%2C+Vikas"
+  inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Sud+Vikas"
   email: vikassud90@gmail.com
 ---
 

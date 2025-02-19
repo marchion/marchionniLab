@@ -11,6 +11,7 @@ description: Data and cloud engineer
 affiliation: Baylor College of Medicine
 links:
   google-scholar: CoC6FGoAAAAJ
+  inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Tejasvi+Matam"
   email: tejasvi.matam@bcm.edu
 ---
 

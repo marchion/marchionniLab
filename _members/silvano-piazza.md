@@ -5,16 +5,15 @@ aliases:
   - S Piazza
   - S. Piazza
 image: images/team/Silvano.jpg
-role: postdoc
+role: collaborator
 group: visiting
-description: Bioinformatician
+description: Group Leader
 affiliation: International Centre for Genetic Engineering and Biotechnology
 links:
-  email: piazza@gmail.com
+  hone-page: https://www.icgeb.org/silvano-piazza
   google-scholar: zviz3ikAAAAJ
-  home-page: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Piazza%2C+Silvano" 
+  inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Piazza+Silvano" 
+  email: piazza@gmail.com
 ---
 
 Silvano is an outstanding scientist.
-
-

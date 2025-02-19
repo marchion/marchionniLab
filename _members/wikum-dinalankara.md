@@ -13,6 +13,7 @@ links:
   orcid: 0000-0002-8017-6916
   email: wdd4001@med.cornell.edu
   google-scholar: T2E7-X4AAAAJ
+  inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Wikum+Dinalankara"
   twitter: dinalankara
   github: wikum
 ---
