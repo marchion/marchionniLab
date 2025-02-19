@@ -86,6 +86,11 @@ search:
   text: Search
   tooltip: Search
 
+inpubmed:
+  icon: fa-solid fa-magnifying-glass
+  text: Pubmed search
+  tooltip: Pubmed search
+
 # social media
 
 orcid:
