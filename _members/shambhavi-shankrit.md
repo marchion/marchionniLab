@@ -7,7 +7,7 @@ aliases:
 image: 
 role: grad
 group: former
-description: Master in Bioinformatics Student
+description: Bioinformatics Master Student
 affiliation: 
 links:
   inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Shambhavi+Shankrit"

@@ -7,7 +7,7 @@ aliases:
 image: 
 role: grad
 group: former
-description: Visiting international medical student
+description: Bioinformatics Master Student
 affiliation: 
 links:
   inpubmed: "https://pubmed.ncbi.nlm.nih.gov/?term=Chitre+Apurva"
