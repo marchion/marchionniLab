@@ -10,9 +10,8 @@ group: former
 description: Master in Bioinformatics Student
 affiliation: 
 links:
-  inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Chitre+Apurva"
-  email: aschitre@ucsd.edu
-  orcid: 0000-0003-1709-9214
+  inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Shambhavi+Shankrit"
+  email: shambhavisankrit@gmail.com
 ---
 
 Shambhavi has joined the lab during her studies in the Bioinformatics Master at JHU.

@@ -11,6 +11,7 @@ description: Lead programmer and RNA expert
 affiliation: Weill Cornell Medicine
 links:
   email: itv4001@med.cornell.edu
+  inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Itzel+Valencia"
 ---
 
 Itzel joined the laboratory in the the Spring of 2021,

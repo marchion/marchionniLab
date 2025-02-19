@@ -10,9 +10,10 @@ group: former
 description: Principal Investigator, Entrepreneur
 affiliation: 
 links:
-  email: claudio.zanettini@gmail.com
+  email: 
+  inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Paul+Aiyetan"
   google-scholar: Xx6OPTkAAAAJ
-  github: Xx6OPTkAAAAJ
+  github: paiyetan
   orcid: 0000-0001-9031-000X
 ---
 

@@ -10,7 +10,7 @@ group: vismed
 description: Visiting international medical student
 affiliation: 
 links:
-  inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Ali+Raza+Bhinder"
+  inpubmed: "https://pubmed.ncbi.nlm.nih.gov/?term=Ali+Raza+Bhinder"
   email: dralirazabhinder@gmail.com
 ---
 

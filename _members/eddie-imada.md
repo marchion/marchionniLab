@@ -11,6 +11,7 @@ group: alum
 description: Lead programmer and RNA expert
 affiliation: Weill Cornell Medicine
 links:
+  inpubmed: "https://pubmed.ncbi.nlm.nih.gov/?term=Eddie+Luidy+Imada"
   email: eli4001@med.cornell.edu
   google-scholar: dHl7CJAAAAAJ
   github: eddieimada

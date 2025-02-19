@@ -11,6 +11,7 @@ affiliation: Weill Cornell Medicine
 links:
   email: marchion@med.cornell.edu
   home-page: https://marchionnilab.org
+  inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Luigi+Marchionni"
   google-scholar: kGqPMb0AAAAJ
   github: marchion
   orcid: 0000-0002-7336-8071

@@ -11,6 +11,7 @@ description: Digital pathology expert
 affiliation: Weill Cornell Medicine
 links:
   home-page: https://directory.weill.cornell.edu/person/profile/mom4011
+  inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Mohammad+Alexanderani"
   orcid: 00000000-0002-8068-1920
   twitter: MohamedOmarMD
   google-scholar: iHJ6TzcAAAAJ

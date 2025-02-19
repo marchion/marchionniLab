@@ -11,7 +11,7 @@ description: Visiting international medical student
 affiliation: 
 links:
   email: sh.abbas.naqvi@gmail.com
-  inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Naqvi%2C+Abbas"
+  inpubmed: "https://pubmed.ncbi.nlm.nih.gov/?term=Naqvi+Abbas"
 ---
 
 Abbas joined our laboratory in the context of the Johns Hopkins University International internship program.

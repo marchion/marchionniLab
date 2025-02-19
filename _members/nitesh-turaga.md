@@ -11,6 +11,7 @@ description: Staff Scientist
 affiliation: Tempus Labs
 links:
   home-page: https://www.niteshturaga.com
+  inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Nitesh+Turaga"
   email: nitesh.turaga@gmail.com
   google-scholar: _QinXHcAAAAJ
   github: nturaga

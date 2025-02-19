@@ -10,8 +10,9 @@ group: visiting
 description: Geneticist
 affiliation: University of Torino, Turin, Italy
 links:
-  email: 
-  google-scholar: 
+  inpubmed: "https://pubmed.ncbi.nlm.nih.gov/?term=Angelo+Corso+Faini"
+  email: angelocorso.faini@unito.it
+  google-scholar: 0000-0003-2193-4577
 ---
 
 Angelo is an outstanding scientist.

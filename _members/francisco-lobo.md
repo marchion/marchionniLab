@@ -14,6 +14,7 @@ description: Associate Professor
 affiliation: Federal University of Minas Gerais, Belo Horizonte, Brazil
 links:
   home-page: https://ccr.cancer.gov/staff-directory/francisco-pereira-lobo
+  inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Francisco+Lobo+Pereira"
   email: franciscolobo@gmail.com
   google-scholar: ry7ycLgAAAAJ
   orcid: 0000-0002-9671-9313

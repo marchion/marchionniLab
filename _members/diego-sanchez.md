@@ -10,6 +10,7 @@ group: former
 description: Computational Pathologist
 affiliation: University of Manchester
 links:
+  inpubmed: "https://pubmed.ncbi.nlm.nih.gov/?term=Diego+Sanchez"
   email: difersanchez@gmail.com
   google-scholar: zS8cuNUAAAAJ
   twitter: luciorqueiroz

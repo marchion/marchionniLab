@@ -10,7 +10,7 @@ group: vismed
 description: Visiting international medical student
 affiliation: 
 links:
-  inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Sood%2C+Akshay"
+  inpubmed: "https://pubmed.ncbi.nlm.nih.gov/?term=Sood+Akshay"
   email: sood.86@gmail.com
   google-scholar: D3CqfbUAAAAJ
 ---

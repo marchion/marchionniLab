@@ -10,6 +10,7 @@ group: former
 description: Staff Scientist
 affiliation: Food and Drugs Administration
 links:
+  inpubmed: "https://pubmed.ncbi.nlm.nih.gov/?term=Claudio+Zanettini"
   email: claudio.zanettini@gmail.com
   google-scholar: zre7C0oAAAAJ
   github: c1au6i0

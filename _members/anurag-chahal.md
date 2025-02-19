@@ -11,7 +11,7 @@ description: Visiting international medical student
 affiliation: 
 links:
   email: anuragchahal@yahoo.co.in
-  inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Chahal+Anurag"
+  inpubmed: "https://pubmed.ncbi.nlm.nih.gov/?term=Chahal+Anurag"
 ---
 
 Abbas joined our laboratory in the context of the Johns Hopkins University International internship program.

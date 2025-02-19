@@ -10,6 +10,7 @@ group: visiting
 description: Medical student 
 affiliation: University of Torino, Turin, Italy
 links:
+  inpubmed: "https://pubmed.ncbi.nlm.nih.gov/?term=Erika+Minonne"
   email: erika.minonne@edu.unito.it
 ---
 

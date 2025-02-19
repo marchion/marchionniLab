@@ -10,7 +10,7 @@ group: former
 description: Visiting international medical student
 affiliation: 
 links:
-  inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Chitre+Apurva"
+  inpubmed: "https://pubmed.ncbi.nlm.nih.gov/?term=Chitre+Apurva"
   email: aschitre@ucsd.edu
   orcid: 0000-0003-1709-9214
 ---

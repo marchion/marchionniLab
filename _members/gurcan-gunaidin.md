@@ -11,6 +11,7 @@ description: Staff Scientist
 affiliation: Harvard University
 links:
   home-page: https://connects.catalyst.harvard.edu/Profiles/display/Person/213165
+  inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Gurcan+Gunaydin"
   email: gurcan_gunaydin@dfci.harvard.edu
   google-scholar: ILAD7HwAAAAJ
   orcid: 0000-0002-6751-2217

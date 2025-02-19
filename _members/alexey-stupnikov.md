@@ -11,6 +11,7 @@ description: Bioinformatician
 affiliation: Vavilov Institute of General Genetics, Moscow, Russia
 links:
   email: alexej.stupnikov@phystech.edu
+  inpubmed: "https://pubmed.ncbi.nlm.nih.gov/?term=Alexey+Stupnikov"
   orcid: 0000-0001-7605-410X
   google-scholar: mmeHAngAAAAJ
 ---

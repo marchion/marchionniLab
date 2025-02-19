@@ -10,6 +10,7 @@ group: former
 description: Data and cloud engineer 
 affiliation: 
 links:
+  inpubmed: "https://pubmed.ncbi.nlm.nih.gov/?term=David+Brundage"
   email: dmbrundage88@gmail.com
   github: dmbrundage
 ---

@@ -11,6 +11,7 @@ description: Digital pathology expert
 affiliation: Cedar Sinai
 links:
   home-page: https://researchers.cedars-sinai.edu/Mohamed.Omar
+  inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Mohamed+Omar"
   orcid: 00000000-0002-8068-1920
   twitter: MohamedOmarMD
   google-scholar: iHJ6TzcAAAAJ
