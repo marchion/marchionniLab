@@ -10,6 +10,7 @@ group: former
 description: Programmer
 affiliation: 
 links:
+  google-scholar: ZzncL6gAAAAJ
   email: gupta.anuj0608@gmail.com
   inpubmed: "https://pubmed.ncbi.nlm.nih.gov/?term=Anuj+Gupta"
 ---
