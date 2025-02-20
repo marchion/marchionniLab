@@ -6,7 +6,7 @@ aliases:
   - S. Piazza
 image: images/team/Silvano.jpg
 role: collaborator
-group: visiting
+group: former
 description: Group Leader
 affiliation: International Centre for Genetic Engineering and Biotechnology
 links:
