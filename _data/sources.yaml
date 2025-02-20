@@ -54,3 +54,55 @@
     - TME
     - "single cell"
     - "spatial transcriptomics"
+
+- id: "pubmed:39272208"
+  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/43e6/11395215/389733c2f383/13058_2024_1876_Fig1_HTML.jpg"
+  tags:
+    - "breast cancer"
+    - "hormone signaling"
+    - "gene expression signature"
+
+- id: "pubmed:38191471"
+  image: "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-44210-1/MediaObjects/41467_2023_44210_Fig1_HTML.png"
+  tags:
+    - "prostate cancer"
+    - tme
+    - "spatial transcriptomics"
+
+- id: "pubmed:38016949"
+  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9a46/10684511/91e0cd125e1e/41467_2023_43651_Fig1_HTML.jpg"
+  tags:
+    - method
+    - "structural variants"
+
+- id: "pubmed:37964363"
+  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0342/10647131/e40db7c7b497/12967_2023_4713_Fig1_HTML.jpg"
+  tags:
+    - method
+    - "structural variants"
+
+- id: "pubmed:37409050"
+  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a612/10318336/a4365e60c675/fx1.jpg"
+  tags:
+    - method
+    - "genetics"
+
+- id: "doi:10.1016/j.isci.2023.106108"
+  title: "Using biological constraints to improve prediction in precision oncology."
+  image: "https://www.cell.com/cms/10.1016/j.isci.2023.106108/asset/a5a2122a-2006-41b9-9430-b28bd10251fc/main.assets/fx1_lrg.jpg"
+  tags:
+    - method
+    - "machine learning"
+    - overfitting
+
+- id: "doi:10.1111/ajt.17174"
+  title: "Donor-derived acute myeloid leukemia in solid organ transplantation."
+  image: "https://www.amjtransplant.org/cms/10.1111/ajt.17174/asset/6adfb962-a336-407e-857e-e13b1f5b5244/main.assets/gr1_lrg.jpg"
+  tags:
+    - transplantation
+    - "acute myeloid leukemia"
+    - cancer
+    - "clonal hematopoiesis"
+    
+    
+    
