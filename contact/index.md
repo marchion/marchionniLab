@@ -26,7 +26,7 @@ nav:
   link="https://maps.app.goo.gl/3c6bVr4SeW4LrkfW9"
 %}
 
-{% include section.html background="images/longDNA.jpg" dark=false %}
+{% include section.html background="images/longDNA.jpg" dark=true %}
 
 # Locations
 

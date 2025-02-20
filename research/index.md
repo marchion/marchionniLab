@@ -11,7 +11,7 @@ We know that one team won’t find all solutions,
 so we strive to develop tools that other scientist can use too.
 Our research philosophy prioritizes reproducibility, rigor, and transparency.
 
-{% include section.html background="images/longDNA.jpg" dark=false %}
+{% include section.html background="images/longDNA.jpg" dark=true %}
 ***
 ## Highlighted (never boring ...)
 {% include section.html %}
@@ -25,7 +25,7 @@ Our research philosophy prioritizes reproducibility, rigor, and transparency.
 {% include button.html icon="fa-brands fa-google" text="More on Google Scholar" link="http://scholar.google.com/citations?hl=en&user=kGqPMb0AAAAJ" %}
 --->
 
-{% include section.html background="images/longDNA.jpg" dark=false %}
+{% include section.html background="images/longDNA.jpg" dark=true %}
 ***
 ## All
 {% include section.html %}
