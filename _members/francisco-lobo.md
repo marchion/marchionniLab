@@ -9,7 +9,7 @@ aliases:
   - F. Pereira Lobo
 image: images/team/Francisco.jpg
 role: collaborator
-group: visiting
+group: former
 description: Associate Professor
 affiliation: Federal University of Minas Gerais, Belo Horizonte, Brazil
 links:
