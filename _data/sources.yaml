@@ -131,10 +131,15 @@
     - "machine learning"
     - algorithm
 
-
 - id: "pubmed:36525970"
 
 - id: "pubmed:38987117"
+  tags:
+    - review
+    - "digital pathology"
+    - "artificial intelligence"
+    - "machine learning"
+    - algorithm
 
 - id: "pubmed:38831751"
 
@@ -143,12 +148,19 @@
 - id: "pubmed:36204675"
 
 - id: "pubmed:39294134"
+  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/af4f/11411086/225ca71832bd/41467_2024_51924_Fig2_HTML.jpg"
+  tags:
+    - covid19
+    - sars
+    - "SARS-CoV-2"
+    - "RNA sequencing"
 
 - id: "pubmed:38253539"
 
 - id: "pubmed:38706981"
 
 - id: "pubmed:39630608"
+  image: "https://dm5migu4zj3pb.cloudfront.net/manuscripts/171000/171164/medium/JCI171164.ga.jpg"
 
 - id: "pubmed:36282572"
 
@@ -163,6 +175,14 @@
 - id: "pubmed:38862340"
 
 - id: "pubmed:39094629"
+  image: "https://media.springernature.com/w316/springer-static/cover-hires/journal/66?as=webp"
+  tags:
+    - "post-trancriptional regulation"
+    - cancer
+    - "prostate cancer"
+    - radioterapy
+    - metastasis
+    - ROBIN
 
 - id: "pubmed:36759904"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/381b/9912678/2411f65028a2/13059_2023_2865_Fig1_HTML.jpg"
@@ -201,6 +221,12 @@
     - "statistical method"
 
 - id: "pubmed:38946967"
+  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/af4f/11411086/225ca71832bd/41467_2024_51924_Fig2_HTML.jpg"
+  tags:
+    - covid19
+    - sars
+    - "SARS-CoV-2"
+    - "RNA sequencing"
 
 - id: "pubmed:18252678"
 
@@ -221,6 +247,12 @@
 - id: "pubmed:34311724"
 
 - id: "pubmed:39510141"
+  image: "https://www.thegreenjournal.com/cms/10.1016/j.radonc.2024.110618/asset/46e8dc12-dc11-4fef-ab32-f93a821536b4/main.assets/gr1.jpg"
+  tags:
+    - "prostate cancer"
+    -cancer
+    - "radiotherapy"
+    - "ROBIN"
 
 - id: "pubmed:28411178"
 
@@ -341,6 +373,12 @@
 - id: "pubmed:20488783"
 
 - id: "pubmed:39252915"
+  image: "https://www.medrxiv.org/content/medrxiv/early/2024/08/31/2024.08.30.24312735/F1.large.jpg"
+  tags:
+    - "prostate cancer"
+    - "progression"
+    - "metastasis"
+    - "gene expression"
 
 - id: "pubmed:29568059"
 
