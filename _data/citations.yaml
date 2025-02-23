@@ -3112,6 +3112,12 @@
   publisher: The Lancet. Digital health
   date: '2024-07-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38987117
+  tags:
+  - review
+  - digital pathology
+  - artificial intelligence
+  - machine learning
+  - algorithm
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:38831751
@@ -3249,6 +3255,12 @@
   publisher: Nature communications
   date: '2024-09-18'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39294134
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/af4f/11411086/225ca71832bd/41467_2024_51924_Fig2_HTML.jpg
+  tags:
+  - covid19
+  - sars
+  - SARS-CoV-2
+  - RNA sequencing
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:38253539
@@ -3379,6 +3391,7 @@
   publisher: The Journal of clinical investigation
   date: '2024-12-04'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39630608
+  image: https://dm5migu4zj3pb.cloudfront.net/manuscripts/171000/171164/medium/JCI171164.ga.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:36282572
@@ -3650,6 +3663,14 @@
     Radiology and Oncology'
   date: '2024-07-31'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39094629
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/66
+  tags:
+  - post-trancriptional regulation
+  - cancer
+  - prostate cancer
+  - radioterapy
+  - metastasis
+  - ROBIN
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:36759904
@@ -3873,6 +3894,12 @@
   publisher: 'medRxiv : the preprint server for health sciences'
   date: '2024-06-18'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38946967
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/af4f/11411086/225ca71832bd/41467_2024_51924_Fig2_HTML.jpg
+  tags:
+  - covid19
+  - sars
+  - SARS-CoV-2
+  - RNA sequencing
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:18252678
@@ -4102,6 +4129,12 @@
     Radiology and Oncology'
   date: '2024-11-06'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39510141
+  image: https://www.thegreenjournal.com/cms/10.1016/j.radonc.2024.110618/asset/46e8dc12-dc11-4fef-ab32-f93a821536b4/main.assets/gr1.jpg
+  tags:
+  - prostate cancer
+  - cancer
+  - radiotherapy
+  - ROBIN
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:28411178
@@ -5189,6 +5222,12 @@
   publisher: 'medRxiv : the preprint server for health sciences'
   date: '2024-08-31'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39252915
+  image: https://www.medrxiv.org/content/medrxiv/early/2024/08/31/2024.08.30.24312735/F1.large.jpg
+  tags:
+  - prostate cancer
+  - progression
+  - metastasis
+  - gene expression
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:29568059
