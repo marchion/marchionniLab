@@ -1,17 +1,17 @@
 - id: "pubmed:39111315"
   image: "https://ars.els-cdn.com/content/image/1-s2.0-S1074761324003522-fx1.jpg"
   tags:
-    - genomics
-    - transcriptomics
-    - cancer
-    - immunity
-    - TME
+    - "genomics"
+    - "transcriptomics"
+    - "cancer"
+    - "immunity"
+    - "TME"
 
 - id: "pubmed:23682826"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0046/3662649/53f774f82d61/1471-2164-14-336-3.jpg"
   tags:
     - "breast cancer"
-    - classification
+    - "classification"
     - "single cell"
     - "gene expression signature"
     - "statistical method"
@@ -19,14 +19,14 @@
 - id: "pubmed:34115745"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1b82/8221796/8fb0565b0a4d/pcbi.1008944.g001.jpg"
   tags:
-    - cancer
+    - "cancer"
     - "tumor heterogeneity"
     - "statistical method"
 
 - id: "pubmed:29666255"
   image: "https://www.pnas.org/cms/10.1073/pnas.1721628115/asset/1429c0a2-879a-4178-8867-dcb9cd7f7dd8/assets/graphic/pnas.1721628115fig01.jpeg"
   tags:
-    - cancer
+    - "cancer"
     - "tumor heterogeneity"
     - "statistical method"
 
@@ -34,24 +34,24 @@
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1d82/3883768/24594ab2add1/epi-8-907-g1.jpg"
   tags:
     - "prostate cancer"
-    - epigenetics
+    - "epigenetics"
     - "combination therapy"
     - "gene expression"
 
 - id: "pubmed:32079618"
   image: "https://genome.cshlp.org/content/30/7/1073/F1.large.jpg"
   tags:
-    - genomics
-    - transcriptomics
+    - "genomics"
+    - "transcriptomics"
     - "long non-coding RNA"
-    - FANTOM
+    - "FANTOM"
     - "gene expression"
 
 - id: "pubmed:38191471"
   image: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-023-44210-1/MediaObjects/41467_2023_44210_Fig1_HTML.png"
   tags:
     - "prostate cancer"
-    - TME
+    - "TME"
     - "single cell"
     - "spatial transcriptomics"
 
@@ -66,42 +66,42 @@
   image: "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-44210-1/MediaObjects/41467_2023_44210_Fig1_HTML.png"
   tags:
     - "prostate cancer"
-    - tme
+    - "tme"
     - "spatial transcriptomics"
 
 - id: "pubmed:38016949"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9a46/10684511/91e0cd125e1e/41467_2023_43651_Fig1_HTML.jpg"
   tags:
-    - method
+    - "method"
     - "structural variants"
 
 - id: "pubmed:37964363"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0342/10647131/e40db7c7b497/12967_2023_4713_Fig1_HTML.jpg"
   tags:
-    - method
+    - "method"
     - "structural variants"
 
 - id: "pubmed:37409050"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a612/10318336/a4365e60c675/fx1.jpg"
   tags:
-    - method
+    - "method"
     - "genetics"
 
 - id: "doi:10.1016/j.isci.2023.106108"
   title: "Using biological constraints to improve prediction in precision oncology."
   image: "https://www.cell.com/cms/10.1016/j.isci.2023.106108/asset/a5a2122a-2006-41b9-9430-b28bd10251fc/main.assets/fx1_lrg.jpg"
   tags:
-    - method
+    - "method"
     - "machine learning"
-    - overfitting
+    - "overfitting"
 
 - id: "doi:10.1111/ajt.17174"
   title: "Donor-derived acute myeloid leukemia in solid organ transplantation."
   image: "https://www.amjtransplant.org/cms/10.1111/ajt.17174/asset/6adfb962-a336-407e-857e-e13b1f5b5244/main.assets/gr1_lrg.jpg"
   tags:
-    - transplantation
+    - "transplantation"
     - "acute myeloid leukemia"
-    - cancer
+    - "cancer"
     - "clonal hematopoiesis"
 
 - id: "doi:10.1172/JCI171164"
@@ -125,21 +125,21 @@
   title: "Gene Signature for Predicting Metastasis in Prostate Cancer Using Primary Tumor Expression Profiles."
   image: "images/science/asForPath.jpg"
   tags:
-    - review
+    - "review"
     - "digital pathology"
     - "artificial intelligence"
     - "machine learning"
-    - algorithm
+    - "algorithm"
 
 - id: "pubmed:36525970"
 
 - id: "pubmed:38987117"
   tags:
-    - review
+    - "review"
     - "digital pathology"
     - "artificial intelligence"
     - "machine learning"
-    - algorithm
+    - "algorithm"
 
 - id: "pubmed:38831751"
 
@@ -150,8 +150,8 @@
 - id: "pubmed:39294134"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/af4f/11411086/225ca71832bd/41467_2024_51924_Fig2_HTML.jpg"
   tags:
-    - covid19
-    - sars
+    - "covid19"
+    - "sars"
     - "SARS-CoV-2"
     - "RNA sequencing"
 
@@ -175,32 +175,32 @@
 - id: "pubmed:38862340"
 
 - id: "pubmed:39094629"
-  image: "https://media.springernature.com/w316/springer-static/cover-hires/journal/66?as=webp"
+  image: "https://media.springernature.com/w316/springer-static/cover-hires/journal/66"
   tags:
     - "post-trancriptional regulation"
-    - cancer
+    - "cancer"
     - "prostate cancer"
-    - radioterapy
-    - metastasis
-    - ROBIN
+    - "radioterapy"
+    - "metastasis"
+    - "ROBIN"
 
 - id: "pubmed:36759904"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/381b/9912678/2411f65028a2/13059_2023_2865_Fig1_HTML.jpg"
   tags:
     - "post-trancriptional regulation"
-    - splicing
-    - cancer
-    - genomics
-    - transcriptomics
-    - method
+    - "splicing"
+    - "cancer"
+    - "genomics"
+    - "transcriptomics"
+    - "method"
  
 - id: "pubmed:35979657"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f438/9897593/c932219972b9/nihms-1837110-f0005.jpg"
   tags:
     - "acute myeloid leukemia"
-    - transplantation
-    - genomics
-    - cancer
+    - "transplantation"
+    - "genomics"
+    - "cancer"
     - "clonal hematopoiesis"
 
 - id: "pubmed:37034687"
@@ -216,15 +216,15 @@
 - id: "pubmed:36852282"
   image: "https://ars.els-cdn.com/content/image/1-s2.0-S2589004223001852-fx1.jpg"
   tags:
-    - cancer
+    - "cancer"
     - "tumor heterogeneity"
     - "statistical method"
 
 - id: "pubmed:38946967"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/af4f/11411086/225ca71832bd/41467_2024_51924_Fig2_HTML.jpg"
   tags:
-    - covid19
-    - sars
+    - "covid19"
+    - "sars"
     - "SARS-CoV-2"
     - "RNA sequencing"
 
@@ -250,7 +250,7 @@
   image: "https://www.thegreenjournal.com/cms/10.1016/j.radonc.2024.110618/asset/46e8dc12-dc11-4fef-ab32-f93a821536b4/main.assets/gr1.jpg"
   tags:
     - "prostate cancer"
-    -cancer
+    - "cancer"
     - "radiotherapy"
     - "ROBIN"
 
@@ -287,10 +287,10 @@
 - id: "pubmed:33819273"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1cc9/8021195/4749a0e92fd5/pone.0249002.g003.jpg"
   tags:
-    - method
-    - genomics
-    - transcriptomics
-    - heterogeneity
+    - "method"
+    - "genomics"
+    - "transcriptomics"
+    - "heterogeneity"
 
 - id: "pubmed:31360735"
 
