@@ -2,7 +2,7 @@
 
 - id: doi:10.1172/JCI171164
   title: YAP1 induces bladder cancer progression and promotes immune evasion through
-    IL-6/STAT3 pathway and CXCL deregulation
+    IL-6/STAT3 pathway and CXCL deregulation.
   authors:
   - Pritam Sadhukhan
   - Mingxiao Feng
@@ -22,11 +22,16 @@
   link: https://doi.org/g84z9v
   orcid: 0000-0002-7336-8071
   member: luigi-marchionni
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://dm5migu4zj3pb.cloudfront.net/manuscripts/171000/171164/medium/JCI171164.ga.jpg
+  tags:
+  - bladder cancer
+  - immunotherapy
+  - signaling dysregulation
 - id: doi:10.1101/2024.08.30.24312735
   title: Gene Signature for Predicting Metastasis in Prostate Cancer Using Primary
-    Tumor Expression Profiles
+    Tumor Expression Profiles.
   authors:
   - Itzel Valencia
   - Pier Vitale Nuzzo
@@ -42,10 +47,17 @@
   link: https://doi.org/g84z9w
   orcid: 0000-0002-7336-8071
   member: luigi-marchionni
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.medrxiv.org/content/medrxiv/early/2024/08/31/2024.08.30.24312735/F1.large.jpg
+  tags:
+  - prostate cancer
+  - progression
+  - metastasis
+  - gene expression
 - id: doi:10.1038/s44287-023-00012-7
-  title: Artificial intelligence applications in histopathology
+  title: Gene Signature for Predicting Metastasis in Prostate Cancer Using Primary
+    Tumor Expression Profiles.
   authors:
   - Cagla Deniz Bahadir
   - Mohamed Omar
@@ -59,8 +71,15 @@
   link: https://doi.org/g84z9x
   orcid: 0000-0002-7336-8071
   member: luigi-marchionni
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/science/asForPath.jpg
+  tags:
+  - review
+  - digital pathology
+  - artificial intelligence
+  - machine learning
+  - algorithm
 - id: doi:10.1158/1541-7786.c.6983057
   title: 'Data from Building Tools for Machine Learning and Artificial Intelligence
     in Cancer Research: Best Practices and a Case Study with the PathML Toolkit for
