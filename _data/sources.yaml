@@ -104,6 +104,34 @@
     - cancer
     - "clonal hematopoiesis"
 
+- id: "doi:10.1172/JCI171164"
+  title: "YAP1 induces bladder cancer progression and promotes immune evasion through IL-6/STAT3 pathway and CXCL deregulation."
+  image: "https://dm5migu4zj3pb.cloudfront.net/manuscripts/171000/171164/medium/JCI171164.ga.jpg"
+  tags:
+    - "bladder cancer"
+    - "immunotherapy"
+    - "signaling dysregulation"
+
+- id: "doi:10.1101/2024.08.30.24312735"
+  title: "Gene Signature for Predicting Metastasis in Prostate Cancer Using Primary Tumor Expression Profiles."
+  image: "https://www.medrxiv.org/content/medrxiv/early/2024/08/31/2024.08.30.24312735/F1.large.jpg"
+  tags:
+    - "prostate cancer"
+    - "progression"
+    - "metastasis"
+    - "gene expression"
+
+- id: "doi:10.1038/s44287-023-00012-7"
+  title: "Gene Signature for Predicting Metastasis in Prostate Cancer Using Primary Tumor Expression Profiles."
+  image: "images/science/asForPath.jpg"
+  tags:
+    - review
+    - "digital pathology"
+    - "artificial intelligence"
+    - "machine learning"
+    - algorithm
+
+
 - id: "pubmed:36525970"
 
 - id: "pubmed:38987117"
