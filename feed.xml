@@ -1,4 +1,209 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://marchionnilab.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://marchionnilab.org/" rel="alternate" type="text/html" /><updated>2025-02-23T20:23:58+00:00</updated><id>https://marchionnilab.org/feed.xml</id><title type="html">Marchionni Lab</title><subtitle>A short overview of our research and projects</subtitle><entry><title type="html"></title><link href="https://marchionnilab.org/2025/02/23/2023-02-10-post-1.html" rel="alternate" type="text/html" title="" /><published>2025-02-23T20:23:58+00:00</published><updated>2025-02-23T20:20:17+00:00</updated><id>https://marchionnilab.org/2025/02/23/2023-02-10-post-1</id><content type="html" xml:base="https://marchionnilab.org/2025/02/23/2023-02-10-post-1.html"><![CDATA[<h1 id="repac-analysis-of-alternative-polyadenylation-from-rna-sequencing-data">REPAC: analysis of alternative polyadenylation from RNA-sequencing data</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://marchionnilab.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://marchionnilab.org/" rel="alternate" type="text/html" /><updated>2025-02-23T21:00:50+00:00</updated><id>https://marchionnilab.org/feed.xml</id><title type="html">Marchionni Lab</title><subtitle>A short overview of our research and projects</subtitle><entry><title type="html">Notch gene signature for neoadjuvant chemotherapy response in triple-negative breast cancer</title><link href="https://marchionnilab.org/2024/11/15/post-1.html" rel="alternate" type="text/html" title="Notch gene signature for neoadjuvant chemotherapy response in triple-negative breast cancer" /><published>2024-11-15T00:00:00+00:00</published><updated>2025-02-23T20:58:32+00:00</updated><id>https://marchionnilab.org/2024/11/15/post-1</id><content type="html" xml:base="https://marchionnilab.org/2024/11/15/post-1.html"><![CDATA[<h1 id="notch-based-gene-signature-for-predicting-the-response-to-neoadjuvant-chemotherapy-in-triple-negative-breast-cancer"><em>Notch-based gene signature for predicting the response to neoadjuvant chemotherapy in triple-negative breast cancer</em></h1>
+
+<div class="search-info"></div>
+
+<p>Background: Neoadjuvant chemotherapy (NACT) is widely accepted as a treatment for triple-negative breast cancer (TNBC), but not all patients benefit from it. There are currently no validated biomarkers to predict the response to NACT, and previous attempts to create predictive classifiers using gene expression data have lacked clinical relevance. However, models that integrate biological constraints have shown improved robustness and performance compared to agnostic classifiers.</p>
+
+<p>Methods: We utilized preoperative transcriptomic profiles from 298 TNBC patients to train and evaluate a rank-based classifier, k-top scoring pairs, designed to predict whether a patient will achieve pathological complete response (pCR) or have residual disease (RD) after NACT. To minimize overfitting and enhance the signature’s interpretability, we focused on genes involved in the Notch signaling pathway during the training process. The model was then tested on two independent patient cohorts, comprising 75 and 71 patients, respectively. Additionally, we examined the signature’s prognostic value by investigating its correlation with relapse-free survival (RFS) through Kaplan‒Meier (KM) survival estimates and a multivariate Cox proportional hazards model.</p>
+
+<p>Results: The final signature, consisting of five gene pairs, can predict NACT response based on their relative ordering. The model demonstrated robust performance in predicting pCR in TNBC patients, with an area under the ROC curve (AUC) of 0.76 and 0.85 in the first and second test cohorts, respectively. It outperformed other gene signatures developed for similar purposes. Furthermore, the signature was significantly associated with RFS in an independent TNBC cohort, even after adjusting for factors such as T stage, patient age at diagnosis, type of surgery, and menopausal status.</p>
+
+<p>Conclusion: We present a robust gene signature that predicts pathological complete response (pCR) in TNBC patients. This signature uses easily interpretable, rank-based decision rules focused on genes regulated by the Notch signaling pathway, which plays a key role in breast cancer chemoresistance. The signature’s strong predictive and prognostic capabilities make it a promising tool for clinical use, assisting in the stratification of TNBC patients undergoing NACT.</p>
+
+<div class="citation-container">
+  <div class="citation">
+    
+      <a href="https://www.ncbi.nlm.nih.gov/pubmed/37964363" class="citation-image" aria-label="Notch-based gene signature for predicting the response to neoadjuvant chemotherapy in triple-negative breast cancer.">
+        <img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0342/10647131/e40db7c7b497/12967_2023_4713_Fig1_HTML.jpg" alt="Notch-based gene signature for predicting the response to neoadjuvant chemotherapy in triple-negative breast cancer." loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+      </a>
+    
+
+    <div class="citation-text">
+      
+      
+
+      <a href="https://www.ncbi.nlm.nih.gov/pubmed/37964363" class="citation-title">
+        Notch-based gene signature for predicting the response to neoadjuvant chemotherapy in triple-negative breast cancer.
+      </a>
+
+      <div class="citation-authors" tabindex="0">
+        Mohamed Omar, Pier Vitale Nuzzo, Francesco Ravera, Sara Bleve, Giuseppe Nicolò Fanelli, Claudio Zanettini, Itzel Valencia, Luigi Marchionni
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">Journal of translational medicine</span>
+        &nbsp;·&nbsp;
+        <span class="citation-date">15 Nov 2023</span>
+        &nbsp;·&nbsp;
+        <span class="citation-id">pubmed:37964363</span>
+      </div>
+
+      
+        
+
+        
+
+        
+          
+
+
+  <div class="tags">
+    
+      <a href="?search=&quot;tag: method&quot;" class="tag" data-tooltip="Show items with the tag &quot;method&quot;">
+        method
+      </a>
+    
+      <a href="?search=&quot;tag: structural-variants&quot;" class="tag" data-tooltip="Show items with the tag &quot;structural-variants&quot;">
+        structural-variants
+      </a>
+    
+  </div>
+
+
+        
+      
+    </div>
+  </div>
+</div>]]></content><author><name>luigi-marchionni</name></author><category term="gene signature" /><category term="cancer" /><category term="class prediction" /><category term="Notch signaling" /><category term="triple negative breast cancer" /><category term="neoadjuvant chemotherapy" /><summary type="html"><![CDATA[Notch-based gene signature for predicting the response to neoadjuvant chemotherapy in triple-negative breast cancer]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://marchionnilab.org/images/science/Notch.png" /><media:content medium="image" url="https://marchionnilab.org/images/science/Notch.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Meteorin-like protein in cancer immune evasion</title><link href="https://marchionnilab.org/2024/07/06/post-1.html" rel="alternate" type="text/html" title="Meteorin-like protein in cancer immune evasion" /><published>2024-07-06T00:00:00+00:00</published><updated>2025-02-23T20:58:32+00:00</updated><id>https://marchionnilab.org/2024/07/06/post-1</id><content type="html" xml:base="https://marchionnilab.org/2024/07/06/post-1.html"><![CDATA[<h1 id="the-cytokine-meteorin-like-inhibits-anti-tumor-cd8">The cytokine Meteorin-like inhibits anti-tumor CD8</h1>
+
+<div class="search-info"></div>
+
+<p>Tumor-infiltrating lymphocyte (TIL) hypofunction plays a key role in the progression of advanced cancers and is a common target for immunotherapy. Emerging evidence suggests that metabolic deficiencies contribute to T cell dysfunction during tonic stimulation, but the signals triggering metabolic reprogramming in this context are still poorly understood. In this study, we identified Meteorin-like (METRNL), a metabolically active cytokine secreted by immune cells within the tumor microenvironment (TME), as a factor causing bioenergetic failure in CD8+ T cells. METRNL was released by CD8+ T cells after repeated stimulation and acted through both autocrine and paracrine signaling mechanisms. We found that METRNL enhanced E2F-peroxisome proliferator-activated receptor delta (PPARδ) activity, leading to mitochondrial depolarization and reduced oxidative phosphorylation. This triggered a compensatory shift in bioenergetics towards glycolysis. Deleting or downregulating Metrnl improved the metabolic health of CD8+ T cells and boosted tumor control in several tumor models, suggesting that targeting the METRNL-E2F-PPARδ pathway may be a promising strategy to enhance the bioenergetic fitness of CD8+ TILs.</p>
+
+<div class="citation-container">
+  <div class="citation">
+    
+      <a href="https://www.ncbi.nlm.nih.gov/pubmed/39111315" class="citation-image" aria-label="The cytokine Meteorin-like inhibits anti-tumor CD8">
+        <img src="https://ars.els-cdn.com/content/image/1-s2.0-S1074761324003522-fx1.jpg" alt="The cytokine Meteorin-like inhibits anti-tumor CD8" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+      </a>
+    
+
+    <div class="citation-text">
+      
+      
+
+      <a href="https://www.ncbi.nlm.nih.gov/pubmed/39111315" class="citation-title">
+        The cytokine Meteorin-like inhibits anti-tumor CD8
+      </a>
+
+      <div class="citation-authors" data-tooltip="Christopher M Jackson, Ayush Pant, Wikum Dinalankara, John Choi, Aanchal Jain, Ryan Nitta, Eli Yazigi, Laura Saleh, Liang Zhao, Thomas R Nirschl, Christina M Kochel, Brandon Hwa-Lin Bergsneider, Denis Routkevitch, Kisha Patel, Kwang Bog Cho, Stephany Tzeng, Sarah Y Neshat, Young-Hoon Kim, Barbara J Smith, Maria Cecilia Ramello, Elena Sotillo, Xinnan Wang, Jordan J Green, Chetan Bettegowda, Gordon Li, Henry Brem, Crystal L Mackall, Drew M Pardoll, Charles G Drake, Luigi Marchionni, Michael Lim" tabindex="0">
+        Christopher M Jackson, Ayush Pant, Wikum Dinalankara, John Choi, Aanchal Jain, …, Crystal L Mackall, Drew M Pardoll, Charles G Drake, Luigi Marchionni, Michael Lim
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">Immunity</span>
+        &nbsp;·&nbsp;
+        <span class="citation-date">06 Aug 2024</span>
+        &nbsp;·&nbsp;
+        <span class="citation-id">pubmed:39111315</span>
+      </div>
+
+      
+        
+
+        
+
+        
+          
+
+
+  <div class="tags">
+    
+      <a href="?search=&quot;tag: genomics&quot;" class="tag" data-tooltip="Show items with the tag &quot;genomics&quot;">
+        genomics
+      </a>
+    
+      <a href="?search=&quot;tag: transcriptomics&quot;" class="tag" data-tooltip="Show items with the tag &quot;transcriptomics&quot;">
+        transcriptomics
+      </a>
+    
+      <a href="?search=&quot;tag: cancer&quot;" class="tag" data-tooltip="Show items with the tag &quot;cancer&quot;">
+        cancer
+      </a>
+    
+      <a href="?search=&quot;tag: immunity&quot;" class="tag" data-tooltip="Show items with the tag &quot;immunity&quot;">
+        immunity
+      </a>
+    
+      <a href="?search=&quot;tag: tme&quot;" class="tag" data-tooltip="Show items with the tag &quot;tme&quot;">
+        tme
+      </a>
+    
+  </div>
+
+
+        
+      
+    </div>
+  </div>
+</div>]]></content><author><name>luigi-marchionni</name></author><category term="medicine" /><category term="cancer" /><category term="class prediction" /><category term="metabolism" /><category term="immunotherapy" /><summary type="html"><![CDATA[The cytokine Meteorin-like inhibits anti-tumor CD8]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://marchionnilab.org/images/science/METRNL.jpg" /><media:content medium="image" url="https://marchionnilab.org/images/science/METRNL.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Using biological constraints to improve prediction in precision oncology</title><link href="https://marchionnilab.org/2023/03/17/post-1.html" rel="alternate" type="text/html" title="Using biological constraints to improve prediction in precision oncology" /><published>2023-03-17T00:00:00+00:00</published><updated>2025-02-23T20:58:32+00:00</updated><id>https://marchionnilab.org/2023/03/17/post-1</id><content type="html" xml:base="https://marchionnilab.org/2023/03/17/post-1.html"><![CDATA[<h1 id="using-biological-constraints-to-improve-prediction-in-precision-oncology">Using biological constraints to improve prediction in precision oncology</h1>
+
+<div class="search-info"></div>
+
+<p>Many gene signatures have been created using machine learning (ML) on omics data, but their clinical usefulness is often limited by poor interpretability and inconsistent performance. In this study, we highlight the importance of incorporating prior biological knowledge into the decision rules generated by ML methods to create more reliable classifiers. We tested this approach by applying various ML algorithms to gene expression data to predict three challenging cancer outcomes: bladder cancer progression to muscle-invasive disease, response to neoadjuvant chemotherapy in triple-negative breast cancer, and metastatic progression in prostate cancer. We developed two types of classifiers: mechanistic, which focused the training on features related to specific biological mechanisms, and agnostic, which did not include any prior biological knowledge. Mechanistic models showed equal or better performance compared to their agnostic counterparts, with the added benefit of improved interpretability. Our results emphasize the value of incorporating biological constraints to develop robust gene signatures with strong translational potential.</p>
+
+<div class="citation-container">
+  <div class="citation">
+    
+      <a href="https://www.ncbi.nlm.nih.gov/pubmed/36852282" class="citation-image" aria-label="Using biological constraints to improve prediction in precision oncology.">
+        <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2589004223001852-fx1.jpg" alt="Using biological constraints to improve prediction in precision oncology." loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+      </a>
+    
+
+    <div class="citation-text">
+      
+      
+
+      <a href="https://www.ncbi.nlm.nih.gov/pubmed/36852282" class="citation-title">
+        Using biological constraints to improve prediction in precision oncology.
+      </a>
+
+      <div class="citation-authors" tabindex="0">
+        Mohamed Omar, Wikum Dinalankara, Lotte Mulder, Tendai Coady, Claudio Zanettini, Eddie Luidy Imada, Laurent Younes, Donald Geman, Luigi Marchionni
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">iScience</span>
+        &nbsp;·&nbsp;
+        <span class="citation-date">02 Feb 2023</span>
+        &nbsp;·&nbsp;
+        <span class="citation-id">pubmed:36852282</span>
+      </div>
+
+      
+        
+
+        
+
+        
+          
+
+
+  <div class="tags">
+    
+      <a href="?search=&quot;tag: cancer&quot;" class="tag" data-tooltip="Show items with the tag &quot;cancer&quot;">
+        cancer
+      </a>
+    
+      <a href="?search=&quot;tag: tumor-heterogeneity&quot;" class="tag" data-tooltip="Show items with the tag &quot;tumor-heterogeneity&quot;">
+        tumor-heterogeneity
+      </a>
+    
+      <a href="?search=&quot;tag: statistical-method&quot;" class="tag" data-tooltip="Show items with the tag &quot;statistical-method&quot;">
+        statistical-method
+      </a>
+    
+  </div>
+
+
+        
+      
+    </div>
+  </div>
+</div>]]></content><author><name>luigi-marchionni</name></author><category term="gene signature" /><category term="cancer" /><category term="class prediction" /><category term="Notch signaling" /><category term="triple negative breast cancer" /><category term="neoadjuvant chemotherapy" /><summary type="html"><![CDATA[Using biological constraints to improve prediction in precision oncology]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.cell.com/cms/10.1016/j.isci.2023.106108/asset/a5a2122a-2006-41b9-9430-b28bd10251fc/main.assets/fx1_lrg.jpg" /><media:content medium="image" url="https://www.cell.com/cms/10.1016/j.isci.2023.106108/asset/a5a2122a-2006-41b9-9430-b28bd10251fc/main.assets/fx1_lrg.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">REPAC: analysis of alternative polyadenylation from RNA-sequencing data</title><link href="https://marchionnilab.org/2023/02/10/post-1.html" rel="alternate" type="text/html" title="REPAC: analysis of alternative polyadenylation from RNA-sequencing data" /><published>2023-02-10T00:00:00+00:00</published><updated>2025-02-23T20:58:32+00:00</updated><id>https://marchionnilab.org/2023/02/10/post-1</id><content type="html" xml:base="https://marchionnilab.org/2023/02/10/post-1.html"><![CDATA[<h1 id="repac-analysis-of-alternative-polyadenylation-from-rna-sequencing-data">REPAC: analysis of alternative polyadenylation from RNA-sequencing data</h1>
 
 <div class="search-info"></div>
 
@@ -81,212 +286,7 @@
       
     </div>
   </div>
-</div>]]></content><author><name></name></author></entry><entry><title type="html">Notch gene signature for neoadjuvant chemotherapy response in triple-negative breast cancer</title><link href="https://marchionnilab.org/2024/11/15/post-1.html" rel="alternate" type="text/html" title="Notch gene signature for neoadjuvant chemotherapy response in triple-negative breast cancer" /><published>2024-11-15T00:00:00+00:00</published><updated>2025-02-23T20:20:17+00:00</updated><id>https://marchionnilab.org/2024/11/15/post-1</id><content type="html" xml:base="https://marchionnilab.org/2024/11/15/post-1.html"><![CDATA[<h1 id="notch-based-gene-signature-for-predicting-the-response-to-neoadjuvant-chemotherapy-in-triple-negative-breast-cancer"><em>Notch-based gene signature for predicting the response to neoadjuvant chemotherapy in triple-negative breast cancer</em></h1>
-
-<div class="search-info"></div>
-
-<p>Background: Neoadjuvant chemotherapy (NACT) is widely accepted as a treatment for triple-negative breast cancer (TNBC), but not all patients benefit from it. There are currently no validated biomarkers to predict the response to NACT, and previous attempts to create predictive classifiers using gene expression data have lacked clinical relevance. However, models that integrate biological constraints have shown improved robustness and performance compared to agnostic classifiers.</p>
-
-<p>Methods: We utilized preoperative transcriptomic profiles from 298 TNBC patients to train and evaluate a rank-based classifier, k-top scoring pairs, designed to predict whether a patient will achieve pathological complete response (pCR) or have residual disease (RD) after NACT. To minimize overfitting and enhance the signature’s interpretability, we focused on genes involved in the Notch signaling pathway during the training process. The model was then tested on two independent patient cohorts, comprising 75 and 71 patients, respectively. Additionally, we examined the signature’s prognostic value by investigating its correlation with relapse-free survival (RFS) through Kaplan‒Meier (KM) survival estimates and a multivariate Cox proportional hazards model.</p>
-
-<p>Results: The final signature, consisting of five gene pairs, can predict NACT response based on their relative ordering. The model demonstrated robust performance in predicting pCR in TNBC patients, with an area under the ROC curve (AUC) of 0.76 and 0.85 in the first and second test cohorts, respectively. It outperformed other gene signatures developed for similar purposes. Furthermore, the signature was significantly associated with RFS in an independent TNBC cohort, even after adjusting for factors such as T stage, patient age at diagnosis, type of surgery, and menopausal status.</p>
-
-<p>Conclusion: We present a robust gene signature that predicts pathological complete response (pCR) in TNBC patients. This signature uses easily interpretable, rank-based decision rules focused on genes regulated by the Notch signaling pathway, which plays a key role in breast cancer chemoresistance. The signature’s strong predictive and prognostic capabilities make it a promising tool for clinical use, assisting in the stratification of TNBC patients undergoing NACT.</p>
-
-<div class="citation-container">
-  <div class="citation">
-    
-      <a href="https://www.ncbi.nlm.nih.gov/pubmed/37964363" class="citation-image" aria-label="Notch-based gene signature for predicting the response to neoadjuvant chemotherapy in triple-negative breast cancer.">
-        <img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0342/10647131/e40db7c7b497/12967_2023_4713_Fig1_HTML.jpg" alt="Notch-based gene signature for predicting the response to neoadjuvant chemotherapy in triple-negative breast cancer." loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-      </a>
-    
-
-    <div class="citation-text">
-      
-      
-
-      <a href="https://www.ncbi.nlm.nih.gov/pubmed/37964363" class="citation-title">
-        Notch-based gene signature for predicting the response to neoadjuvant chemotherapy in triple-negative breast cancer.
-      </a>
-
-      <div class="citation-authors" tabindex="0">
-        Mohamed Omar, Pier Vitale Nuzzo, Francesco Ravera, Sara Bleve, Giuseppe Nicolò Fanelli, Claudio Zanettini, Itzel Valencia, Luigi Marchionni
-
-      </div>
-
-      <div class="citation-details">
-        <span class="citation-publisher">Journal of translational medicine</span>
-        &nbsp;·&nbsp;
-        <span class="citation-date">15 Nov 2023</span>
-        &nbsp;·&nbsp;
-        <span class="citation-id">pubmed:37964363</span>
-      </div>
-
-      
-        
-
-        
-
-        
-          
-
-
-  <div class="tags">
-    
-      <a href="?search=&quot;tag: method&quot;" class="tag" data-tooltip="Show items with the tag &quot;method&quot;">
-        method
-      </a>
-    
-      <a href="?search=&quot;tag: structural-variants&quot;" class="tag" data-tooltip="Show items with the tag &quot;structural-variants&quot;">
-        structural-variants
-      </a>
-    
-  </div>
-
-
-        
-      
-    </div>
-  </div>
-</div>]]></content><author><name>luigi-marchionni</name></author><category term="gene signature" /><category term="cancer" /><category term="class prediction" /><category term="Notch signaling" /><category term="triple negative breast cancer" /><category term="neoadjuvant chemotherapy" /><summary type="html"><![CDATA[Notch-based gene signature for predicting the response to neoadjuvant chemotherapy in triple-negative breast cancer]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://marchionnilab.org/images/science/Notch.png" /><media:content medium="image" url="https://marchionnilab.org/images/science/Notch.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Meteorin-like protein in cancer immune evasion</title><link href="https://marchionnilab.org/2024/07/06/post-1.html" rel="alternate" type="text/html" title="Meteorin-like protein in cancer immune evasion" /><published>2024-07-06T00:00:00+00:00</published><updated>2025-02-23T20:20:17+00:00</updated><id>https://marchionnilab.org/2024/07/06/post-1</id><content type="html" xml:base="https://marchionnilab.org/2024/07/06/post-1.html"><![CDATA[<h1 id="the-cytokine-meteorin-like-inhibits-anti-tumor-cd8">The cytokine Meteorin-like inhibits anti-tumor CD8</h1>
-
-<div class="search-info"></div>
-
-<p>Tumor-infiltrating lymphocyte (TIL) hypofunction plays a key role in the progression of advanced cancers and is a common target for immunotherapy. Emerging evidence suggests that metabolic deficiencies contribute to T cell dysfunction during tonic stimulation, but the signals triggering metabolic reprogramming in this context are still poorly understood. In this study, we identified Meteorin-like (METRNL), a metabolically active cytokine secreted by immune cells within the tumor microenvironment (TME), as a factor causing bioenergetic failure in CD8+ T cells. METRNL was released by CD8+ T cells after repeated stimulation and acted through both autocrine and paracrine signaling mechanisms. We found that METRNL enhanced E2F-peroxisome proliferator-activated receptor delta (PPARδ) activity, leading to mitochondrial depolarization and reduced oxidative phosphorylation. This triggered a compensatory shift in bioenergetics towards glycolysis. Deleting or downregulating Metrnl improved the metabolic health of CD8+ T cells and boosted tumor control in several tumor models, suggesting that targeting the METRNL-E2F-PPARδ pathway may be a promising strategy to enhance the bioenergetic fitness of CD8+ TILs.</p>
-
-<div class="citation-container">
-  <div class="citation">
-    
-      <a href="https://www.ncbi.nlm.nih.gov/pubmed/39111315" class="citation-image" aria-label="The cytokine Meteorin-like inhibits anti-tumor CD8">
-        <img src="https://ars.els-cdn.com/content/image/1-s2.0-S1074761324003522-fx1.jpg" alt="The cytokine Meteorin-like inhibits anti-tumor CD8" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-      </a>
-    
-
-    <div class="citation-text">
-      
-      
-
-      <a href="https://www.ncbi.nlm.nih.gov/pubmed/39111315" class="citation-title">
-        The cytokine Meteorin-like inhibits anti-tumor CD8
-      </a>
-
-      <div class="citation-authors" data-tooltip="Christopher M Jackson, Ayush Pant, Wikum Dinalankara, John Choi, Aanchal Jain, Ryan Nitta, Eli Yazigi, Laura Saleh, Liang Zhao, Thomas R Nirschl, Christina M Kochel, Brandon Hwa-Lin Bergsneider, Denis Routkevitch, Kisha Patel, Kwang Bog Cho, Stephany Tzeng, Sarah Y Neshat, Young-Hoon Kim, Barbara J Smith, Maria Cecilia Ramello, Elena Sotillo, Xinnan Wang, Jordan J Green, Chetan Bettegowda, Gordon Li, Henry Brem, Crystal L Mackall, Drew M Pardoll, Charles G Drake, Luigi Marchionni, Michael Lim" tabindex="0">
-        Christopher M Jackson, Ayush Pant, Wikum Dinalankara, John Choi, Aanchal Jain, …, Crystal L Mackall, Drew M Pardoll, Charles G Drake, Luigi Marchionni, Michael Lim
-
-      </div>
-
-      <div class="citation-details">
-        <span class="citation-publisher">Immunity</span>
-        &nbsp;·&nbsp;
-        <span class="citation-date">06 Aug 2024</span>
-        &nbsp;·&nbsp;
-        <span class="citation-id">pubmed:39111315</span>
-      </div>
-
-      
-        
-
-        
-
-        
-          
-
-
-  <div class="tags">
-    
-      <a href="?search=&quot;tag: genomics&quot;" class="tag" data-tooltip="Show items with the tag &quot;genomics&quot;">
-        genomics
-      </a>
-    
-      <a href="?search=&quot;tag: transcriptomics&quot;" class="tag" data-tooltip="Show items with the tag &quot;transcriptomics&quot;">
-        transcriptomics
-      </a>
-    
-      <a href="?search=&quot;tag: cancer&quot;" class="tag" data-tooltip="Show items with the tag &quot;cancer&quot;">
-        cancer
-      </a>
-    
-      <a href="?search=&quot;tag: immunity&quot;" class="tag" data-tooltip="Show items with the tag &quot;immunity&quot;">
-        immunity
-      </a>
-    
-      <a href="?search=&quot;tag: tme&quot;" class="tag" data-tooltip="Show items with the tag &quot;tme&quot;">
-        tme
-      </a>
-    
-  </div>
-
-
-        
-      
-    </div>
-  </div>
-</div>]]></content><author><name>luigi-marchionni</name></author><category term="medicine" /><category term="cancer" /><category term="class prediction" /><category term="metabolism" /><category term="immunotherapy" /><summary type="html"><![CDATA[The cytokine Meteorin-like inhibits anti-tumor CD8]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://marchionnilab.org/images/science/METRNL.jpg" /><media:content medium="image" url="https://marchionnilab.org/images/science/METRNL.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Using biological constraints to improve prediction in precision oncology</title><link href="https://marchionnilab.org/2023/03/17/post-1.html" rel="alternate" type="text/html" title="Using biological constraints to improve prediction in precision oncology" /><published>2023-03-17T00:00:00+00:00</published><updated>2025-02-23T20:20:17+00:00</updated><id>https://marchionnilab.org/2023/03/17/post-1</id><content type="html" xml:base="https://marchionnilab.org/2023/03/17/post-1.html"><![CDATA[<h1 id="using-biological-constraints-to-improve-prediction-in-precision-oncology">Using biological constraints to improve prediction in precision oncology</h1>
-
-<div class="search-info"></div>
-
-<p>Many gene signatures have been created using machine learning (ML) on omics data, but their clinical usefulness is often limited by poor interpretability and inconsistent performance. In this study, we highlight the importance of incorporating prior biological knowledge into the decision rules generated by ML methods to create more reliable classifiers. We tested this approach by applying various ML algorithms to gene expression data to predict three challenging cancer outcomes: bladder cancer progression to muscle-invasive disease, response to neoadjuvant chemotherapy in triple-negative breast cancer, and metastatic progression in prostate cancer. We developed two types of classifiers: mechanistic, which focused the training on features related to specific biological mechanisms, and agnostic, which did not include any prior biological knowledge. Mechanistic models showed equal or better performance compared to their agnostic counterparts, with the added benefit of improved interpretability. Our results emphasize the value of incorporating biological constraints to develop robust gene signatures with strong translational potential.</p>
-
-<div class="citation-container">
-  <div class="citation">
-    
-      <a href="https://www.ncbi.nlm.nih.gov/pubmed/36852282" class="citation-image" aria-label="Using biological constraints to improve prediction in precision oncology.">
-        <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2589004223001852-fx1.jpg" alt="Using biological constraints to improve prediction in precision oncology." loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-      </a>
-    
-
-    <div class="citation-text">
-      
-      
-
-      <a href="https://www.ncbi.nlm.nih.gov/pubmed/36852282" class="citation-title">
-        Using biological constraints to improve prediction in precision oncology.
-      </a>
-
-      <div class="citation-authors" tabindex="0">
-        Mohamed Omar, Wikum Dinalankara, Lotte Mulder, Tendai Coady, Claudio Zanettini, Eddie Luidy Imada, Laurent Younes, Donald Geman, Luigi Marchionni
-
-      </div>
-
-      <div class="citation-details">
-        <span class="citation-publisher">iScience</span>
-        &nbsp;·&nbsp;
-        <span class="citation-date">02 Feb 2023</span>
-        &nbsp;·&nbsp;
-        <span class="citation-id">pubmed:36852282</span>
-      </div>
-
-      
-        
-
-        
-
-        
-          
-
-
-  <div class="tags">
-    
-      <a href="?search=&quot;tag: cancer&quot;" class="tag" data-tooltip="Show items with the tag &quot;cancer&quot;">
-        cancer
-      </a>
-    
-      <a href="?search=&quot;tag: tumor-heterogeneity&quot;" class="tag" data-tooltip="Show items with the tag &quot;tumor-heterogeneity&quot;">
-        tumor-heterogeneity
-      </a>
-    
-      <a href="?search=&quot;tag: statistical-method&quot;" class="tag" data-tooltip="Show items with the tag &quot;statistical-method&quot;">
-        statistical-method
-      </a>
-    
-  </div>
-
-
-        
-      
-    </div>
-  </div>
-</div>]]></content><author><name>luigi-marchionni</name></author><category term="gene signature" /><category term="cancer" /><category term="class prediction" /><category term="Notch signaling" /><category term="triple negative breast cancer" /><category term="neoadjuvant chemotherapy" /><summary type="html"><![CDATA[Using biological constraints to improve prediction in precision oncology]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.cell.com/cms/10.1016/j.isci.2023.106108/asset/a5a2122a-2006-41b9-9430-b28bd10251fc/main.assets/fx1_lrg.jpg" /><media:content medium="image" url="https://www.cell.com/cms/10.1016/j.isci.2023.106108/asset/a5a2122a-2006-41b9-9430-b28bd10251fc/main.assets/fx1_lrg.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Donor-derived acute myeloid leukemia in solid organ transplantation</title><link href="https://marchionnilab.org/2022/09/08/post-1.html" rel="alternate" type="text/html" title="Donor-derived acute myeloid leukemia in solid organ transplantation" /><published>2022-09-08T00:00:00+00:00</published><updated>2025-02-23T20:20:17+00:00</updated><id>https://marchionnilab.org/2022/09/08/post-1</id><content type="html" xml:base="https://marchionnilab.org/2022/09/08/post-1.html"><![CDATA[<h1 id="donor-derived-acute-myeloid-leukemia-in-solid-organ-transplantation">Donor-derived acute myeloid leukemia in solid organ transplantation</h1>
+</div>]]></content><author><name>luigi-marchionni</name></author><category term="gene signature" /><category term="cancer" /><category term="class prediction" /><category term="Notch signaling" /><category term="triple negative breast cancer" /><category term="neoadjuvant chemotherapy" /><summary type="html"><![CDATA[REPAC: analysis of alternative polyadenylation from RNA-sequencing data]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/381b/9912678/2411f65028a2/13059_2023_2865_Fig1_HTML.jpg" /><media:content medium="image" url="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/381b/9912678/2411f65028a2/13059_2023_2865_Fig1_HTML.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Donor-derived acute myeloid leukemia in solid organ transplantation</title><link href="https://marchionnilab.org/2022/09/08/post-1.html" rel="alternate" type="text/html" title="Donor-derived acute myeloid leukemia in solid organ transplantation" /><published>2022-09-08T00:00:00+00:00</published><updated>2025-02-23T20:58:32+00:00</updated><id>https://marchionnilab.org/2022/09/08/post-1</id><content type="html" xml:base="https://marchionnilab.org/2022/09/08/post-1.html"><![CDATA[<h1 id="donor-derived-acute-myeloid-leukemia-in-solid-organ-transplantation">Donor-derived acute myeloid leukemia in solid organ transplantation</h1>
 
 <div class="search-info"></div>
 
@@ -347,7 +347,7 @@
       
     </div>
   </div>
-</div>]]></content><author><name>luigi-marchionni</name></author><category term="acute myeloid leukemia" /><category term="transplantation" /><category term="clonal hematopoiesis" /><category term="tumor evolution" /><summary type="html"><![CDATA[Donor-derived acute myeloid leukemia in solid organ transplantation]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f438/9897593/c932219972b9/nihms-1837110-f0005.jpg" /><media:content medium="image" url="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f438/9897593/c932219972b9/nihms-1837110-f0005.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Efficient representations of tumor diversity with paired DNA-RNA aberrations</title><link href="https://marchionnilab.org/2021/06/11/post-1.html" rel="alternate" type="text/html" title="Efficient representations of tumor diversity with paired DNA-RNA aberrations" /><published>2021-06-11T00:00:00+00:00</published><updated>2025-02-23T20:20:17+00:00</updated><id>https://marchionnilab.org/2021/06/11/post-1</id><content type="html" xml:base="https://marchionnilab.org/2021/06/11/post-1.html"><![CDATA[<h1 id="efficient-representations-of-tumor-diversity-with-paired-dna-rna-aberrations">Efficient representations of tumor diversity with paired DNA-RNA aberrations</h1>
+</div>]]></content><author><name>luigi-marchionni</name></author><category term="acute myeloid leukemia" /><category term="transplantation" /><category term="clonal hematopoiesis" /><category term="tumor evolution" /><summary type="html"><![CDATA[Donor-derived acute myeloid leukemia in solid organ transplantation]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f438/9897593/c932219972b9/nihms-1837110-f0005.jpg" /><media:content medium="image" url="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f438/9897593/c932219972b9/nihms-1837110-f0005.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Efficient representations of tumor diversity with paired DNA-RNA aberrations</title><link href="https://marchionnilab.org/2021/06/11/post-1.html" rel="alternate" type="text/html" title="Efficient representations of tumor diversity with paired DNA-RNA aberrations" /><published>2021-06-11T00:00:00+00:00</published><updated>2025-02-23T20:58:32+00:00</updated><id>https://marchionnilab.org/2021/06/11/post-1</id><content type="html" xml:base="https://marchionnilab.org/2021/06/11/post-1.html"><![CDATA[<h1 id="efficient-representations-of-tumor-diversity-with-paired-dna-rna-aberrations">Efficient representations of tumor diversity with paired DNA-RNA aberrations</h1>
 
 <div class="search-info"></div>
 
@@ -420,7 +420,7 @@
       
     </div>
   </div>
-</div>]]></content><author><name>luigi-marchionni</name></author><category term="tumor heterogenity" /><category term="cancer" /><category term="tumor modeling" /><summary type="html"><![CDATA[Efficient representations of tumor diversity with paired DNA-RNA aberrations]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1b82/8221796/8fb0565b0a4d/pcbi.1008944.g001.jpg" /><media:content medium="image" url="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1b82/8221796/8fb0565b0a4d/pcbi.1008944.g001.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">An R package for divergence analysis of omics data</title><link href="https://marchionnilab.org/2021/04/05/post-1.html" rel="alternate" type="text/html" title="An R package for divergence analysis of omics data" /><published>2021-04-05T00:00:00+00:00</published><updated>2025-02-23T20:20:17+00:00</updated><id>https://marchionnilab.org/2021/04/05/post-1</id><content type="html" xml:base="https://marchionnilab.org/2021/04/05/post-1.html"><![CDATA[<h1 id="an-r-package-for-divergence-analysis-of-omics-data">An R package for divergence analysis of omics data</h1>
+</div>]]></content><author><name>luigi-marchionni</name></author><category term="tumor heterogenity" /><category term="cancer" /><category term="tumor modeling" /><summary type="html"><![CDATA[Efficient representations of tumor diversity with paired DNA-RNA aberrations]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1b82/8221796/8fb0565b0a4d/pcbi.1008944.g001.jpg" /><media:content medium="image" url="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1b82/8221796/8fb0565b0a4d/pcbi.1008944.g001.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">An R package for divergence analysis of omics data</title><link href="https://marchionnilab.org/2021/04/05/post-1.html" rel="alternate" type="text/html" title="An R package for divergence analysis of omics data" /><published>2021-04-05T00:00:00+00:00</published><updated>2025-02-23T20:58:32+00:00</updated><id>https://marchionnilab.org/2021/04/05/post-1</id><content type="html" xml:base="https://marchionnilab.org/2021/04/05/post-1.html"><![CDATA[<h1 id="an-r-package-for-divergence-analysis-of-omics-data">An R package for divergence analysis of omics data</h1>
 
 <div class="search-info"></div>
 
@@ -489,7 +489,7 @@
       
     </div>
   </div>
-</div>]]></content><author><name>luigi-marchionni</name></author><category term="bioconductor" /><category term="bioinformatics" /><category term="data analysis" /><category term="omics" /><summary type="html"><![CDATA[An R package for divergence analysis of omics data]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1cc9/8021195/4749a0e92fd5/pone.0249002.g003.jpg" /><media:content medium="image" url="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1cc9/8021195/4749a0e92fd5/pone.0249002.g003.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Our paper on HDAC Inhibition</title><link href="https://marchionnilab.org/2013/07/19/post-1.html" rel="alternate" type="text/html" title="Our paper on HDAC Inhibition" /><published>2013-07-19T00:00:00+00:00</published><updated>2025-02-23T20:20:17+00:00</updated><id>https://marchionnilab.org/2013/07/19/post-1</id><content type="html" xml:base="https://marchionnilab.org/2013/07/19/post-1.html"><![CDATA[<h1 id="genomic-responses-to-hdac-inhibitors-in-prostate-cancer-cells">Genomic responses to HDAC inhibitors in prostate cancer cells</h1>
+</div>]]></content><author><name>luigi-marchionni</name></author><category term="bioconductor" /><category term="bioinformatics" /><category term="data analysis" /><category term="omics" /><summary type="html"><![CDATA[An R package for divergence analysis of omics data]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1cc9/8021195/4749a0e92fd5/pone.0249002.g003.jpg" /><media:content medium="image" url="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1cc9/8021195/4749a0e92fd5/pone.0249002.g003.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Our paper on HDAC Inhibition</title><link href="https://marchionnilab.org/2013/07/19/post-1.html" rel="alternate" type="text/html" title="Our paper on HDAC Inhibition" /><published>2013-07-19T00:00:00+00:00</published><updated>2025-02-23T20:58:32+00:00</updated><id>https://marchionnilab.org/2013/07/19/post-1</id><content type="html" xml:base="https://marchionnilab.org/2013/07/19/post-1.html"><![CDATA[<h1 id="genomic-responses-to-hdac-inhibitors-in-prostate-cancer-cells">Genomic responses to HDAC inhibitors in prostate cancer cells</h1>
 
 <div class="search-info"></div>
 
@@ -564,7 +564,7 @@ Extensive supplementary material is also available <a href="HDACIs.html">here</a
       
     </div>
   </div>
-</div>]]></content><author><name>luigi-marchionni</name></author><category term="medicine" /><category term="cancer" /><category term="class prediction" /><category term="breast cancer" /><category term="epigenomics" /><summary type="html"><![CDATA[Genomic responses to HDAC inhibitors in prostate cancer cells]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://marchionnilab.org/images/science/HDACIs.png" /><media:content medium="image" url="https://marchionnilab.org/images/science/HDACIs.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Predicting breast cancer metastatic progression</title><link href="https://marchionnilab.org/2013/05/13/post-1.html" rel="alternate" type="text/html" title="Predicting breast cancer metastatic progression" /><published>2013-05-13T00:00:00+00:00</published><updated>2025-02-23T20:20:17+00:00</updated><id>https://marchionnilab.org/2013/05/13/post-1</id><content type="html" xml:base="https://marchionnilab.org/2013/05/13/post-1.html"><![CDATA[<h1 id="a-simple-and-reproducible-breast-cancer-prognostic-test">A simple and reproducible breast cancer prognostic test</h1>
+</div>]]></content><author><name>luigi-marchionni</name></author><category term="medicine" /><category term="cancer" /><category term="class prediction" /><category term="breast cancer" /><category term="epigenomics" /><summary type="html"><![CDATA[Genomic responses to HDAC inhibitors in prostate cancer cells]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://marchionnilab.org/images/science/HDACIs.png" /><media:content medium="image" url="https://marchionnilab.org/images/science/HDACIs.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Predicting breast cancer metastatic progression</title><link href="https://marchionnilab.org/2013/05/13/post-1.html" rel="alternate" type="text/html" title="Predicting breast cancer metastatic progression" /><published>2013-05-13T00:00:00+00:00</published><updated>2025-02-23T20:58:32+00:00</updated><id>https://marchionnilab.org/2013/05/13/post-1</id><content type="html" xml:base="https://marchionnilab.org/2013/05/13/post-1.html"><![CDATA[<h1 id="a-simple-and-reproducible-breast-cancer-prognostic-test">A simple and reproducible breast cancer prognostic test</h1>
 
 <div class="search-info"></div>
 
