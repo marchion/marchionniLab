@@ -16,10 +16,9 @@ We also believe that an inclusive environment for research,
 centered on the values of diversity and inclusion,
 is crucial to push the boundaries the boundaries of our curiosity
 and ingenuity, ultimately serving the process of discovery, 
-for the benefit of cancer research patients of **ALL** backgrounds.
+for the benefit of cancer research patients of all backgrounds.
 
 ***"Considerate la vostra semenza: fatti non foste a viver come bruti ma per seguir virtute e canoscenza."***
-
 ***(Ulisse nella Divina Commedia, Canto XXVI, Dante Alighieri)***
 
 
