@@ -3020,7 +3020,7 @@
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9a46/10684511/91e0cd125e1e/41467_2023_43651_Fig1_HTML.jpg
   tags:
   - method
-  - structural variants
+  - cancer
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:37964363
