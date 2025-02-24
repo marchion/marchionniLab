@@ -390,10 +390,26 @@
     - "cancer"
 
 - id: "pubmed:32817372"
+  image: "https://www.science.org/cms/10.1126/scisignal.aba0443/asset/93459db1-a8a5-4834-a857-0c5f27b2cb1e/assets/graphic/aba0443-f1.jpeg"
+  tags: 
+    - "bladder cancer"
+    - "DNA methylation"
 
 - id: "pubmed:29180467"
 
 - id: "pubmed:33923159"
+  image: "https://www.mdpi.com/vaccines/vaccines-09-00427/article_deploy/html/images/vaccines-09-00427-g003.png"
+  tags:
+    - "COVID-19"
+    - "influenza"
+    - "propensity score"
+
+- id: "doi:10.3390/vaccines9050427"
+  image: "https://www.mdpi.com/vaccines/vaccines-09-00427/article_deploy/html/images/vaccines-09-00427-g003.png"
+  tags:
+    - "COVID-19"
+    - "influenza"
+    - "propensity score"
 
 - id: "pubmed:36038558"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/47ae/9424319/a802d2a3f3fb/41523_2022_474_Fig1_HTML.jpg"
@@ -437,6 +453,14 @@
     - "SARS-CoV-2"
     - "RNA sequencing"
 
+- id: "doi:10.1371/journal.pone.0249002"
+  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1cc9/8021195/4749a0e92fd5/pone.0249002.g003.jpg"
+  tags:
+    - "method"
+    - "genomics"
+    - "transcriptomics"
+    - "heterogeneity"
+
 - id: "pubmed:33819273"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1cc9/8021195/4749a0e92fd5/pone.0249002.g003.jpg"
   tags:
@@ -452,6 +476,12 @@
 - id: "pubmed:30655325"
 
 - id: "pubmed:33568675"
+  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/97ce/7876147/56842f0683ec/41467_2021_21245_Fig2_HTML.jpg"
+  tags:
+    - "prostate cancer"
+    - "health disparities"
+    - "gene expression"
+    - "TCGA"
 
 - id: "pubmed:37216914"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c39a/10250081/9c5aaaa435e8/btad333f1.jpg"
@@ -510,6 +540,11 @@
 - id: "pubmed:22761195"
 
 - id: "pubmed:33408119"
+  image: "https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/81/4/10.1158_0008-5472.can-20-1780/2/m_1001fig1.jpeg"
+
+- id: "doi:10.1158/0008-5472.CAN-20-1780"
+  image: "https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/81/4/10.1158_0008-5472.can-20-1780/2/m_1001fig1.jpeg"
+
 
 - id: "pubmed:29467463"
 
