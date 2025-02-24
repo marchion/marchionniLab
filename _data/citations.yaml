@@ -2447,7 +2447,7 @@
   publisher: 'Breast cancer research : BCR'
   date: '2024-09-13'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39272208
-  image: images/science/breastTHR.jpg
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13058-024-01876-9/MediaObjects/13058_2024_1876_Fig1_HTML.png
   tags:
   - breast cancer
   - hormone signaling
