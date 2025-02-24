@@ -62,13 +62,6 @@
     - "hormone signaling"
     - "gene expression signature"
 
-- id: "pubmed:38191471"
-  image: "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-44210-1/MediaObjects/41467_2023_44210_Fig1_HTML.png"
-  tags:
-    - "prostate cancer"
-    - "tme"
-    - "spatial transcriptomics"
-
 - id: "pubmed:38016949"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9a46/10684511/91e0cd125e1e/41467_2023_43651_Fig1_HTML.jpg"
   tags:
@@ -351,15 +344,11 @@
 
 - id: "pubmed:32607525"
 
-- id: "pubmed:37964363"
-
 - id: "pubmed:38016949"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9a46/10684511/91e0cd125e1e/41467_2023_43651_Fig1_HTML.jpg"
   tags:
     - "method"
     - "cancer"
-
-- id: "pubmed:37409050"
 
 - id: "pubmed:32817372"
 
