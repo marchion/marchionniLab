@@ -1,3 +1,20 @@
+- id: "doi:10.1101/2022.03.14.484280"
+  image: "https://www.biorxiv.org/content/biorxiv/early/2022/05/03/2022.03.14.484280/F3.medium.gif"
+  tags:
+    - "gene expression"
+    - "polyadenylation"
+    - "method"
+    - "resource"
+
+- id: "doi:10.1101/2022.09.20.508244"
+  image: 
+
+- id: "doi:10.1101/2022.11.18.517111"
+  image: "https://www.biorxiv.org/content/biorxiv/early/2022/09/22/2022.09.20.508244/F1.large.jpg"
+
+- id: "doi:10.1101/2023.08.28.555119"
+  image: "https://www.biorxiv.org/content/biorxiv/early/2023/08/29/2023.08.28.555119/F1.medium.gif"
+
 - id: "pubmed:39111315"
   image: "https://ars.els-cdn.com/content/image/1-s2.0-S1074761324003522-fx1.jpg"
   tags:
@@ -48,7 +65,7 @@
     - "gene expression"
 
 - id: "pubmed:38191471"
-  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1519/10774315/4938ab239bd1/41467_2023_44210_Fig1_HTML.jpg"
+  image: "images/science/tmePCA.jpg"
   tags:
     - "prostate cancer"
     - "TME"
@@ -56,7 +73,7 @@
     - "spatial transcriptomics"
 
 - id: "pubmed:39272208"
-  image: "https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13058-024-01876-9/MediaObjects/13058_2024_1876_Fig1_HTML.png"
+  image: "images/science/breastTHR.jpg"
   tags:
     - "breast cancer"
     - "hormone signaling"
@@ -357,6 +374,10 @@
 - id: "pubmed:33923159"
 
 - id: "pubmed:36038558"
+  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/47ae/9424319/a802d2a3f3fb/41523_2022_474_Fig1_HTML.jpg"
+
+- id: "doi:10.1038/s41523-022-00474-2"
+  image: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41523-022-00474-2/MediaObjects/41523_2022_474_Fig1_HTML.pn"
 
 - id: "pubmed:34880124"
 
@@ -366,6 +387,10 @@
 - id: "pubmed:24086345"
 
 - id: "pubmed:36122486"
+  image: "https://ars.els-cdn.com/content/image/1-s2.0-S2213294523000601-gr1.jpg"
+  tags:
+    - "SARS-CoV-2"
+    - "RNA sequencing"
 
 - id: "pubmed:33819273"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1cc9/8021195/4749a0e92fd5/pone.0249002.g003.jpg"
