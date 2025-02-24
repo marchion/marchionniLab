@@ -45,6 +45,15 @@
     - "cancer"
     - "tumor heterogeneity"
     - "statistical method"
+    - "resource"
+
+- id: "doi:10.1101/2020.04.24.060129"
+  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1b82/8221796/8fb0565b0a4d/pcbi.1008944.g001.jpg"
+  tags:
+    - "cancer"
+    - "tumor heterogeneity"
+    - "statistical method"
+    - "resource"
 
 - id: "pubmed:29666255"
   image: "https://www.pnas.org/cms/10.1073/pnas.1721628115/asset/1429c0a2-879a-4178-8867-dcb9cd7f7dd8/assets/graphic/pnas.1721628115fig01.jpeg"
@@ -96,6 +105,13 @@
   tags:
     - "method"
     - "structural variants"
+
+- id: "doi:10.1101/2021.08.25.457574"
+  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a612/10318336/a4365e60c675/fx1.jpg"
+  tags:
+    - "method"
+    - "genetics"
+
 
 - id: "pubmed:37409050"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a612/10318336/a4365e60c675/fx1.jpg"
@@ -250,7 +266,7 @@
     - "clonal hematopoiesis"
 
 - id: "pubmed:37034687"
-  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/278c/10081210/5f0ed21db182/nihpp-2023.03.29.534769v1-f0001.jpg"
+  image: "https://www.biorxiv.org/content/biorxiv/early/2023/04/01/2023.03.29.534769/F1.medium.gif"
 
 - id: "pubmed:32718981"
   image: "https://genome.cshlp.org/content/30/7/951/F1.large.jpg"
@@ -390,6 +406,25 @@
     - "breast cancer"
 
 - id: "pubmed:34880124"
+  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/960d/9398095/8f49585199bb/202fig1.jpg"
+  tags: 
+    - "digital pathology"
+    - "pathML"
+    - "resource"
+
+- id: "doi:10.1158/1541-7786.MCR-21-0665"
+  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/960d/9398095/8f49585199bb/202fig1.jpg"
+  tags: 
+    - "digital pathology"
+    - "pathML"
+    - "resource"
+
+- id: "doi:10.1101/2021.10.21.465212"
+  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/960d/9398095/8f49585199bb/202fig1.jpg"
+  tags: 
+    - "digital pathology"
+    - "pathML"
+    - "resource"
 
 - id: "pubmed:37419704"
   image: "https://ars.els-cdn.com/content/image/X22132945.jpg"
@@ -594,7 +629,3 @@
 - id: "pubmed:14744102"
 
 - id: "pubmed:28437440"
-
-    
-    
-    
