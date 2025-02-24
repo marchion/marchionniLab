@@ -1,20 +1,20 @@
 ---
-title: Projects
+title: Resources
 nav:
-  order: 2
-  tooltip: Collaborations, projects, and more
+  order: 5
+  tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Resources
 
-Ed ecco i progetti a cui stiamo lavorando
+Our software
 
 {% include tags.html tags="biology, bioinformatics, cancer" %}
 
-
 {% include section.html background="images/longDNA.jpg" dark=true %}
+
 ***
-## Collaborative projects focusing on biology
+## Bioconductor packages
 {% include section.html %}
 
 {% include list.html component="card" data="projects" filter="group == 'biology'" %}
@@ -22,7 +22,8 @@ Ed ecco i progetti a cui stiamo lavorando
 
 {% include section.html background="images/longDNA.jpg" dark=true %}
 ***
-## Collaborative projects focusing on computational tools and statistical methods
+## Other projects
+
 {% include section.html %}
 
 {% include list.html component="card" data="projects" filter="group == 'bioinformatics'" %}
