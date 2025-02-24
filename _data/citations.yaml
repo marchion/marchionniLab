@@ -73,7 +73,7 @@
   member: luigi-marchionni
   plugin: sources.py
   file: sources.yaml
-  image: images/science/asForPath.jpg
+  image: images/science/aiForPath.jpg
   tags:
   - review
   - digital pathology
@@ -2999,7 +2999,7 @@
   publisher: 'Breast cancer research : BCR'
   date: '2024-09-13'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39272208
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/43e6/11395215/389733c2f383/13058_2024_1876_Fig1_HTML.jpg
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13058-024-01876-9/MediaObjects/13058_2024_1876_Fig1_HTML.png
   tags:
   - breast cancer
   - hormone signaling
@@ -3099,6 +3099,11 @@
   publisher: Cancer cell
   date: '2022-12-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36525970
+  image: https://www.cell.com/cms/10.1016/j.ccell.2022.11.016/asset/43045ec7-86f2-46ce-9a93-40f7f6b89849/main.assets/fx1_lrg.jpg
+  tags:
+  - cancer
+  - TME
+  - colorectal cancer
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:38987117
@@ -3112,6 +3117,7 @@
   publisher: The Lancet. Digital health
   date: '2024-07-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38987117
+  image: https://www.thelancet.com/cms/asset/ce72b56e-2606-4f96-bef7-2a85b273a892/cov200h.gif
   tags:
   - review
   - digital pathology
@@ -3161,6 +3167,7 @@
   publisher: Cancer research
   date: '2024-06-04'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38831751
+  image: https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=447942&s=188&r=3&c=2
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:36717286
@@ -3212,6 +3219,7 @@
   publisher: European urology
   date: '2023-01-28'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36717286
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6ee5/10192088/254c6650b5e6/nihms-1870452-f0001.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:36204675
@@ -3228,6 +3236,7 @@
   publisher: F1000Research
   date: '2021-12-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36204675
+  image: https://f1000research.s3.amazonaws.com/manuscripts/134369/5377ac7f-9085-4d2a-920c-b469056be8be_figure1.gif
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:39294134
@@ -3287,6 +3296,7 @@
   publisher: NPJ genomic medicine
   date: '2024-01-22'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38253539
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0890/10803790/0982ed7369fc/41525_2024_392_Fig1_HTML.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:38706981
@@ -3369,6 +3379,7 @@
   publisher: Nature machine intelligence
   date: '2023-07-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38706981
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/01eb/11068064/55e30235a388/nihms-1940400-f0001.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:39630608
@@ -3425,6 +3436,10 @@
   publisher: The Journal of clinical investigation
   date: '2022-12-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36282572
+  image: https://dm5migu4zj3pb.cloudfront.net/manuscripts/160000/160767/medium/JCI160767.ga.jpg
+  tags:
+  - cancer
+  - lymphoma
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:31804462
@@ -3446,6 +3461,11 @@
   publisher: Cell death & disease
   date: '2019-12-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31804462
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-cddis.gif
+  tags:
+  - review
+  - computational biology
+  - collaborative science
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:34618807
@@ -3470,6 +3490,11 @@
   publisher: PLoS biology
   date: '2021-10-07'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34618807
+  image: https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.3001419.g003
+  tags:
+  - review
+  - computational biology
+  - collaboration
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:32718982
@@ -3594,6 +3619,12 @@
   publisher: Genome research
   date: '2020-07-27'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32718982
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/941c/7397864/877a7874f0c1/1060f01.jpg
+  tags:
+  - genome architecture
+  - long non-coding RNA
+  - antisense
+  - FANTOM
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:38862340
@@ -3634,6 +3665,7 @@
   publisher: European urology oncology
   date: '2024-06-10'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38862340
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2588931124001421-gr1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:39094629
@@ -3753,6 +3785,7 @@
   publisher: 'bioRxiv : the preprint server for biology'
   date: '2023-04-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37034687
+  image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=10081210_nihpp-2023.03.29.534769v1-f0001.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:32718981
@@ -3786,6 +3819,12 @@
   publisher: Genome research
   date: '2020-07-27'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32718981
+  image: https://genome.cshlp.org/content/30/7/951/F1.large.jpg
+  tags:
+  - FANTOM
+  - gene expression
+  - genome
+  - evolution
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:38284821
@@ -3806,6 +3845,7 @@
   publisher: 'Molecular cancer research : MCR'
   date: '2024-04-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38284821
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f06b/10985477/8971a4b3b864/347fig1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:36543879
@@ -3830,6 +3870,7 @@
   publisher: Leukemia
   date: '2022-12-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36543879
+  image: https://www.researchgate.net/publication/43352174/figure/fig2/AS:280319287676947@1443844734580/Clonal-origination-and-evolution-in-myeloproliferative-neoplasms-MPNs-PV-polycythemia.png
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:33396819
@@ -3845,6 +3886,11 @@
   publisher: Metabolites
   date: '2020-12-30'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33396819
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4172/7823382/7056f98fb721/metabolites-11-00020-g001.jpg
+  tags:
+  - cancer
+  - metabolism
+  - ''
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:36852282
@@ -3916,6 +3962,12 @@
   publisher: Annals of internal medicine
   date: '2008-02-04'
   link: https://www.ncbi.nlm.nih.gov/pubmed/18252678
+  image: https://www.acpjournals.org/cms/10.7326/0003-4819-148-5-200803040-00208/asset/images/7ff1.jpg
+  tags:
+  - review
+  - breast cancer
+  - gene expression
+  - prediction
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:25575134
@@ -3932,6 +3984,10 @@
   publisher: Journal of neuropathology and experimental neurology
   date: '2015-02-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25575134
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0c21/4357229/6daf0cf37d7b/nihms642970f1.jpg
+  tags:
+  - Notch
+  - cancer
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:38157646
@@ -3957,6 +4013,7 @@
   publisher: Cellular immunology
   date: '2023-12-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38157646
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0008874923X00094-cov200h.gif
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:37812042
@@ -3993,6 +4050,7 @@
   publisher: The Prostate
   date: '2023-10-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37812042
+  image: https://onlinelibrary.wiley.com/cms/asset/3b985041-f153-4742-92d4-7a033939eb67/pros24629-fig-0001-m.png
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:18457476
@@ -4008,6 +4066,12 @@
   publisher: Evidence report/technology assessment
   date: '2007-12-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/18457476
+  image: https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/bookshelf/thumbs/th-erta160-lrg.png
+  tags:
+  - review
+  - gene expression
+  - breast cancer
+  - prediction
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:33991092
@@ -4024,6 +4088,11 @@
   publisher: 'Database : the journal of biological databases and curation'
   date: '2021-05-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33991092
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f92e/8122363/7822da1e156c/baab027f1.jpg
+  tags:
+  - resource
+  - covid19
+  - SARS-CoV-2
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:34297428
@@ -4042,6 +4111,7 @@
   publisher: Brain pathology (Zurich, Switzerland)
   date: '2021-07-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34297428
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9ebd/8713532/ae6177296d9c/BPA-32-e13007-g005.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:26862087
@@ -4070,6 +4140,9 @@
   publisher: Cancer prevention research (Philadelphia, Pa.)
   date: '2016-02-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26862087
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/05e4/4818686/27fc0f97bbb5/nihms759794f1.jpg
+  tags:
+  - cancer
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:34311724
@@ -4090,6 +4163,11 @@
   publisher: BMC cancer
   date: '2021-07-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34311724
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/309d/8314517/e2ff49d2a74c/12885_2021_8593_Fig1_HTML.jpg
+  tags:
+  - prostate cancer
+  - PTEN
+  - gene expression
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:39510141
@@ -4154,6 +4232,13 @@
   publisher: Human pathology
   date: '2017-04-12'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28411178
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2a38/5628161/2dcb1eb3f674/nihms902381f1.jpg
+  tags:
+  - cancer
+  - renal cell carcinoma
+  - microRNA
+  - gene expression
+  - gene fusion
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:34746025
@@ -4167,6 +4252,11 @@
   publisher: Frontiers in cellular and infection microbiology
   date: '2021-10-22'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34746025
+  image: https://images-provider.frontiersin.org/api/ipx/w=410&f=webp/https://www.frontiersin.org/files/Articles/743616/fcimb-11-743616-HTML/image_m/fcimb-11-743616-g002.jpg
+  tags:
+  - prediction
+  - malaria
+  - gene expression
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:36752203
@@ -4189,6 +4279,7 @@
   publisher: JCI insight
   date: '2023-02-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36752203
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5c35/9977441/0a4cd9e39d85/jciinsight-8-162409-g117.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:32607525
@@ -4318,6 +4409,7 @@
   publisher: Journal of the American Society of Cytopathology
   date: '2023-06-13'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37419704
+  image: https://ars.els-cdn.com/content/image/X22132945.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:24086345
@@ -4485,6 +4577,7 @@
   publisher: Bioinformatics (Oxford, England)
   date: '2023-06-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37216914
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c39a/10250081/9c5aaaa435e8/btad333f1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:26062848
@@ -4779,6 +4872,7 @@
   publisher: 'bioRxiv : the preprint server for biology'
   date: '2023-08-29'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37693379
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c09e/10491133/d54b5bc661dc/nihpp-2023.08.28.555119v1-f0001.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:28174896
@@ -5188,6 +5282,7 @@
   publisher: Cytometry. Part B, Clinical cytometry
   date: '2024-05-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38721890
+  image: https://onlinelibrary.wiley.com/cms/asset/0c5d16ce-d050-444a-a61e-ba95421b6790/cyto.b.v106.4.cover.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:20488783
