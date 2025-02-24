@@ -97,8 +97,9 @@
   link: https://doi.org/g842bf
   orcid: 0000-0002-7336-8071
   member: luigi-marchionni
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/08/29/2023.08.28.555119/F1.medium.gif
 - id: doi:10.1016/j.isci.2023.106108
   title: Using biological constraints to improve prediction in precision oncology.
   authors:
@@ -173,8 +174,9 @@
   link: https://doi.org/g842b2
   orcid: 0000-0002-7336-8071
   member: luigi-marchionni
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/09/22/2022.09.20.508244/F1.large.jpg
 - id: doi:10.1101/2022.09.20.508244
   title: Multi-omics biomarkers aid prostate cancer prognostication
   authors:
@@ -193,8 +195,9 @@
   link: https://doi.org/gszj9w
   orcid: 0000-0002-7336-8071
   member: luigi-marchionni
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: null
 - id: doi:10.1038/s41523-022-00474-2
   title: ZNF92, an unexplored transcription factor with remarkably distinct breast
     cancer over-expression associated with prognosis and cell-of-origin
@@ -209,8 +212,9 @@
   link: https://doi.org/g842b3
   orcid: 0000-0002-7336-8071
   member: luigi-marchionni
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41523-022-00474-2/MediaObjects/41523_2022_474_Fig1_HTML.pn
 - id: doi:10.1101/2022.03.14.484280
   title: Unleashing alternative polyadenylation analyses with REPAC
   authors:
@@ -223,8 +227,14 @@
   link: https://doi.org/g842b4
   orcid: 0000-0002-7336-8071
   member: luigi-marchionni
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/05/03/2022.03.14.484280/F3.medium.gif
+  tags:
+  - gene expression
+  - polyadenylation
+  - method
+  - resource
 - id: doi:10.1158/1541-7786.MCR-21-0665
   title: 'Building Tools for Machine Learning and Artificial Intelligence in Cancer
     Research: Best Practices and a Case Study with the PathML Toolkit for Computational
@@ -2426,7 +2436,7 @@
   publisher: Nature communications
   date: '2024-01-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38191471
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1519/10774315/4938ab239bd1/41467_2023_44210_Fig1_HTML.jpg
+  image: images/science/tmePCA.jpg
   tags:
   - prostate cancer
   - TME
@@ -2448,7 +2458,7 @@
   publisher: 'Breast cancer research : BCR'
   date: '2024-09-13'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39272208
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13058-024-01876-9/MediaObjects/13058_2024_1876_Fig1_HTML.png
+  image: images/science/breastTHR.jpg
   tags:
   - breast cancer
   - hormone signaling
@@ -3822,6 +3832,7 @@
   publisher: NPJ breast cancer
   date: '2022-08-29'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36038558
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/47ae/9424319/a802d2a3f3fb/41523_2022_474_Fig1_HTML.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:34880124
@@ -3908,6 +3919,10 @@
   publisher: Diagnostic microbiology and infectious disease
   date: '2022-08-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36122486
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2213294523000601-gr1.jpg
+  tags:
+  - SARS-CoV-2
+  - RNA sequencing
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:33819273
