@@ -266,8 +266,13 @@
   link: https://doi.org/gq5bc7
   orcid: 0000-0002-7336-8071
   member: luigi-marchionni
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/960d/9398095/8f49585199bb/202fig1.jpg
+  tags:
+  - digital pathology
+  - pathML
+  - resource
 - id: doi:10.1101/2021.10.21.465212
   title: 'Building tools for machine learning and artificial intelligence in cancer
     research: best practices and a case study with the PathML toolkit for computational
@@ -289,8 +294,13 @@
   link: https://doi.org/g842b5
   orcid: 0000-0002-7336-8071
   member: luigi-marchionni
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/960d/9398095/8f49585199bb/202fig1.jpg
+  tags:
+  - digital pathology
+  - pathML
+  - resource
 - id: doi:10.1101/2021.09.12.459931
   title: 'Hobotnica: exploring molecular signature quality'
   authors:
@@ -329,8 +339,12 @@
   link: https://doi.org/g842b7
   orcid: 0000-0002-7336-8071
   member: luigi-marchionni
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a612/10318336/a4365e60c675/fx1.jpg
+  tags:
+  - method
+  - genetics
 - id: doi:10.1371/journal.pcbi.1008944
   title: Efficient representations of tumor diversity with paired DNA-RNA aberrations
   authors:
@@ -449,8 +463,14 @@
   link: https://doi.org/g842b8
   orcid: 0000-0002-7336-8071
   member: luigi-marchionni
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1b82/8221796/8fb0565b0a4d/pcbi.1008944.g001.jpg
+  tags:
+  - cancer
+  - tumor heterogeneity
+  - statistical method
+  - resource
 - id: doi:10.1101/720391
   title: An R package for divergence analysis of omics data
   authors:
@@ -2316,6 +2336,7 @@
   - cancer
   - tumor heterogeneity
   - statistical method
+  - resource
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:29666255
@@ -3254,7 +3275,7 @@
   publisher: 'bioRxiv : the preprint server for biology'
   date: '2023-04-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37034687
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/278c/10081210/5f0ed21db182/nihpp-2023.03.29.534769v1-f0001.jpg
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/04/01/2023.03.29.534769/F1.medium.gif
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:32718981
@@ -3864,6 +3885,11 @@
   publisher: 'Molecular cancer research : MCR'
   date: '2021-12-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34880124
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/960d/9398095/8f49585199bb/202fig1.jpg
+  tags:
+  - digital pathology
+  - pathML
+  - resource
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:37419704
