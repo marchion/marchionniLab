@@ -176,7 +176,7 @@
   member: luigi-marchionni
   plugin: sources.py
   file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2022/09/22/2022.09.20.508244/F1.large.jpg
+  image: null
 - id: doi:10.1101/2022.09.20.508244
   title: Multi-omics biomarkers aid prostate cancer prognostication
   authors:
