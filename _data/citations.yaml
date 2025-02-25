@@ -391,8 +391,14 @@
   link: https://doi.org/grmp4r
   orcid: 0000-0002-7336-8071
   member: luigi-marchionni
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1cc9/8021195/4749a0e92fd5/pone.0249002.g003.jpg
+  tags:
+  - method
+  - genomics
+  - transcriptomics
+  - heterogeneity
 - id: doi:10.3390/vaccines9050427
   title: 'Influenza Vaccination and COVID-19 Mortality in the USA: An Ecological Study'
   authors:
@@ -408,8 +414,13 @@
   link: https://doi.org/gmxbqc
   orcid: 0000-0002-7336-8071
   member: luigi-marchionni
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.mdpi.com/vaccines/vaccines-09-00427/article_deploy/html/images/vaccines-09-00427-g003.png
+  tags:
+  - COVID-19
+  - influenza
+  - propensity score
 - id: doi:10.1158/0008-5472.CAN-20-1780
   title: Newly Identified Members of FGFR1 Splice Variants Engage in Cross-talk with
     AXL/AKT Axis in Salivary Adenoid Cystic Carcinoma
@@ -431,8 +442,9 @@
   link: https://doi.org/gpcjkm
   orcid: 0000-0002-7336-8071
   member: luigi-marchionni
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/81/4/10.1158_0008-5472.can-20-1780/2/m_1001fig1.jpeg
 - id: doi:10.1101/2020.06.24.20129817
   title: Influenza Vaccination and COVID19 Mortality in the USA
   authors:
@@ -3814,6 +3826,10 @@
   publisher: Science signaling
   date: '2020-08-18'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32817372
+  image: https://www.science.org/cms/10.1126/scisignal.aba0443/asset/93459db1-a8a5-4834-a857-0c5f27b2cb1e/assets/graphic/aba0443-f1.jpeg
+  tags:
+  - bladder cancer
+  - DNA methylation
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:29180467
@@ -3849,6 +3865,11 @@
   publisher: Vaccines
   date: '2021-04-24'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33923159
+  image: https://www.mdpi.com/vaccines/vaccines-09-00427/article_deploy/html/images/vaccines-09-00427-g003.png
+  tags:
+  - COVID-19
+  - influenza
+  - propensity score
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:36038558
@@ -4065,6 +4086,12 @@
   publisher: Nature communications
   date: '2021-02-10'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33568675
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/97ce/7876147/56842f0683ec/41467_2021_21245_Fig2_HTML.jpg
+  tags:
+  - prostate cancer
+  - health disparities
+  - gene expression
+  - TCGA
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:37216914
@@ -4617,6 +4644,7 @@
   publisher: Cancer research
   date: '2021-01-06'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33408119
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/81/4/10.1158_0008-5472.can-20-1780/2/m_1001fig1.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:29467463
