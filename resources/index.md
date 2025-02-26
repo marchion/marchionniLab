@@ -19,7 +19,7 @@ Our software and datasets
 Here you can download the R Bioconductor package  [divergence](https://bioconductor.org/packages/release/bioc/html/divergence.html)
 
 
-### The [switchBox package](https://bioconductor.org/packages/release/bioc/html/switchBox.html)
+### The [*switchBox*](https://bioconductor.org/packages/release/bioc/html/switchBox.html) package
 - The package offer different classifiers based on comparisons of pair of features (TSP), using various decision rules (e.g., majority wins principle). Here you can download the R Bioconductor package [switchBox](https://bioconductor.org/packages/release/bioc/html/switchBox.html)
 
 ### The [*matchBox*](https://bioconductor.org/packages/release/bioc/html/matchBox.html) package
@@ -34,7 +34,7 @@ Here you can download the R Bioconductor package  [divergence](https://bioconduc
 ## Data packages and other datasets
 {% include section.html %}
 
-### The [*mammaPrintData*](https://bioconductor.org/packages/release/data/experiment/html/mammaPrintData.html package
+### The [*mammaPrintData*](https://bioconductor.org/packages/release/data/experiment/html/mammaPrintData.html) package
 - The package contains gene expression data for the two breast cancer cohorts published by Glas and Buyse in 2006. This cohorts were used to implement and validate the mammaPrint breast cancer test.
 specifically, the package contains RGList objects from the Glas and Buyse breast cancer studies. Here you can download the R Bioconductor package [mammaPrintData](https://bioconductor.org/packages/release/data/experiment/html/mammaPrintData.html)
 
