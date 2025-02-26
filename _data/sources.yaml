@@ -1,3 +1,11 @@
+- id: "doi:10.1101/2021.09.12.459931"
+  image: "https://www.biorxiv.org/content/biorxiv/early/2021/09/15/2021.09.12.459931/F1.medium.gif"
+  tags:
+    - "method"
+    - "gene signatures"
+    - "resource"
+
+
 - id: "doi:10.1101/2022.03.14.484280"
   image: "https://www.biorxiv.org/content/biorxiv/early/2022/05/03/2022.03.14.484280/F3.medium.gif"
   tags:
@@ -46,6 +54,23 @@
     - "tumor heterogeneity"
     - "statistical method"
     - "resource"
+
+- id: "doi:10.1371/journal.pcbi.1008944"
+  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1b82/8221796/8fb0565b0a4d/pcbi.1008944.g001.jpg"
+  tags:
+    - "cancer"
+    - "tumor heterogeneity"
+    - "statistical method"
+    - "resource"
+
+- id: "doi:10.1101/2021.05.25.445604"
+  image: "https://www.biorxiv.org/content/biorxiv/early/2022/09/18/2021.05.25.445604/F2.medium.gif"
+  tags:
+    - "cancer"
+    - "tumor heterogeneity"
+    - "statistical method"
+    - "prediction"
+    - "mechanistic classifier"
 
 - id: "doi:10.1101/2020.04.24.060129"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1b82/8221796/8fb0565b0a4d/pcbi.1008944.g001.jpg"
@@ -280,7 +305,7 @@
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f06b/10985477/8971a4b3b864/347fig1.jpg"
 
 - id: "pubmed:36543879"
-  image: "https://www.researchgate.net/publication/43352174/figure/fig2/AS:280319287676947@1443844734580/Clonal-origination-and-evolution-in-myeloproliferative-neoplasms-MPNs-PV-polycythemia.png"
+  image: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41375-022-01797-6/MediaObjects/41375_2022_1797_Fig1_HTML.png"
 
 - id: "pubmed:33396819"
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4172/7823382/7056f98fb721/metabolites-11-00020-g001.jpg"
@@ -415,7 +440,7 @@
   image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/47ae/9424319/a802d2a3f3fb/41523_2022_474_Fig1_HTML.jpg"
 
 - id: "doi:10.1038/s41523-022-00474-2"
-  image: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41523-022-00474-2/MediaObjects/41523_2022_474_Fig1_HTML.png"
+  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/47ae/9424319/a802d2a3f3fb/41523_2022_474_Fig1_HTML.jpg"
   tags:
     - "cancer"
     - "cell of origin"
@@ -505,6 +530,12 @@
     - "SARS‐CoV‐2"
 
 - id: "pubmed:34569064"
+  image: "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fd8a/8760163/ce9686f00ff9/nihms-1743504-f0002.jpg"
+  tags:
+    - "head and neck cancer"
+    - "gene expression"
+    - "prediction"
+    - "metastasis"
 
 - id: "pubmed:26422827"
 
