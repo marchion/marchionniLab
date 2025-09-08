@@ -1,5 +1,28 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.labinv.2025.104220
+  title: 'Antibody-Based Multiplex Image Analysis: Standard Analytical Workflows and
+    Artificial Intelligence Tools for Pathologists'
+  authors:
+  - Mohamed Omar
+  - "Giuseppe Nicolo\u2019 Fanelli"
+  - Fabio Socciarelli
+  - Varun Ullanat
+  - Sreekar Reddy Puchala
+  - James Wen
+  - Alex Chowdhury
+  - Itzel Valencia
+  - Cristian Scatena
+  - Luigi Marchionni
+  - Renato Umeton
+  - Massimo Loda
+  publisher: Laboratory Investigation
+  date: '2025-10-01'
+  link: https://doi.org/g9v237
+  orcid: 0000-0002-7336-8071
+  member: luigi-marchionni
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1172/JCI171164
   title: YAP1 induces bladder cancer progression and promotes immune evasion through
     IL-6/STAT3 pathway and CXCL deregulation.
@@ -1377,14 +1400,14 @@
   authors:
   - Marcella Ferlito
   - Qihong Wang
-  - William B. Fulton
-  - Paul M. Colombani
+  - William B Fulton
+  - Paul M Colombani
   - Luigi Marchionni
   - Karen Fox-Talbot
   - Nazareno Paolocci
   - Charles Steenbergen
   publisher: The Journal of Immunology
-  date: '2014-04-15'
+  date: '2014-04-01'
   link: https://doi.org/g842cn
   orcid: 0000-0002-7336-8071
   member: luigi-marchionni
@@ -1395,14 +1418,14 @@
   authors:
   - Marcella Ferlito
   - Qihong Wang
-  - William B. Fulton
-  - Paul M. Colombani
+  - William B Fulton
+  - Paul M Colombani
   - Luigi Marchionni
   - Karen Fox-Talbot
   - Nazareno Paolocci
   - Charles Steenbergen
   publisher: The Journal of Immunology
-  date: '2014-02-15'
+  date: '2014-02-01'
   link: https://doi.org/f5spx2
   orcid: 0000-0002-7336-8071
   member: luigi-marchionni
@@ -2918,7 +2941,7 @@
   - "Fenna Cm Sill\xE9"
   - Woonyoung Choi
   - David McConkey
-  - Mohammad Hoque
+  - Mohammad O Hoque
   publisher: The Journal of clinical investigation
   date: '2024-12-04'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39630608
