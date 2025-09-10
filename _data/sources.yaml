@@ -1,10 +1,25 @@
+- id: "pubmed:40805133"
+
+- id: "pubmed:40799573"
+
+- id: "pubmed:40744223"
+
+- id: "pubmed:40343042"
+
+- id: "pubmed:40196116"
+
+- id: "pubmed:40166741"
+
+- id: "pubmed:40010772"
+
+- id: "pubmed:39510141"
+
 - id: "doi:10.1101/2021.09.12.459931"
   image: "https://www.biorxiv.org/content/biorxiv/early/2021/09/15/2021.09.12.459931/F1.medium.gif"
   tags:
     - "method"
     - "gene signatures"
     - "resource"
-
 
 - id: "doi:10.1101/2022.03.14.484280"
   image: "https://www.biorxiv.org/content/biorxiv/early/2022/05/03/2022.03.14.484280/F3.medium.gif"
