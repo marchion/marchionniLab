@@ -9,6 +9,9 @@
     - "digital pathology"
 
 - id: "pubmed:40343042"
+  tags:
+    - "prostate cancer"
+    - "metastasis"
 
 - id: "pubmed:40166741"
   tags:
