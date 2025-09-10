@@ -1,4 +1,7 @@
 - id: "pubmed:40799573"
+  tags:
+    - "gene expression"
+    - "Hodgkin lymphoma"
 
 - id: "pubmed:40744223"
 
