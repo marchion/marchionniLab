@@ -2308,27 +2308,6 @@
   member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
-- id: pubmed:40805133
-  title: Epigenetic Treatment Alters Immune-Related Gene Signatures to Increase the
-    Sensitivity of Anti PD-L1 Drugs.
-  authors:
-  - Chonji Fukumoto
-  - Pritam Sadhukhan
-  - Masahiro Shibata
-  - Muhammed T Ugurlu
-  - Rachel Goldberg
-  - David Sidransky
-  - Luigi Marchionni
-  - "Fenna C M Sill\xE9"
-  - Mohammad Obaidul Hoque
-  publisher: Cancers
-  date: '2025-07-23'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/40805133
-  tags:
-  - immune checkpoint
-  - epigenomics
-  plugin: sources.py
-  file: sources.yaml
 - id: pubmed:39111315
   title: The cytokine Meteorin-like inhibits anti-tumor CD8
   authors:
