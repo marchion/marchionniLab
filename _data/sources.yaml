@@ -1,4 +1,7 @@
 - id: "pubmed:40805133"
+  tags:
+    - "immune checkpoint"
+    - "epigenomics"
 
 - id: "pubmed:40799573"
 
