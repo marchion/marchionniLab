@@ -1,4 +1,8 @@
-   
+- id: "pubmed:40799573"
+  tags:
+    - "hodgkin lymphoma"
+    - "gene expression" 
+
 - id: "doi:10.1101/2021.09.12.459931"
   image: "https://www.biorxiv.org/content/biorxiv/early/2021/09/15/2021.09.12.459931/F1.medium.gif"
   tags:
