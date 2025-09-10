@@ -4,16 +4,31 @@
     - "Hodgkin lymphoma"
 
 - id: "pubmed:40744223"
+  tags:
+    - "artificial intelligence"
+    - "digital pathology"
 
 - id: "pubmed:40343042"
 
 - id: "pubmed:40166741"
+  tags:
+    - "prostate cancer"
+    - "tumor evolution"
 
 - id: "pubmed:40010772"
-   
-- id: "pubmed:39510141"
+  tags:
+    - "tumor-infiltrating lymphocytes"
+    - "lymphocyte exhaustion"
 
+- id: "pubmed:39510141"
+  tags:
+    - "prostate cancer"
+    - "metastasis"
+    
 - id: "pubmed:40805133"
+  tags:
+    - "epigenetics"
+    - "immune check-point inhibition"
 
 - id: "doi:10.1101/2021.09.12.459931"
   image: "https://www.biorxiv.org/content/biorxiv/early/2021/09/15/2021.09.12.459931/F1.medium.gif"
