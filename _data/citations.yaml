@@ -2335,6 +2335,9 @@
   publisher: 'bioRxiv : the preprint server for biology'
   date: '2025-08-07'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40799573
+  tags:
+  - gene expression
+  - Hodgkin lymphoma
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:40744223
