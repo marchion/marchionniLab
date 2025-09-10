@@ -2335,9 +2335,210 @@
   publisher: 'bioRxiv : the preprint server for biology'
   date: '2025-08-07'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40799573
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:40744223
+  title: 'Antibody-Based Multiplex Image Analysis: Standard Analytical Workflows and
+    Artificial Intelligence Tools for Pathologists.'
+  authors:
+  - Mohamed Omar
+  - Giuseppe Nicolo' Fanelli
+  - Fabio Socciarelli
+  - Varun Ullanat
+  - Sreekar Reddy Puchala
+  - James Wen
+  - Alex Chowdhury
+  - Itzel Valencia
+  - Cristian Scatena
+  - Luigi Marchionni
+  - Renato Umeton
+  - Massimo Loda
+  publisher: Laboratory investigation; a journal of technical methods and pathology
+  date: '2025-07-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40744223
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:40343042
+  title: Identifying Rare Germline Variants Associated with Metastatic Prostate Cancer
+    Through an Extreme Phenotype Study.
+  authors:
+  - Yen-Yi Lin
+  - Hamideh Sharifi Noghabi
+  - Stanislav Volik
+  - Robert Bell
+  - Funda Sar
+  - Anne Haegert
+  - Hee Chul Chung
+  - Ladan Fazli
+  - Htoo Zarni Oo
+  - Mads Daugaard
+  - Ming-Han Kuo
+  - Sheng-Chieh Hsu
+  - Eddie L Imeda
+  - Claudio Zanettini
+  - Lucio Queiroz
+  - Balthasar Schlotmann
+  - Kazzem Gheybi
+  - Colin Cooper
+  - Zsofia Kote-Jarai
+  - Rosalind Eeles
+  - Hsing-Jien Kung
+  - Luigi Marchionni
+  - Joachim Weischenfeldt
+  - Keith D Miller
+  - Alan Rabinowitz
+  - Yuzhuo Wang
+  - Hai-Feng Zhang
+  - Poul H Sorensen
+  - Mark S Carey
+  - Martin Gleave
+  - Vanessa M Hayes
+  - William T Gibson
+  - Colin C Collins
+  publisher: 'medRxiv : the preprint server for health sciences'
+  date: '2025-04-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40343042
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:40166741
+  title: Causes of evolutionary divergence in prostate cancer.
+  authors:
+  - "Emre Esent\xFCrk"
+  - Atef Sahli
+  - Valeriia Haberland
+  - Aleksandra Ziuboniewicz
+  - Christopher Wirth
+  - G Steven Bova
+  - Robert G Bristow
+  - Mark N Brook
+  - Benedikt Brors
+  - Adam Butler
+  - "G\xE9raldine Cancel-Tassin"
+  - Kevin Cl Cheng
+  - Colin S Cooper
+  - Niall M Corcoran
+  - Olivier Cussenot
+  - Ros A Eeles
+  - Francesco Favero
+  - Clarissa Gerhauser
+  - Abraham Gihawi
+  - Etsehiwot G Girma
+  - Vincent J Gnanapragasam
+  - Andreas J Gruber
+  - Anis Hamid
+  - Vanessa M Hayes
+  - Housheng Hansen He
+  - Christopher M Hovens
+  - Eddie Luidy Imada
+  - G Maria Jakobsdottir
+  - Chol-Hee Jung
+  - Francesca Khani
+  - Zsofia Kote-Jarai
+  - Philippe Lamy
+  - Gregory Leeman
+  - Massimo Loda
+  - Pavlo Lutsik
+  - Luigi Marchionni
+  - Ramyar Molania
+  - Anthony T Papenfuss
+  - Diogo Pellegrina
+  - Bernard Pope
+  - Lucio R Queiroz
+  - Tobias Rausch
+  - "J\xFCri Reimand"
+  - Brian Robinson
+  - Thorsten Schlomm
+  - "Karina D S\xF8rensen"
+  - Sebastian Uhrig
+  - Joachim Weischenfeldt
+  - Yaobo Xu
+  - Takafumi N Yamaguchi
+  - Claudio Zanettini
+  - Andy G Lynch
+  - David C Wedge
+  - Daniel S Brewer
+  - Dan J Woodcock
+  publisher: ArXiv
+  date: '2025-03-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40166741
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:40010772
+  title: Tumor-specific CD8
+  authors:
+  - Elizabeth M Zawidzka
+  - Luca Biavati
+  - Amy Thomas
+  - Claudio Zanettini
+  - Luigi Marchionni
+  - Robert Leone
+  - Ivan Borrello
+  publisher: Journal for immunotherapy of cancer
+  date: '2025-02-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40010772
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39510141
+  title: Validation of an artificial intelligence-based prognostic biomarker in patients
+    with oligometastatic Castration-Sensitive prostate cancer.
+  authors:
+  - Jarey H Wang
+  - Matthew P Deek
+  - Adrianna A Mendes
+  - Yang Song
+  - Amol Shetty
+  - Soha Bazyar
+  - Kim Van der Eecken
+  - Emmalyn Chen
+  - Timothy N Showalter
+  - Trevor J Royce
+  - Tamara Todorovic
+  - Huei-Chung Huang
+  - Scott A Houck
+  - Rikiya Yamashita
+  - Ana P Kiess
+  - Daniel Y Song
+  - Tamara Lotan
+  - Theodore DeWeese
+  - Luigi Marchionni
+  - Lei Ren
+  - Amit Sawant
+  - Nicole Simone
+  - Alejandro Berlin
+  - Cem Onal
+  - Andre Esteva
+  - Felix Y Feng
+  - Phuoc T Tran
+  - Philip Sutera
+  - Piet Ost
+  publisher: 'Radiotherapy and oncology : journal of the European Society for Therapeutic
+    Radiology and Oncology'
+  date: '2024-11-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39510141
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.thegreenjournal.com/cms/10.1016/j.radonc.2024.110618/asset/46e8dc12-dc11-4fef-ab32-f93a821536b4/main.assets/gr1.jpg
   tags:
-  - hodgkin lymphoma
-  - gene expression
+  - prostate cancer
+  - cancer
+  - radiotherapy
+  - ROBIN
+- id: pubmed:40805133
+  title: Epigenetic Treatment Alters Immune-Related Gene Signatures to Increase the
+    Sensitivity of Anti PD-L1 Drugs.
+  authors:
+  - Chonji Fukumoto
+  - Pritam Sadhukhan
+  - Masahiro Shibata
+  - Muhammed T Ugurlu
+  - Rachel Goldberg
+  - David Sidransky
+  - Luigi Marchionni
+  - "Fenna C M Sill\xE9"
+  - Mohammad Obaidul Hoque
+  publisher: Cancers
+  date: '2025-07-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40805133
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:39111315
@@ -3743,51 +3944,6 @@
   - prostate cancer
   - PTEN
   - gene expression
-  plugin: sources.py
-  file: sources.yaml
-- id: pubmed:39510141
-  title: Validation of an artificial intelligence-based prognostic biomarker in patients
-    with oligometastatic Castration-Sensitive prostate cancer.
-  authors:
-  - Jarey H Wang
-  - Matthew P Deek
-  - Adrianna A Mendes
-  - Yang Song
-  - Amol Shetty
-  - Soha Bazyar
-  - Kim Van der Eecken
-  - Emmalyn Chen
-  - Timothy N Showalter
-  - Trevor J Royce
-  - Tamara Todorovic
-  - Huei-Chung Huang
-  - Scott A Houck
-  - Rikiya Yamashita
-  - Ana P Kiess
-  - Daniel Y Song
-  - Tamara Lotan
-  - Theodore DeWeese
-  - Luigi Marchionni
-  - Lei Ren
-  - Amit Sawant
-  - Nicole Simone
-  - Alejandro Berlin
-  - Cem Onal
-  - Andre Esteva
-  - Felix Y Feng
-  - Phuoc T Tran
-  - Philip Sutera
-  - Piet Ost
-  publisher: 'Radiotherapy and oncology : journal of the European Society for Therapeutic
-    Radiology and Oncology'
-  date: '2024-11-06'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/39510141
-  image: https://www.thegreenjournal.com/cms/10.1016/j.radonc.2024.110618/asset/46e8dc12-dc11-4fef-ab32-f93a821536b4/main.assets/gr1.jpg
-  tags:
-  - prostate cancer
-  - cancer
-  - radiotherapy
-  - ROBIN
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:28411178
