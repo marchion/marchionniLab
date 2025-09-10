@@ -7,9 +7,9 @@ aliases:
   - EL Imada
 image: images/team/Eddie.jpg
 role: collaborator
-group: alum
-description: Lead programmer and RNA expert
-affiliation: Weill Cornell Medicine
+group: former
+description: Assistant Professor and RNA expert
+affiliation: Johns Hopkins University
 links:
   inpubmed: "https://pubmed.ncbi.nlm.nih.gov/?term=Eddie+Luidy+Imada"
   email: eli4001@med.cornell.edu

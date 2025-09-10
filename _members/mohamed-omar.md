@@ -7,7 +7,7 @@ aliases:
 image: images/team/Mohamed.png
 role: collaborator
 group: former
-description: Digital pathology expert
+description: Assistant Professor and Digital pathology expert
 affiliation: Cedar Sinai
 links:
   home-page: https://researchers.cedars-sinai.edu/Mohamed.Omar

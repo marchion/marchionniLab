@@ -5,10 +5,10 @@ aliases:
   - M Alexanderani
   - M. Alexanderani
 image: images/team/Mohammad.jpg
-role: postdoc
-group: alum
-description: Digital pathology expert
-affiliation: Weill Cornell Medicine
+role: collaborator
+group: former
+description: Assistant Professor and digital pathology expert
+affiliation: University of Pittsburgh
 links:
   home-page: https://directory.weill.cornell.edu/person/profile/mom4011
   inpubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Mohammad+Alexanderani"

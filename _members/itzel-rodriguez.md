@@ -5,8 +5,8 @@ aliases:
   - I Valencia
   - I. Valencia
 image: images/team/Itzel.jpg
-role: research-analyst
-group: alum
+role: graduate student
+group: former
 description: Lead programmer and RNA expert
 affiliation: Weill Cornell Medicine
 links:
