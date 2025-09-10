@@ -2359,6 +2359,9 @@
   publisher: Laboratory investigation; a journal of technical methods and pathology
   date: '2025-07-29'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40744223
+  tags:
+  - artificial intelligence
+  - digital pathology
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:40343042
@@ -2464,6 +2467,9 @@
   publisher: ArXiv
   date: '2025-03-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40166741
+  tags:
+  - prostate cancer
+  - tumor evolution
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:40010772
@@ -2479,6 +2485,9 @@
   publisher: Journal for immunotherapy of cancer
   date: '2025-02-25'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40010772
+  tags:
+  - tumor-infiltrating lymphocytes
+  - lymphocyte exhaustion
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:39510141
@@ -2518,14 +2527,14 @@
     Radiology and Oncology'
   date: '2024-11-06'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39510141
-  plugin: sources.py
-  file: sources.yaml
-  image: https://www.thegreenjournal.com/cms/10.1016/j.radonc.2024.110618/asset/46e8dc12-dc11-4fef-ab32-f93a821536b4/main.assets/gr1.jpg
   tags:
   - prostate cancer
   - cancer
   - radiotherapy
   - ROBIN
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.thegreenjournal.com/cms/10.1016/j.radonc.2024.110618/asset/46e8dc12-dc11-4fef-ab32-f93a821536b4/main.assets/gr1.jpg
 - id: pubmed:40805133
   title: Epigenetic Treatment Alters Immune-Related Gene Signatures to Increase the
     Sensitivity of Anti PD-L1 Drugs.
@@ -2542,6 +2551,9 @@
   publisher: Cancers
   date: '2025-07-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40805133
+  tags:
+  - epigenetics
+  - immune check-point inhibition
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:39111315
