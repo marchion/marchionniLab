@@ -2308,6 +2308,38 @@
   member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
+- id: pubmed:40799573
+  title: Transcriptome sequencing of Hodgkin lymphoma Hodgkin and Reed-Stenberg cells
+    reveals escape from NK cell recognition and an unfolded protein response.
+  authors:
+  - Mikhail Roshal
+  - Isabella Y Kong
+  - Wikum Dinalankara
+  - Jonathan B Reichel
+  - Matthew Teater
+  - Bhavneet Binder
+  - Sakellarios Zairis
+  - Joshua D Brody
+  - Sunita I Park
+  - Alexandra E Kovach
+  - Matthew J Oberley
+  - Megan S Lim
+  - Matthew J Barth
+  - Olivier Elemento
+  - Ari Melnick
+  - Raul Rabadan
+  - Amy Chadburn
+  - Luigi Marchionni
+  - Lisa Giulino-Roth
+  - Ethel Cesarman
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2025-08-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40799573
+  tags:
+  - hodgkin lymphoma
+  - gene expression
+  plugin: sources.py
+  file: sources.yaml
 - id: pubmed:39111315
   title: The cytokine Meteorin-like inhibits anti-tumor CD8
   authors:
