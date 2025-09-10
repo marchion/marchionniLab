@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Ed ecco i progetti a cui stiamo lavorando
+Here are the projects we are working on...
 
 {% include tags.html tags="biology, bioinformatics, cancer" %}
 
