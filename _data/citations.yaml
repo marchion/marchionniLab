@@ -1,5 +1,206 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.08.03.742387
+  title: Common germline polymorphisms and somatic cancer mutations exhibit non-random
+    positional overlap across the human genome
+  authors:
+  - Thais Silva Tavares
+  - Daniela Souza Lima Barbosa
+  - Renan Pedra de Souza
+  - Roger Gomes da Silva
+  - Thiago Peixoto Leal
+  - Maycon Douglas de Oliveira
+  - Carolina Silva de Carvalho
+  - Luigi Marchionni
+  - Mateus Henrique Gouveia
+  - Francisco Pereira Lobo
+  publisher: openRxiv
+  date: '2026-08-07'
+  link: https://doi.org/hcf799
+  orcid: 0000-0002-7336-8071
+  member: luigi-marchionni
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.radmp.2026.03.002
+  title: Radiomic analysis of pre-treatment prostate-specific membrane antigen (PSMA)
+    PET/CT for prognostic stratification in patients with oligometastatic castration-sensitive
+    prostate cancer
+  authors:
+  - Yufeng Cao
+  - Philip Sutera
+  - William Silva Mendes
+  - Zhuoran Jiang
+  - Amit Sawant
+  - Luigi Marchionni
+  - Nicole L. Simone
+  - Ozan Cem Guler
+  - Phuoc T. Tran
+  - Cem Onal
+  - Lei Ren
+  publisher: Radiation Medicine and Protection
+  date: '2026-04-01'
+  link: https://doi.org/hcf8bb
+  orcid: 0000-0002-7336-8071
+  member: luigi-marchionni
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1541-7786.c.6983057
+  title: 'Data from Building Tools for Machine Learning and Artificial Intelligence
+    in Cancer Research: Best Practices and a Case Study with the PathML Toolkit for
+    Computational Pathology'
+  authors:
+  - Jacob Rosenthal
+  - Ryan Carelli
+  - Mohamed Omar
+  - David Brundage
+  - Ella Halbert
+  - Jackson Nyman
+  - Surya N. Hari
+  - Eliezer M. Van Allen
+  - Luigi Marchionni
+  - Renato Umeton
+  - Massimo Loda
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-11-26'
+  link: https://doi.org/g84z9z
+  orcid: 0000-0002-7336-8071
+  member: luigi-marchionni
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1541-7786.30723822
+  title: 'Supplementary Figure 1 from Building Tools for Machine Learning and Artificial
+    Intelligence in Cancer Research: Best Practices and a Case Study with the PathML
+    Toolkit for Computational Pathology'
+  authors:
+  - Jacob Rosenthal
+  - Ryan Carelli
+  - Mohamed Omar
+  - David Brundage
+  - Ella Halbert
+  - Jackson Nyman
+  - Surya N. Hari
+  - Eliezer M. Van Allen
+  - Luigi Marchionni
+  - Renato Umeton
+  - Massimo Loda
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-11-26'
+  link: https://doi.org/hcf8bc
+  orcid: 0000-0002-7336-8071
+  member: luigi-marchionni
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1541-7786.30723819
+  title: 'Supplementary Table 1 from Building Tools for Machine Learning and Artificial
+    Intelligence in Cancer Research: Best Practices and a Case Study with the PathML
+    Toolkit for Computational Pathology'
+  authors:
+  - Jacob Rosenthal
+  - Ryan Carelli
+  - Mohamed Omar
+  - David Brundage
+  - Ella Halbert
+  - Jackson Nyman
+  - Surya N. Hari
+  - Eliezer M. Van Allen
+  - Luigi Marchionni
+  - Renato Umeton
+  - Massimo Loda
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-11-26'
+  link: https://doi.org/hcf8bd
+  orcid: 0000-0002-7336-8071
+  member: luigi-marchionni
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1541-7786.30723816
+  title: 'Supplementary Vignette 1 from Building Tools for Machine Learning and Artificial
+    Intelligence in Cancer Research: Best Practices and a Case Study with the PathML
+    Toolkit for Computational Pathology'
+  authors:
+  - Jacob Rosenthal
+  - Ryan Carelli
+  - Mohamed Omar
+  - David Brundage
+  - Ella Halbert
+  - Jackson Nyman
+  - Surya N. Hari
+  - Eliezer M. Van Allen
+  - Luigi Marchionni
+  - Renato Umeton
+  - Massimo Loda
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-11-26'
+  link: https://doi.org/hcf8bf
+  orcid: 0000-0002-7336-8071
+  member: luigi-marchionni
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1541-7786.30723813
+  title: 'Supplementary Vignette 2 from Building Tools for Machine Learning and Artificial
+    Intelligence in Cancer Research: Best Practices and a Case Study with the PathML
+    Toolkit for Computational Pathology'
+  authors:
+  - Jacob Rosenthal
+  - Ryan Carelli
+  - Mohamed Omar
+  - David Brundage
+  - Ella Halbert
+  - Jackson Nyman
+  - Surya N. Hari
+  - Eliezer M. Van Allen
+  - Luigi Marchionni
+  - Renato Umeton
+  - Massimo Loda
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-11-26'
+  link: https://doi.org/hcf8bg
+  orcid: 0000-0002-7336-8071
+  member: luigi-marchionni
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1541-7786.30723810
+  title: 'Supplementary Vignette 3 from Building Tools for Machine Learning and Artificial
+    Intelligence in Cancer Research: Best Practices and a Case Study with the PathML
+    Toolkit for Computational Pathology'
+  authors:
+  - Jacob Rosenthal
+  - Ryan Carelli
+  - Mohamed Omar
+  - David Brundage
+  - Ella Halbert
+  - Jackson Nyman
+  - Surya N. Hari
+  - Eliezer M. Van Allen
+  - Luigi Marchionni
+  - Renato Umeton
+  - Massimo Loda
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-11-26'
+  link: https://doi.org/hcf8bh
+  orcid: 0000-0002-7336-8071
+  member: luigi-marchionni
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nargab/lqaf176
+  title: 'Isoformic: a workflow for transcript-level RNA-seq interpretation'
+  authors:
+  - Izabela Mamede
+  - Lucio R Queiroz
+  - Carlos Mata-Machado
+  - "J\xFAlia Teixeira Rodrigues"
+  - Thomaz Luscher-Dias
+  - "Nayara E de\_Toledo"
+  - Paulo P Amaral
+  - Luigi Marchionni
+  - Gloria R Franco
+  publisher: NAR Genomics and Bioinformatics
+  date: '2025-10-07'
+  link: https://doi.org/hcf8bj
+  orcid: 0000-0002-7336-8071
+  member: luigi-marchionni
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.labinv.2025.104220
   title: 'Antibody-Based Multiplex Image Analysis: Standard Analytical Workflows and
     Artificial Intelligence Tools for Pathologists'
@@ -39,9 +240,9 @@
   - "Fenna C.M. Sill\xE9"
   - Woonyoung Choi
   - David McConkey
-  - Mohammad Hoque
+  - Mohammad O. Hoque
   publisher: Journal of Clinical Investigation
-  date: '2025-01-16'
+  date: '2024-11-21'
   link: https://doi.org/g84z9v
   orcid: 0000-0002-7336-8071
   member: luigi-marchionni
@@ -65,7 +266,7 @@
   - Cristian Scatena
   - Luigi Marchionni
   - Mohamed Omar
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-08-31'
   link: https://doi.org/g84z9w
   orcid: 0000-0002-7336-8071
@@ -104,9 +305,9 @@
   - machine learning
   - algorithm
 - id: doi:10.1101/2023.08.28.555119
-  title: Tumor-Specific CD8<sup>+</sup>T Cells from the Bone Marrow Resist Exhaustion
-    and Exhibit Increased Persistence in Tumor-Bearing Hosts as Compared to Tumor
-    Infiltrating Lymphocytes
+  title: "Tumor-Specific CD8\n                  <sup>+</sup>\n                  T\
+    \ Cells from the Bone Marrow Resist Exhaustion and Exhibit Increased Persistence\
+    \ in Tumor-Bearing Hosts as Compared to Tumor Infiltrating Lymphocytes"
   authors:
   - Elizabeth M. Zawidzka
   - Luca Biavati
@@ -115,7 +316,7 @@
   - Luigi Marchionni
   - Robert Leone
   - Ivan Borrello
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-08-29'
   link: https://doi.org/g842bf
   orcid: 0000-0002-7336-8071
@@ -192,7 +393,7 @@
   - Tamara L. Lotan
   - Massimo Loda
   - Luigi Marchionni
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-11-20'
   link: https://doi.org/g842b2
   orcid: 0000-0002-7336-8071
@@ -213,7 +414,7 @@
   - Eddie Imada
   - Massimo Loda
   - Luigi Marchionni
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-09-22'
   link: https://doi.org/gszj9w
   orcid: 0000-0002-7336-8071
@@ -255,7 +456,7 @@
   - Christopher Wilks
   - Ben Langmead
   - Luigi Marchionni
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-03-16'
   link: https://doi.org/g842b4
   orcid: 0000-0002-7336-8071
@@ -312,7 +513,7 @@
   - Luigi Marchionni
   - Renato Umeton
   - Massimo Loda
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-10-24'
   link: https://doi.org/g842b5
   orcid: 0000-0002-7336-8071
@@ -334,7 +535,7 @@
   - Sarah Wheelan
   - Luigi Marchionni
   - Yulia A. Medvedeva
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-09-15'
   link: https://doi.org/g842b6
   orcid: 0000-0002-7336-8071
@@ -362,7 +563,7 @@
   - Gabriel Magno de Freitas Almeida
   - Felipe Campelo
   - Francisco Pereira Lobo
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-08-27'
   link: https://doi.org/g842b7
   orcid: 0000-0002-7336-8071
@@ -406,7 +607,7 @@
   - Laurent Younes
   - Donald Geman
   - Luigi Marchionni
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-05-27'
   link: https://doi.org/gkcc43
   orcid: 0000-0002-7336-8071
@@ -496,7 +697,7 @@
   - Elizabeth Colantuoni
   - Giovanni Parmigiani
   - Luigi Marchionni
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-06-26'
   link: https://doi.org/gg8ms2
   orcid: 0000-0002-7336-8071
@@ -511,7 +712,7 @@
   - Laurent Younes
   - Donald Geman
   - Luigi Marchionni
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-04-25'
   link: https://doi.org/g842b8
   orcid: 0000-0002-7336-8071
@@ -531,7 +732,7 @@
   - Qian Ke
   - Donald Geman
   - Luigi Marchionni
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-08-13'
   link: https://doi.org/gf6j89
   orcid: 0000-0002-7336-8071
@@ -980,8 +1181,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/JVI.02869-15
-  title: "Human T\n            <sub>h</sub>\n            17 Cells Lack HIV-Inhibitory\
-    \ RNases and Are Highly Permissive to Productive HIV Infection"
+  title: "Human T\n                    <sub>h</sub>\n                    17 Cells\
+    \ Lack HIV-Inhibitory RNases and Are Highly Permissive to Productive HIV Infection"
   authors:
   - Aaron Christensen-Quick
   - Mark Lafferty
@@ -1212,13 +1413,13 @@
   - Yi Yang
   - Raghothama Chaerkady
   - Brian Godsey
-  - Joshua T. Mendell
-  - Marc K. Halushka
-  - Curt I. Civin
+  - Joshua T Mendell
+  - Marc K Halushka
+  - Curt I Civin
   - Luigi Marchionni
   - Akhilesh Pandey
   publisher: Molecular BioSystems
-  date: '2015-01-01'
+  date: '2014-10-23'
   link: https://doi.org/g842cm
   orcid: 0000-0002-7336-8071
   member: luigi-marchionni
@@ -1600,8 +1801,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/JVI.01297-13
-  title: High Levels of CD2 Expression Identify HIV-1 Latently Infected Resting Memory
-    CD4<sup>+</sup>T Cells in Virally Suppressed Subjects
+  title: "High Levels of CD2 Expression Identify HIV-1 Latently Infected Resting Memory\
+    \ CD4\n                    <sup>+</sup>\n                    T Cells in Virally\
+    \ Suppressed Subjects"
   authors:
   - Maria Iglesias-Ussel
   - Claire Vandergeeten
@@ -2017,8 +2219,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-08-4210
-  title: A Primary Xenograft Model of Small-Cell Lung Cancer Reveals Irreversible
-    Changes in Gene Expression Imposed by Culture<i>In vitro</i>
+  title: "A Primary Xenograft Model of Small-Cell Lung Cancer Reveals Irreversible\
+    \ Changes in Gene Expression Imposed by Culture\n                    <i>In vitro</i>"
   authors:
   - Vincent C. Daniel
   - Luigi Marchionni
@@ -2309,7 +2511,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pubmed:40799573
-  title: Transcriptome sequencing of Hodgkin lymphoma Hodgkin and Reed-Stenberg cells
+  title: Transcriptome sequencing of Hodgkin lymphoma Hodgkin and Reed-Sternberg cells
     reveals escape from NK cell recognition and an unfolded protein response.
   authors:
   - Mikhail Roshal
@@ -2333,7 +2535,7 @@
   - Lisa Giulino-Roth
   - Ethel Cesarman
   publisher: 'bioRxiv : the preprint server for biology'
-  date: '2025-08-07'
+  date: '2025-10-27'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40799573
   tags:
   - gene expression
