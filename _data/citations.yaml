@@ -2510,6 +2510,460 @@
   member: luigi-marchionni
   plugin: orcid.py
   file: orcid.yaml
+- id: pubmed:42745000
+  title: Type 1 interferon perturbates clonal competition by reshaping human blood
+    development.
+  authors:
+  - Chhiring Lama
+  - Danielle Isakov
+  - Shira Rosenberg
+  - "Miguel Quijada-\xC1lamo"
+  - Mirca S Saurty-Seerunghen
+  - Sara Moein
+  - Mathis Nozais
+  - Tsega-Ab Abera
+  - Olivia Sakaguchi
+  - Mansi Totwani
+  - Grace Freed
+  - Leila Zaydon
+  - Chi-Lam Poon
+  - Neelang Parghi
+  - Andrea Kubas-Meyer
+  - Amy X Xie
+  - Mohamed Omar
+  - Daniel Choi
+  - Franco Castillo-Tokumori
+  - Ghaith Abu-Zeinah
+  - Alicia Dillard
+  - Saravanan Ganesan
+  - Nathaniel D Omans
+  - Neville Dusaj
+  - Paulina Chamely
+  - Eleni Mimitou
+  - Peter Smibert
+  - Heidi E Kosiorek
+  - Amylou C Dueck
+  - Rona Weinberg
+  - Ronan Chaligne
+  - Bridget Marcellino
+  - Luigi Marchionni
+  - Sanjay Patel
+  - Paul Simonson
+  - Dan A Landau
+  - Elvin Wagenblast
+  - Ronald Hoffman
+  - Anna S Nam
+  publisher: Nature genetics
+  date: '2026-09-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42745000
+  tags:
+  - human blood development
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:42717097
+  title: Integrated signatures define mutational processes in prostate cancer.
+  authors:
+  - Andreas J Gruber
+  - "Andr\xE9 V Olsen"
+  - Barbara Hernando
+  - Kevin C L Cheng
+  - "Clarissa Gerh\xE4user"
+  - Marina Torres
+  - Francesco Favero
+  - Daria Kiriy
+  - "\xC1ngel Fern\xE1ndez-Sanrom\xE1n"
+  - Juan Maria Roldan-Romero
+  - Lucy Barton
+  - Diogo Pellegrina
+  - G Steven Bova
+  - Daniel S Brewer
+  - Mark N Brook
+  - Benedikt Brors
+  - Adam Butler
+  - "G\xE9raldine Cancel-Tassin"
+  - Niall M Corcoran
+  - Olivier Cussenot
+  - Abraham Gihawi
+  - Etsehiwot G Girma
+  - Vincent J Gnanapragasam
+  - Anis A Hamid
+  - Vanessa M Hayes
+  - Housheng Hansen He
+  - Christopher M Hovens
+  - Eddie L Imada
+  - G Maria Jakobsdottir
+  - Chol-Hee Jung
+  - Francesca Khani
+  - Zsofia Kote-Jarai
+  - Philippe Lamy
+  - Gregory Leeman
+  - Massimo Loda
+  - Pavlo Lutsik
+  - Luigi Marchionni
+  - Ramyar Molania
+  - Anthony T Papenfuss
+  - Bernard Pope
+  - Lucio R Queiroz
+  - Tobias Rausch
+  - Brian Robinson
+  - Atef Sahli
+  - "Karina D S\xF8rensen"
+  - Takafumi N Yamaguchi
+  - Sebastian Uhrig
+  - Yaobo Xu
+  - Claudio Zanettini
+  - Ronald Simon
+  - Guido Sauter
+  - Ros A Eeles
+  - Colin S Cooper
+  - Robert G Bristow
+  - David C Wedge
+  - Thorsten Schlomm
+  - Geoff Macintyre
+  - "J\xFCri Reimand"
+  - Joachim Weischenfeldt
+  publisher: Nature
+  date: '2026-09-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42717097
+  tags:
+  - mutational processes
+  - prostate cancer
+  - PPCG
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:42716948
+  title: Recurrent mechanisms of biallelic epigenetic inactivation reveal new putative
+    tumour suppressor genes in prostate cancer.
+  authors:
+  - Daria Kiriy
+  - Francesco Favero
+  - "Clarissa Gerh\xE4user"
+  - Jessica Heilmann
+  - Pavlo Lutsik
+  - Francisco German Rodriguez Gonzalez
+  - Alessio Locallo
+  - Jakob Schmidt Jespersen
+  - Andreas J Gruber
+  - Andre V Olsen
+  - Barbara Hernando
+  - Kevin Cl Cheng
+  - Diogo Pellegrina
+  - Geoff Macintyre
+  - G Steven Bova
+  - Daniel S Brewer
+  - Robert G Bristow
+  - Mark N Brook
+  - Benedikt Brors
+  - Adam Butler
+  - "G\xE9raldine Cancel-Tassin"
+  - Niall M Corcoran
+  - Olivier Cussenot
+  - Ros A Eeles
+  - Abraham Gihawi
+  - Etsehiwot G Girma
+  - Vincent J Gnanapragasam
+  - Anis Hamid
+  - Vanessa M Hayes
+  - Housheng Hansen He
+  - Christopher M Hovens
+  - Eddie L Imada
+  - G Maria Jakobsdottir
+  - Chol-Hee Jung
+  - Francesca Khani
+  - Zsofia Kote-Jarai
+  - Philippe P Lamy
+  - Gregory Leeman
+  - Massimo Loda
+  - Luigi Marchionni
+  - Ramyar Molania
+  - Anthony T Papenfuss
+  - Bernard Pope
+  - Lucio R Queiroz
+  - Tobias Rausch
+  - Brian Robinson
+  - Atef Sahli
+  - "Karina D S\xF8rensen"
+  - Sebastian Uhrig
+  - David C Wedge
+  - Yaobo Xu
+  - Takafumi N Yamaguchi
+  - Claudio Zanettini
+  - Colin S Cooper
+  - Thorsten Schlomm
+  - "J\xFCri Reimand"
+  - Joachim Weischenfeldt
+  publisher: Nature communications
+  date: '2026-09-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42716948
+  tags:
+  - mutational processes
+  - prostate cancer
+  - PPCG
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:42020367
+  title: Transcriptome sequencing of Hodgkin lymphoma Hodgkin and Reed-Sternberg cells
+    reveals escape from NK cell recognition and an unfolded protein response.
+  authors:
+  - Mikhail Roshal
+  - Isabella Y Kong
+  - Wikum Dinalankara
+  - Jonathan B Reichel
+  - Matthew Teater
+  - Bhavneet Binder
+  - Sakellarios Zairis
+  - Joshua D Brody
+  - Sunita I Park
+  - Alexandra E Kovach
+  - Nitya Gulati
+  - Matthew J Oberley
+  - Megan S Lim
+  - Matthew J Barth
+  - Olivier Elemento
+  - Ari Melnick
+  - Raul Rabadan
+  - Amy Chadburn
+  - Luigi Marchionni
+  - Lisa Giulino-Roth
+  - Ethel Cesarman
+  publisher: Blood cancer journal
+  date: '2026-04-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42020367
+  tags:
+  - Hodgkin Lymphoma
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:41941260
+  title: 'Radiation Oncology-Biology Integration Network: Bridging the Gap between
+    Biological Research and Clinical Practice.'
+  authors:
+  - Fabiana Gregucci
+  - Christine Lee-Poturalski
+  - Madelyn Dirrim
+  - Jadyn Stewart
+  - Douglas Caruthers
+  - Charles D Stiles
+  - Kathy Hentrich
+  - Jessica Cardenas
+  - Timothy A Chan
+  - David S Yu
+  - Phuoc Tran
+  - Nicole Simone
+  - Amit Sawant
+  - Julie Schwarz
+  - Clifford Robinson
+  - Daphne Haas-Kogan
+  - Franziska Michor
+  - Claire Vanpouille-Box
+  - John Ng
+  - Yasmin Hasan
+  - Jennifer Yu
+  - Lei Ren
+  - Luigi Marchionni
+  - Geoffrey Hugo
+  - Ross Berbeco
+  - Jean L Nakamura
+  - James Lindsay
+  - Xiaofeng Yang
+  - Joseph O Deasy
+  - Ralph R Weichselbaum
+  - Silvia C Formenti
+  publisher: 'Clinical cancer research : an official journal of the American Association
+    for Cancer Research'
+  date: '2026-06-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41941260
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:41838988
+  title: TNIK Overexpression Is Sufficient for Chemoradiation Resistance in Limited-Stage
+    Small Cell Lung Cancer.
+  authors:
+  - Dipanwita Dutta Chowdhury
+  - Eddie L Imada
+  - Nick Connis
+  - Jinhee Chang
+  - Aaron Chan
+  - Hwai Wei Tseng
+  - Audrey Lafargue
+  - Francesca A Carrieri
+  - Triet Nguyen
+  - Danielle N Waters
+  - Elan R Simms
+  - Amol C Shetty
+  - Yang Song
+  - Muhammad Ajmal Khan
+  - Mohammad Rezaee
+  - Phuoc T Tran
+  - Luigi Marchionni
+  - Christine L Hann
+  publisher: Molecular cancer therapeutics
+  date: '2026-09-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41838988
+  tags:
+  - small cell lung cancer
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:41720768
+  title: Crosstalk between EZH2 and DNA methylation mediates neuroendocrine prostate
+    cancer lineage plasticity.
+  authors:
+  - Richa Singh
+  - Varadha Balaji Venkadakrishnan
+  - Eddie Imada
+  - Yasutaka Yamada
+  - Nicholas J Brady
+  - Kate E Dunmore
+  - Richard Garner
+  - Matthew A Booker
+  - Brian Hanratty
+  - Michael C Haffner
+  - Michael Y Tolstorukov
+  - Luigi Marchionni
+  - Brian D Robinson
+  - David S Rickman
+  - Himisha Beltran
+  publisher: Nature communications
+  date: '2026-02-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41720768
+  tags:
+  - prostate cancer
+  - cell plasticity
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:41700529
+  title: Automated CLL cell population detection using a weakly supervised approach
+    and CLL MRD flow cytometry data.
+  authors:
+  - Wikum Dinalankara
+  - Chandler Sy
+  - Jiani Chai
+  - Paul B Barone
+  - Luigi Marchionni
+  - Paul D Simonson
+  publisher: Cytometry. Part B, Clinical cytometry
+  date: '2026-02-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41700529
+  tags:
+  - flow cytometry
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:41347231
+  title: 'Isoformic: a workflow for transcript-level RNA-seq interpretation.'
+  authors:
+  - Izabela Mamede
+  - Lucio R Queiroz
+  - Carlos Mata-Machado
+  - "J\xFAlia Teixeira Rodrigues"
+  - Thomaz Luscher-Dias
+  - Nayara E de Toledo
+  - Paulo P Amaral
+  - Luigi Marchionni
+  - Gloria R Franco
+  publisher: NAR genomics and bioinformatics
+  date: '2025-12-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41347231
+  tags:
+  - gene isoforms
+  - computational methods
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:41219859
+  title: Changing epidemiology of SARS-CoV-2 positivity rates in a diverse population
+    of children and adults during variant evolution and progressive vaccination eligibility
+    in New York City.
+  authors:
+  - Priya D Velu
+  - Charlene Thomas
+  - Sophie Rand
+  - Eddie Imada
+  - Claudio Zanettini
+  - Jin-Young Han
+  - Zachary Grinspan
+  - Erika L Abramson
+  - Luigi Marchionni
+  - Melissa M Cushing
+  - Karen P Acker
+  publisher: BMC infectious diseases
+  date: '2025-11-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41219859
+  tags:
+  - COVID19
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:41038821
+  title: Pathogenic variants reveal candidate genes for prostate cancer germline testing
+    for men of African ancestry.
+  authors:
+  - Kazzem Gheybi
+  - Pamela X Y Soh
+  - Jue Jiang
+  - Tumisang M N Mbeki
+  - Melanie Louw
+  - Daniel Burns
+  - Piyushkumar Mundra
+  - Daria Kiriy
+  - Md Mehedi Hasan
+  - Weerachai Jaratlerdsiri
+  - Maphuti Tebogo Lebelo
+  - Raymond A Campbell
+  - Mulalo B Radzuma
+  - Mukudeni Nenzhelele
+  - Muvhulawa Obida
+  - Martin Obida
+  - Winstar M Ombuki
+  - Micah O Oyaro
+  - Sean M Patrick
+  - Massimo Loda
+  - David C Wedge
+  - Robert G Bristow
+  - Daniel S Brewer
+  - Colin S Cooper
+  - "J\xFCri Reimand"
+  - Geraldine Cancel-Tassin
+  - Olivier Cussenot
+  - Chris M Hovens
+  - Niall M Cocoran
+  - Phillip D Stricker
+  - Thorsten Schlomm
+  - Gail S Prins
+  - "Karina Dalsgaard S\xF8rensen"
+  - Joachim Weischenfeldt
+  - Shingai B A Mutambirwa
+  - Peter M Ngugi
+  - David M Thomas
+  - Zsofia Kote-Jarai
+  - Rosalind A Eeles
+  - M S Riana Bornman
+  - Vanessa M Hayes
+  publisher: Nature communications
+  date: '2025-10-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41038821
+  tags:
+  - prostate cancer
+  - PPCG
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:40805133
+  title: Epigenetic Treatment Alters Immune-Related Gene Signatures to Increase the
+    Sensitivity of Anti PD-L1 Drugs.
+  authors:
+  - Chonji Fukumoto
+  - Pritam Sadhukhan
+  - Masahiro Shibata
+  - Muhammed T Ugurlu
+  - Rachel Goldberg
+  - David Sidransky
+  - Luigi Marchionni
+  - "Fenna C M Sill\xE9"
+  - Mohammad Obaidul Hoque
+  publisher: Cancers
+  date: '2025-07-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40805133
+  tags:
+  - epigenetics
+  - immune check-point inhibition
+  plugin: sources.py
+  file: sources.yaml
 - id: pubmed:40799573
   title: Transcriptome sequencing of Hodgkin lymphoma Hodgkin and Reed-Sternberg cells
     reveals escape from NK cell recognition and an unfolded protein response.
@@ -2740,27 +3194,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.thegreenjournal.com/cms/10.1016/j.radonc.2024.110618/asset/46e8dc12-dc11-4fef-ab32-f93a821536b4/main.assets/gr1.jpg
-- id: pubmed:40805133
-  title: Epigenetic Treatment Alters Immune-Related Gene Signatures to Increase the
-    Sensitivity of Anti PD-L1 Drugs.
-  authors:
-  - Chonji Fukumoto
-  - Pritam Sadhukhan
-  - Masahiro Shibata
-  - Muhammed T Ugurlu
-  - Rachel Goldberg
-  - David Sidransky
-  - Luigi Marchionni
-  - "Fenna C M Sill\xE9"
-  - Mohammad Obaidul Hoque
-  publisher: Cancers
-  date: '2025-07-23'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/40805133
-  tags:
-  - epigenetics
-  - immune check-point inhibition
-  plugin: sources.py
-  file: sources.yaml
 - id: pubmed:39111315
   title: The cytokine Meteorin-like inhibits anti-tumor CD8
   authors:
