@@ -1,3 +1,56 @@
+- id: "pubmed:42745000"
+  tags:
+    - "human blood development"
+
+- id: "pubmed:42717097"
+  tags:
+    - "mutational processes"
+    - "prostate cancer"
+    - "PPCG"
+
+- id: "pubmed:42716948"
+  tags:
+    - "mutational processes"
+    - "prostate cancer"
+    - "PPCG"
+
+- id: "pubmed:42020367"
+  tags:
+    - "Hodgkin Lymphoma"
+
+- id: "pubmed:41941260"
+
+- id: "pubmed:41838988"
+  tags:
+    - "small cell lung cancer"
+
+- id: "pubmed:41720768"
+  tags:
+    - "prostate cancer"
+    - "cell plasticity"
+
+- id: "pubmed:41700529"
+  tags:
+    - "flow cytometry"
+
+- id: "pubmed:41347231"
+  tags:
+    - "gene isoforms"
+    - "computational methods"
+
+- id: "pubmed:41219859"
+  tags:
+    - "COVID19"
+
+- id: "pubmed:41038821"
+  tags:
+    - "prostate cancer"
+    - "PPCG"
+
+- id: "pubmed:40805133"
+  tags:
+    - "cancer immunology"
+  
 - id: "pubmed:40799573"
   tags:
     - "gene expression"
